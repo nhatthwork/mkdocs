@@ -7,7 +7,7 @@ on:
 
 jobs:
   build-and-deploy:
-    runs-on: [self-hosted, windows]
+    runs-on: [self-hosted, linux] # <-- dùng self-hosted runner trên Ubuntu
 
     steps:
       - name: Checkout repository
@@ -20,21 +20,21 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Docker image
-        shell: cmd
+        shell: bash
         run: |
-          set IMAGE_NAME=nhatth29/knowlegebase
-          set COMMIT_SHA=%GITHUB_SHA%
-          echo Building image %IMAGE_NAME%:%COMMIT_SHA%
-          docker build -t %IMAGE_NAME%:%COMMIT_SHA% .
-          docker tag %IMAGE_NAME%:%COMMIT_SHA% %IMAGE_NAME%:latest
+          IMAGE_NAME=nhatth29/knowlegebase
+          COMMIT_SHA=${GITHUB_SHA}
+          echo "Building image $IMAGE_NAME:$COMMIT_SHA"
+          docker build -t $IMAGE_NAME:$COMMIT_SHA .
+          docker tag $IMAGE_NAME:$COMMIT_SHA $IMAGE_NAME:latest
 
       - name: Push Docker image
-        shell: cmd
+        shell: bash
         run: |
-          set IMAGE_NAME=nhatth29/knowlegebase
-          set COMMIT_SHA=%GITHUB_SHA%
-          docker push %IMAGE_NAME%:%COMMIT_SHA%
-          docker push %IMAGE_NAME%:latest
+          IMAGE_NAME=nhatth29/knowlegebase
+          COMMIT_SHA=${GITHUB_SHA}
+          docker push $IMAGE_NAME:$COMMIT_SHA
+          docker push $IMAGE_NAME:latest
 
       - name: Deploy to server via SSH
         uses: appleboy/ssh-action@v0.1.8
