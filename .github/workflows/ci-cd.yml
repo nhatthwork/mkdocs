@@ -20,6 +20,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
 
       - name: Build Docker image
+        shell: cmd
         run: |
           set IMAGE_NAME=nhatth29/knowlegebase
           set COMMIT_SHA=%GITHUB_SHA%
@@ -28,6 +29,7 @@ jobs:
           docker tag %IMAGE_NAME%:%COMMIT_SHA% %IMAGE_NAME%:latest
 
       - name: Push Docker image
+        shell: cmd
         run: |
           set IMAGE_NAME=nhatth29/knowlegebase
           set COMMIT_SHA=%GITHUB_SHA%
