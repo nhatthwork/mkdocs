@@ -46,3 +46,19 @@ jobs:
             cd /home/minvoice/knowlegebase
             docker compose pull
             docker compose up -d
+
+      - name: Notify Telegram
+        if: success()
+        uses: appleboy/telegram-action@master
+        with:
+          to: "5702962241"
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: "✅ Build & Push Docker image minvoicesys/knowlegae-base thành công! Version: ${{ github.ref#refs/tags/v }}"
+
+      - name: Notify Telegram Failure
+        if: failure() # Chỉ chạy khi job thất bại
+        uses: appleboy/telegram-action@master
+        with:
+          to: "5702962241"
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message: "❌ Build & Push Docker image minvoicesys/knowlegae-base thất bại! Version: ${{ github.ref#refs/tags/v }}. Kiểm tra workflow ngay!"
