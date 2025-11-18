@@ -53,7 +53,7 @@ jobs:
         with:
           to: "5702962241"
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: "✅ Build & Push Docker image minvoicesys/knowlegae-base thành công! Version: ${{ github.ref#refs/tags/v }}"
+          message: "✅ Build & Push Docker image minvoicesys/knowlegae-base thành công! Version: ${{ env.VERSION }}"
 
       - name: Notify Telegram Failure
         if: failure() # Chỉ chạy khi job thất bại
@@ -61,4 +61,4 @@ jobs:
         with:
           to: "5702962241"
           token: ${{ secrets.TELEGRAM_TOKEN }}
-          message: "❌ Build & Push Docker image minvoicesys/knowlegae-base thất bại! Version: ${{ github.ref#refs/tags/v }}. Kiểm tra workflow ngay!"
+          message: "❌ Build & Push Docker image minvoicesys/knowlegae-base thất bại! Version: ${{ env.VERSION }} Kiểm tra workflow ngay!"
