@@ -22,7 +22,7 @@ jobs:
       - name: Build Docker image
         shell: bash
         run: |
-          IMAGE_NAME=minvoicesys/knowlege-base
+          IMAGE_NAME=minvoicesys/knowlegae-base
           VERSION=${GITHUB_REF#refs/tags/v}  # Lấy version từ tag
           echo "Building image: $IMAGE_NAME:$VERSION"
           docker build -t $IMAGE_NAME:$VERSION .
@@ -31,7 +31,7 @@ jobs:
       - name: Push Docker image
         shell: bash
         run: |
-          IMAGE_NAME=minvoicesys/knowlege-base
+          IMAGE_NAME=minvoicesys/knowlegae-base
           VERSION=${GITHUB_REF#refs/tags/v}
           docker push $IMAGE_NAME:$VERSION
           docker push $IMAGE_NAME:latest
