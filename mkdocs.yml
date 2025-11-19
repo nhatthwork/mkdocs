@@ -368,6 +368,12 @@ nav:
               - Đăng nhập: mbhxh/dang-nhap.md
               - mbhxh/dashboard.md
               - mbhxh/dang-ky-tai-khoan.md
+              - mbhxh/dang-ky-xin-cap-ma.md
+              - mbhxh/them-ma-don-vi.md
+              - mbhxh/nhap-excel.md
+              - mbhxh/thay-doi-thong-tin.md
+              - mbhxh/cap-nhat-thong-tin-nld-theo-ma-don-vi.md
+              - mbhxh/cap-nhat-thong-tin-nld.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
               - ""
           - Nghiệp vụ bảo hiểm xã hội:
@@ -377,6 +383,10 @@ nav:
               - mbhxh/che-do-om-dau.md
               - mbhxh/che-do-thai-san.md
               - mbhxh/che-do-duong-suc.md
+              - mbhxh/ho-so-608-cap-lai-so-bhxh-do-thay-doi-thong-tin.md
+              - mbhxh/ho-so-607-cap-lai-so-bhxh-khong-thay-doi-thong-tin.md
+              - mbhxh/ho-so-604-dang-ky-thay-doi-thong-tin-don-vi.md
+              - mbhxh/ho-so-601-truy-dong.md
   - mSeller:
       - "":
           - "Hướng dẫn sử dụng trên máy POS 📱":
