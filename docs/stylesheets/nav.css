@@ -20,7 +20,8 @@
 #__nav_4_1_4_label,
 #__nav_4_1_5_label,
 #__nav_4_1_6_label,
-#__nav_4_1_7_label {
+#__nav_4_1_7_label,
+#__nav_4_1_8_label {
   font-weight: bold;
 }
 
@@ -92,6 +93,11 @@ li.md-nav__item a[href*="/minvoice2/lich-su-chinh-sua/"],
 li.md-nav__item a[href*="/minvoice1/lich-su-chinh-sua/"] {
   font-weight: bold !important;
   /*color: #1a73e8; /* tuỳ chọn màu */
+}
+
+/* CSS cho menu link ngoài */
+li.md-nav__item a[href*="wiki.minvoice.com.vn"] {
+  font-weight: bold !important;
 }
 
 li.md-nav__item a[href*="/minvoice2/tong-quan/"],
