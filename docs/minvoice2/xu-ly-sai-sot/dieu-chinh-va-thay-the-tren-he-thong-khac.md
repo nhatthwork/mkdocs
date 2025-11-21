@@ -76,6 +76,10 @@
 
     #### **Thay thế hoá đơn trên hệ thống khác**
 
+    ???+ note "Mục đích"
+
+        Đây là việc phát hành một hóa đơn điện tử mới để thay thế cho hóa đơn đã lập trên một hệ thống khác (ví dụ: hóa đơn do nhà cung cấp A phát hành trên phần mềm A, sau đó doanh nghiệp chuyển sang phần mềm B và muốn phát hành hóa đơn thay thế trên hệ thống B).
+
     ???+ Warning "Lưu ý"
 
         Thay thế hoá đơn (Áp dụng cho HĐ trong kỳ kê khai(chưa kê khai)) và chỉ được phép sử dụng nghiệp vụ thay thế hóa đơn với các điều kiện sau:
@@ -118,6 +122,10 @@
 === "Điều chỉnh hoá đơn trên hệ thống khác"
 
     #### **Điều chỉnh hoá đơn trên hệ thống khác**
+
+    ???+ note "Mục đích"
+
+        Đây là việc phát hành một hóa đơn điện tử mới để điều chỉnh cho hóa đơn đã lập trên một hệ thống khác (ví dụ: hóa đơn do nhà cung cấp A phát hành trên phần mềm A, sau đó doanh nghiệp chuyển sang phần mềm B và muốn phát hành hóa đơn điều chỉnh trên hệ thống B).
 
     ???+ Warning "Lưu ý"
 
