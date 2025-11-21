@@ -1,7 +1,5 @@
 # **Chuyển hóa đơn từ ký hiệu này sang ký hiệu khác**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Hướng dẫn chuyển hóa đơn từ ký hiệu này sang ký hiệu khác**
 
 Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương tự
