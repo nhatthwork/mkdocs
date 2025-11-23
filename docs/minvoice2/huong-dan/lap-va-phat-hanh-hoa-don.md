@@ -125,6 +125,16 @@
 
     Quý khách chọn phần **Ký và gửi cơ quan thuế** để ký hóa đơn và gửi hóa đơn lên thuế để được cấp mã
 
+    **Trình tự ký gửi**: Chờ ký > Đang ký > Đã ký > Đang gửi > Thành công/Có lỗi.
+
+    **Đang ký**: bắt đầu ấn ký hóa đơn. Nếu ký lỗi sẽ khôi phục trạng thái về Chờ ký hoặc sau 15'
+
+    **Đã ký**: Ký thành công và sẽ gửi lên TVAN
+
+    **Đang gửi**: đã gửi được lên TVAN và CQT tiếp nhận trả 999
+
+    **Thành công/Có lỗi**: đã được CQT xử lý và kết thúc quá trình ký gửi
+
     ![Hình 8](../../assets/images/invoice2/2.0_lap-va-phat-hanh-hoa-don_8.png "Hãy bấm vào để xem rõ hơn")
 
     Để gửi mail cho khách hàng quý khách chọn vào phần **Gửi mail hóa đơn**
