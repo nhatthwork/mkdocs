@@ -30,9 +30,14 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
 ![Hình 3](../../assets/images/invoice2/2.0_gui-mail_3.png "Hãy bấm vào để xem rõ hơn")
 
+**Trường hợp:** đã điền email của người mua vào hóa đơn thì không cần nhập lại, anh chị bấm Gửi mail sẽ mặc định lấy mail đã điền trong hóa đơn
+
 ### **Bước 4: Click "Gửi Email" để gửi email hóa đơn đi**
 
 ![Hình 4](../../assets/images/invoice2/2.0_gui-mail_4.png "Hãy bấm vào để xem rõ hơn")
+
+**Gửi email tự động:** trường hợp anh muốn gửi mail tự động sau khi ký. Anh/Chị truy cập mục `Hệ thống - Khai báo tham số hệ thống` tìm mã `TU_DONG_GUI_EMAIL` sửa thành `C`
+Lưu ý: để gửi được mail tự động anh chị cần phải điền sẵn mail người mua ở hóa đơn.
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

@@ -96,11 +96,11 @@
     ???+ note "Thông tin bên bán"
 
         Quý khách có thể sửa được mặc định của những thông tin này ở phần
-        Hệ thông --> Quản lý doanh nghiệp >> Thông tin doanh nghiệp [Hướng dẫn sửa](thayDoiThongTin.md#attribute-lists){ data-preview }
+        Hệ thông --> Quản lý doanh nghiệp >> Thông tin doanh nghiệp
 
     ???+ note "Thông tin người mua"
 
-        + **Mã số thuế** : Quý khách nhập mst của người mua sai đó nhấn tìm kiếm để hệ thống trả ra toàn bộ thông tin khách hàng
+        + **Mã số thuế** : Quý khách nhập mst của người mua sai đó nhấn tìm kiếm để hệ thống trả ra toàn bộ thông tin khách hàng (Cần kiểm tra lại thông tin)
 
         + **Tên đơn vị** : Tên công ty mua hàng
 
@@ -116,6 +116,9 @@
 
         Nhấn **Thêm dòng** để thêm 1 dòng hàng hóa mới
         Sau đó quý khách điền đầu đủ thông tin như **Tên hàng, Số lượng, Đơn giá, %VAT**
+
+        Trường hợp anh chị muốn để mặc định %VAT cho các lần lập sau anh chị truy cập Hệ thống - khai báo tham số hệ thống tìm đến Mã `DEFAULT_THUE_SUAT_GTGT` sửa thuế mặc định mà anh chị muốn
+
         Sau đó nhấn **Lưu** để lưu thông tin hóa đơn vào
         Quý khách cũng có thể xem trước hóa đơn mình muốn lập bằng nút **Xem trước** trên phần mềm
 
