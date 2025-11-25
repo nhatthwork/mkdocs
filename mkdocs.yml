@@ -262,8 +262,9 @@ nav:
               - minvoice2/huong-dan/chinh-thap-phan.md
               - minvoice2/huong-dan/gui-mail.md
               - minvoice2/huong-dan/ky-hang-loat.md
-              - minvoice2/huong-dan/nhap-excel-hang-loat.md
-              - minvoice2/huong-dan/nhap-excel-chi-tiet.md
+              - "Nhập excel hàng loạt hóa đơn và chi tiết dòng hàng":
+                  - minvoice2/huong-dan/nhap-excel-hang-loat.md
+                  - minvoice2/huong-dan/nhap-excel-chi-tiet.md
               - minvoice2/huong-dan/chuyen-ky-hieu.md
               - minvoice2/huong-dan/keo-bien-nd70.md
               - minvoice2/huong-dan/lay-macqt.md
@@ -271,6 +272,7 @@ nav:
               - minvoice2/huong-dan/them-nguoi-dung.md
               - minvoice2/huong-dan/phan-quyen.md
               - minvoice2/huong-dan/lay-mat-khau-dang-nhap.md
+              - minvoice2/huong-dan/cau-hinh-email-rieng-de-gui-hoa-don.md
           - "Các câu hỏi và lỗi thường gặp khi sử dụng phần mềm":
               - Các câu hỏi thường gặp: minvoice2/cac-cau-hoi-thuong-gap/cau-hoi-thuong-gap-ve-hoa-don-dien-tu.md
               - "Các lỗi thường gặp":
@@ -279,6 +281,7 @@ nav:
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-da-huy-bo-thao-tac-ky.md
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/huong-dan-xu-ly-loi-ky-bien-ban-bao-loi-vui-long-nang-cap-phien-ban-plugin-ky.md
                       - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/loi-ky-hoa-don-chua-cai-dat-plugin-tren-trinh-duyet-chrome.md
+                      - minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/loi-ky-ma-so-thue-cua-chung-thu-so-khac-ma-so-thue-tren-phan-mem.md
                   - Hướng dẫn khắc phục các lỗi truyền nhận từ CQT: minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md
                   - minvoice2/cac-loi-thuong-gap/sua-loi-so-dong-bi-sang-trang-khi-chua-het-trang.md
                   - minvoice2/cac-loi-thuong-gap/loi-so-serialNumber-chung-thu-so-da-ton-tai-tren-phan-mem.md

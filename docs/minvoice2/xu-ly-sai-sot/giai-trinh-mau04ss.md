@@ -74,11 +74,25 @@ description: "Sai địa chỉ người mua, sai tên người mua, lập giải
 
     ---
 
-## **Hướng dẫn lập giải trình 04ss**
+## **Hướng dẫn lập thông báo Mẫu 04/SS-HĐĐT**
+
+???+ Note "Các sai sót nhỏ có thể làm 04/SS dưới đây"
+
+    Sai sót nhỏ – Không làm thay đổi nội dung nghĩa vụ thuế:
+
+    ✅ Sai tên người mua → Không cần lập lại hóa đơn. → Gửi Mẫu 04/SS-HĐĐT cho Cơ quan thuế và thông báo cho bên mua.
+
+    ✅ Sai địa chỉ người mua → Không cần lập lại hóa đơn. → Gửi Mẫu 04/SS-HĐĐT cho Cơ quan thuế và thông báo cho bên mua.
+
+    ✅ Sai cả tên và địa chỉ nhưng đúng mã số thuế → Không cần lập lại hóa đơn. → Gửi Mẫu 04/SS-HĐĐT cho Cơ quan thuế và thông báo cho bên mua.\
+
+    Sai địa chỉ, Số điện thoại, email, ... và một số sai sót nhỏ không ảnh hưởng đến phần tiền.
+
+    📝 Anh chị có thể làm thông báo 04/SS theo hướng dẫn dưới nội dung này ⬇️
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### **Bước 1: Nhấn vào xử ký sai sót => Thông báo HĐ sai sót 04ss-HDDT**
+### **Bước 1: Nhấn vào xử lý sai sót => Thông báo HĐ sai sót 04ss-HDDT**
 
 ![Hình 1](../../assets/images/invoice2/2.0_giai-trinh_1.png "Hãy bấm vào để xem rõ hơn")
 
@@ -90,11 +104,11 @@ description: "Sai địa chỉ người mua, sai tên người mua, lập giải
 
 ![Hình 3](../../assets/images/invoice2/2.0_giai-trinh_3.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 4 : Chọn ký hiệu, số hoá đơn cần giải trình**
+### **Bước 4 : Chọn ký hiệu, số hoá đơn cần thông báo Mẫu 04/SS-HĐĐT**
 
 ![Hình 4](../../assets/images/invoice2/2.0_giai-trinh_4.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 5 : Chọn tính chất là => giải trình, điền lý do sai sót cụ thể và điên thông tin đúng**
+### **Bước 5 : Điền lý do sai sót cụ thể và điên thông tin đúng**
 
 ![Hình 5](../../assets/images/invoice2/2.0_giai-trinh_5.png "Hãy bấm vào để xem rõ hơn")
 
@@ -106,4 +120,4 @@ description: "Sai địa chỉ người mua, sai tên người mua, lập giải
 
 ![Hình 8](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jul 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Nov 25, 2025</strong> by <strong>nhatth</strong></div>

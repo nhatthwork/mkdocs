@@ -1,9 +1,9 @@
 ---
-title: Nhập excel hàng loạt
+title: Nhập excel hàng loạt hóa đơn
 description: Chức năng nhập Excel hàng loạt hóa đơn giúp tải lên nhiều hóa đơn cùng lúc, Nhập khẩu excel hàng loạt
 ---
 
-# **Nhập excel hàng loạt**
+# **Nhập excel hàng loạt hóa đơn**
 
 ## **Hướng dẫn nhập excel hàng loạt hoá đơn**
 
