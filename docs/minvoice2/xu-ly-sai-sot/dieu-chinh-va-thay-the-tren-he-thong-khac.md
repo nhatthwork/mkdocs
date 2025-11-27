@@ -78,7 +78,7 @@
 
     ???+ note "Mục đích"
 
-        Thay thế hóa đơn trên hệ thống cũ
+        Thay thế hóa đơn trên hệ thống cũ (ví du: hóa đơn từ hệ thống phần mềm Newinvoice hay bất cứ phần mềm nào khác mà muốn thay thế hóa đơn đó trên M-invoice)
 
         Đây là việc phát hành một hóa đơn điện tử mới để thay thế cho hóa đơn đã lập trên một hệ thống khác (ví dụ: hóa đơn do nhà cung cấp A phát hành trên phần mềm A, sau đó doanh nghiệp chuyển sang phần mềm B và muốn phát hành hóa đơn thay thế trên hệ thống B).
 
@@ -127,7 +127,7 @@
 
     ???+ note "Mục đích"
 
-        Điều chỉnh hóa đơn trên hệ thống cũ
+        Điều chỉnh hóa đơn trên hệ thống cũ (ví du: hóa đơn từ hệ thống phần mềm Newinvoice hay bất cứ phần mềm nào khác mà muốn điều chỉnh hóa đơn đó trên M-invoice)
 
         Đây là việc phát hành một hóa đơn điện tử mới để điều chỉnh cho hóa đơn đã lập trên một hệ thống khác (ví dụ: hóa đơn do nhà cung cấp A phát hành trên phần mềm A, sau đó doanh nghiệp chuyển sang phần mềm B và muốn phát hành hóa đơn điều chỉnh trên hệ thống B).
 
