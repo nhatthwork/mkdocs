@@ -2,7 +2,7 @@
 
 **Mục đích:**
 
-1. Cập nhật ký hiệu do thay đổi năm tài tính
+1. Cập nhật ký hiệu do thay đổi năm tài chính
 2. Muốn tạo thêm ký hiệu hóa đơn để sử dụng
 
 ## **Hướng dẫn Tạo và cập nhật ký hiệu mới**
