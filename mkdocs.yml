@@ -355,7 +355,6 @@ nav:
               - Dashboard mSMI: msmi/dashboard.md
               - Tra cứu hóa đơn: msmi/tra-cuu-va-tai-hoa-don.md
               - Kiểm tra tình trạng Mã số thuế: msmi/kiem-tra-mst.md
-              - Đồng bộ hóa đơn mua vào bán ra: msmi/dong-bo-hoa-don.md
               - msmi/dong-bo-chi-tiet-hoa-don.md
               - Đồng bộ thông báo sai sót 04/SS: msmi/dong-bo-04ss.md
               - Đồng bộ hoá đơn qua email: msmi/huong-dan-dong-bo-hoa-don-qua-email.md

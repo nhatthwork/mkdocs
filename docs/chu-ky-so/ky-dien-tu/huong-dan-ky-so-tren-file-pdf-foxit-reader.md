@@ -16,11 +16,11 @@ Khởi động Foxit Reader và mở tài liệu PDF mà bạn muốn ký chữ 
 
 Trên thanh công cụ của Foxit Reader, bạn tìm đến tab **Protect** > nhấn vào nút **Sign & Certify** > sau đó chọn **Place Signature**.
 
-![Hình 1](../../assets/images/chuKySo/ky-so-foxit-1.png)
+![Hình 1](../../assets/images/chuKySo/ky-so-foxit-1.png "Hãy bấm vào để xem rõ hơn")
 
 Chọn nơi bạn muốn ký chữ ký số trên file PDF Foxit Reader bằng cách vẽ vùng chữ nhật.
 
-![Hình 2](../../assets/images/chuKySo/ky-so-foxit-2.png)
+![Hình 2](../../assets/images/chuKySo/ky-so-foxit-2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 4: Chọn chứng thư số từ USB Token**
 
@@ -28,7 +28,7 @@ Sau khi chọn vị trí để đặt chữ ký, Foxit Reader sẽ hiển thị 
 
 Khung thông tin chữ ký số hiện lên. Bạn click **“Location”** để chọn đúng công ty cần ký. Click **“infor”** để xem thông tin chữ ký số (trường hợp trong token có nhiều dòng, nên làm bước này để chọn đúng dòng chứng thư số cần ký). Sau đó click **“Sign”** để tiền hành ký file PDF.
 
-![Hình 3](../../assets/images/chuKySo/ky-so-foxit-3.png)
+![Hình 3](../../assets/images/chuKySo/ky-so-foxit-3.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 5: Nhập mã PIN để xác thực**
 
@@ -38,7 +38,7 @@ Xuất hiện hộp thoại yêu cầu nhập mật khẩu để truy xuất đ�
 
 Nếu nhập đúng thông tin Mật khẩu của USB Token phần mềm sẽ ký số vào văn bản sẽ thấy xuất hiện thông tin của người ký ngay tại nơi đã chọn sẽ ký vào ở bước 3. Lúc này các bước ký số được xem như là hoàn tất.
 
-![Hình 4](../../assets/images/chuKySo/ky-so-foxit-4.png)
+![Hình 4](../../assets/images/chuKySo/ky-so-foxit-4.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 7: Kiểm tra lại văn bản**
 
@@ -48,9 +48,6 @@ Kiểm tra lại văn bản đã được ký thành công hay chưa bằng các
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 9](../../assets/images/invoice2/hotro.png)
-
-
-
+![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Jun 4, 2025</strong> by <strong>nhatth</strong></div>

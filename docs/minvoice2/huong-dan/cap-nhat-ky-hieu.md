@@ -1,6 +1,9 @@
 # **Tạo và cập nhật ký hiệu, mẫu hoá đơn mới**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+**Mục đích:**
+
+1. Cập nhật ký hiệu do thay đổi năm tài tính
+2. Muốn tạo thêm ký hiệu hóa đơn để sử dụng
 
 ## **Hướng dẫn Tạo và cập nhật ký hiệu mới**
 
@@ -19,7 +22,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
     + 1 là loại hóa đơn sử dụng
 
-    + C là có mã của cơ quan thuế, K là không mã cửa cơ quan thuế
+    + C là có mã của cơ quan thuế, K là không mã của cơ quan thuế
 
     + 23 đại diện cho 2 số cuối của năm hiện tại
 
@@ -76,4 +79,4 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Mar 27, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>
+<div class="last-updated">Last updated on <strong>Nov 26, 2025</strong> by <strong>NHATTH</strong></div>
