@@ -93,7 +93,7 @@
 
     **Thao tác cài đặt và thực hiện như sau**
 
-    Bước 1: Ở giao diện **"Hóa đơn đầu ra"** chọn phần **"Xử lý sai sót"** --> **Thay thế hóa đơn trên hệ thống khác**
+    Bước 1: Ở giao diện **"Hóa đơn đầu ra"** chọn phần **"Nghiệp vụ"** --> **Thay thế hóa đơn trên hệ thống khác**
 
     ![Hình 1](../../assets/images/invoice2/2.0_thay-the-khac_1.png)
 
@@ -144,7 +144,7 @@
 
         Quý anh chị có thể xem chi tiết các trường hợp điều chỉnh hóa đơn qua đây 📄 [Các trường hợp điều chỉnh hóa đơn](../xu-ly-sai-sot/dieu-chinh-hoa-don.md#attribute-lists){ data-preview }
 
-    Bước 1: Ở giao diện **"Hóa đơn đầu ra"** chọn phần **"Xử lý sai sót"** --> **Điều chỉnh hóa đơn trên hệ thống khác**
+    Bước 1: Ở giao diện **"Hóa đơn đầu ra"** chọn phần **"Nghiệp vụ"** --> **Điều chỉnh hóa đơn trên hệ thống khác**
 
     ![Hình 4](../../assets/images/invoice2/2.0_dieu-chinh-khac_1.png)
 

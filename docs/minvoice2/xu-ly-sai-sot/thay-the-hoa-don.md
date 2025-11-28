@@ -87,7 +87,7 @@
 
 ![Hình 1](../../assets/images/invoice2/2.0_thay-the-hoa-don_1.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 2: Chọn phần Xử lý sai sót --> Thay thế**
+### **Bước 2: Chọn phần Nghiệp vụ --> Thay thế**
 
 ![Hình 2](../../assets/images/invoice2/2.0_thay-the-hoa-don_2.png "Hãy bấm vào để xem rõ hơn")
 

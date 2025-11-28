@@ -84,7 +84,7 @@
 
 **Thao tác cài đặt và thực hiện như sau**
 
-### **Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh**
+### **Bước 1: Chọn hóa đơn cần điều chỉnh --> Nghiệp vụ --> Điều chỉnh**
 
 ![Hình 1](../../assets/images/invoice2/2.0_dieuchinhgiam_1.png "Hãy bấm vào để xem rõ hơn")
 

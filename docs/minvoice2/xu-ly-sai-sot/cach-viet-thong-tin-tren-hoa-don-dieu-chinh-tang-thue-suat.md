@@ -11,7 +11,7 @@ hide:
 
 Xem video hướng dẫn (đang cập nhật):
 
-Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh
+Bước 1: Chọn hóa đơn cần điều chỉnh --> Nghiệp vụ --> Điều chỉnh
 
 ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
 

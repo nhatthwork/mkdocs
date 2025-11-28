@@ -13,7 +13,7 @@ hide:
 
 <iframe style="width: 48rem; height: 550px" src="https://www.youtube.com/embed/iB3LzoRHo2s?si=Mb1M3STDQYhN320I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Bước 1: Chọn hóa đơn cần điều chỉnh --> Xử lý sai sót --> Điều chỉnh**
+**Bước 1: Chọn hóa đơn cần điều chỉnh --> Nghiệp vụ --> Điều chỉnh**
 
 ![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
 
