@@ -36,6 +36,8 @@ Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương t�
 
 ![Hình 4](../../assets/images/invoice2/2.0_gui-mail_4.png "Hãy bấm vào để xem rõ hơn")
 
+### **Cấu hình email tự động (tùy chọn)**
+
 **Gửi email tự động:** trường hợp anh muốn gửi mail tự động sau khi ký. Anh/Chị truy cập mục `Hệ thống - Khai báo tham số hệ thống` tìm mã `TU_DONG_GUI_EMAIL` sửa thành `C`
 Lưu ý: để gửi được mail tự động anh chị cần phải điền sẵn mail người mua ở hóa đơn.
 

@@ -41,10 +41,18 @@ Sử dụng để thêm mã hàng hoá, dịch vụ
 
     Như vậy là bạn đã tải file excel lên thành công
 
+=== "Kết xuất Excel danh mục hàng hóa"
+
+    **Mục đích:** Tải excel danh mục hàng hóa về để lưu trữ hoặc phân tích
+
+    ![Hình 6](../../assets/images/invoice2/2.0_danh-muc-hang-hoa_7.png "Hãy bấm vào để xem rõ hơn")
+
+    Anh chị chọn số lượng hàng hóa muốn kết xuất tối đa 300 hàng hóa -> Kết xuất excel, trường hợp anh chị nhiều hơn có thể kết xuất nhiều lần
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Nov 29, 2025</strong> by <strong>nhatth</strong></div>

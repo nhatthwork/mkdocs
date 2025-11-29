@@ -59,10 +59,24 @@ description: Chức năng nhập Excel hàng loạt hóa đơn giúp tải lên 
 !!! warning "Lưu ý"
 
     + Tính chất: NSD bắt buộc phải Nhập tính chất của dòng hàng.
-    Với 1 là Hàng hóa dịch vụ, 2 là Khuyến Mại, 3 là Chiết khấu thương mại, 4 là Ghi chú, diễn giải.
+    Với
+
+    `1` là Hàng hóa dịch vụ
+
+    `2` là Khuyến Mại
+
+    `3` là Chiết khấu thương mại
+
+    `4` là Ghi chú, diễn giải.
+
+    `5` là Hàng hóa đặc trưng (được quy định tại [Hàng hóa đặc trưng](https://hdsd.minvoice.com.vn/minvoice2/huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe/))
+
+
     Bắt buộc phải nhập
+
     + Số thứ tự: NSD nhập số thứ tự tương ứng với dòng hàng để tránh khi nhận bị nhảy dòng không đúng
-    + Phần trăm thuế: NSD nhập đúng phần trăm thuế là 5,10,7, -1 tương  với không chịu thuế và -2 tương ứng với không kê khai
+
+    + Phần trăm thuế: NSD nhập đúng phần trăm thuế là 5,10,7,8, -1 tương  với không chịu thuế (KCT) và -2 tương ứng với không kê khai(KKKNT)
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
@@ -70,4 +84,4 @@ description: Chức năng nhập Excel hàng loạt hóa đơn giúp tải lên 
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Nov 29, 2025</strong> by <strong>nhatth</strong></div>
