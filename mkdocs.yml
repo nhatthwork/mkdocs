@@ -236,6 +236,7 @@ nav:
               - Báo cáo chi tiết: minvoice1/danh-muc-bao-cao/bao-cao-chi-tiet.md
               - Báo cáo tổng hợp: minvoice1/danh-muc-bao-cao/bao-cao-tong-hop.md
               - Báo cáo bảng kê bán ra PL01: minvoice1/danh-muc-bao-cao/bao-cao-pl01.md
+          - "API Document": "https://wiki.minvoice.com.vn/s/2b6b1609-e648-4e47-89f1-d1127055b220"
           - "Lịch sử chỉnh sửa 🕑": minvoice1/lich-su-chinh-sua.md
   - M-invoice 2.0:
       - "":
@@ -426,6 +427,7 @@ nav:
       - "":
           - "Tài liệu kỹ thuật 🖥️":
               - tai-lieu/huong-dan-dinh-danh-to-chuc.md
+              - tai-lieu/tai-lieu-ky-thuat/huong-dan-dang-ky-tai-khoan-giao-dich-thue-dien-tu-cho-ho-kinh-doanh.md
           - "Tài liệu kinh doanh 💼":
               - tai-lieu/tai-lieu-kinh-doanh.md
           - "New-invoice":
