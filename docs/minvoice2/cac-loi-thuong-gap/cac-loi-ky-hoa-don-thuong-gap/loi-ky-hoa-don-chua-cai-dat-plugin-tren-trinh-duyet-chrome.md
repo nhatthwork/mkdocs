@@ -24,7 +24,7 @@ Nếu Anh/Chị dùng <span style="color: red; font-weight: bold;">Cốc cốc:<
 
 ![Hình 2](../../../assets/images/invoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/loi-plugin-tren-google-chrome-2.png "Hãy bấm vào để xem rõ hơn")
 
-### Bước 3: Reload chạy lại trình duyệt
+### Bước 3: Relaunch chạy lại trình duyệt
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
