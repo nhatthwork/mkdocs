@@ -80,7 +80,7 @@ description: "Sai địa chỉ người mua, sai tên người mua, lập giải
 
     Sai sót nhỏ – Không làm thay đổi nội dung nghĩa vụ thuế:
 
-    ✅ Sai tên người mua → Không cần lập lại hóa đơn. → Gửi Mẫu 04/SS-HĐĐT cho Cơ quan thuế và thông báo cho bên mua.
+    ✅ Sai tên người mua hàng → Không cần lập lại hóa đơn. → Gửi Mẫu 04/SS-HĐĐT cho Cơ quan thuế và thông báo cho bên mua.
 
     ✅ Sai địa chỉ người mua → Không cần lập lại hóa đơn. → Gửi Mẫu 04/SS-HĐĐT cho Cơ quan thuế và thông báo cho bên mua.
 
