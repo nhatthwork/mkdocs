@@ -8,15 +8,15 @@
 
 ## **Cách xử lý lỗi trên**
 
-### Bước 1: Vào trình duyệt Anh/Chị đang đăng nhập vào trang hóa đơn điện tử để ký hóa đơn
+### Bước 1: Truy câp trình duyệt Anh/Chị đang đăng nhập vào trang hóa đơn điện tử để ký hóa đơn dán các đường link tương ứng sau với trình duyệt anh chị đang sử dụng
 
 Dán link sau vào trình duyệt:
 
-Nếu Anh/Chị dùng <span style="color: red; font-weight: bold;">Google chrome:</span> chrome://flags/#local-network-access-check
+Nếu Anh/Chị dùng <span style="color: red; font-weight: bold;">Google chrome:</span> `chrome://flags/#local-network-access-check`
 
-Nếu Anh/Chị dùng <span style="color: red; font-weight: bold;">Microsoft edge:</span> edge://flags/#local-network-access-check
+Nếu Anh/Chị dùng <span style="color: red; font-weight: bold;">Microsoft edge:</span> `edge://flags/#local-network-access-check`
 
-Nếu Anh/Chị dùng <span style="color: red; font-weight: bold;">Cốc cốc:</span> coccoc://flags/#local-network-access-check
+Nếu Anh/Chị dùng <span style="color: red; font-weight: bold;">Cốc cốc:</span> `coccoc://flags/#local-network-access-check`
 
 ![Hình 2](../../../assets/images/invoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/loi-plugin-tren-google-chrome-1.png "Hãy bấm vào để xem rõ hơn")
 

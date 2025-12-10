@@ -414,6 +414,7 @@ nav:
               - mseller/may-tinh/bao-cao-chi-tiet.md
   - Chữ ký số:
       - "":
+          - "Công cụ & phần mềm cần thiết cho Dịch vụ công - Thuế – Hải quan": chu-ky-so/phan-mem.md
           - "Chữ ký số IntrustCA":
               - chu-ky-so/chu-ky-so-intrustca/them-cks-intrustca-vao-phan-mem-hoa-don.md
               - chu-ky-so/chu-ky-so-intrustca/thay-doi-cks-intrustca-tren-thue-dien-tu.md
