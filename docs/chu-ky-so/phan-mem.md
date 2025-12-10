@@ -239,7 +239,7 @@ hide:
 
 /* ------ SOFTWARE ITEM ------ */
 .software-mini {
-    padding: 15px 17px;
+    padding: 17px 19px;
     border-radius: 10px;
     background: #ffffff;
     border: 1px solid #e5e7eb;
@@ -280,8 +280,8 @@ hide:
 }
 
 .version-tag {
-    font-size: 13px;
-    padding: 4px 6px;
+    font-size: 14px;
+    padding: 5px 7px;
     background: #f3f4f6;
     border-radius: 6px;
     border: 1px solid #e5e7eb;
@@ -307,7 +307,7 @@ hide:
     display: flex;
     align-items: center;
     gap: 8px;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 700;
     margin: 20px 0 10px;
     color: #1f2937;
