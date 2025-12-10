@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tải phần mềm hỗ trợ chữ ký số</title>
+<!-- ----------- STYLE ----------- -->
+<style>
+body {
+    font-family: 'Segoe UI', 'Roboto', Arial, sans-serif;
+    background: linear-gradient(120deg, #ffffff 0%, #f5f8ff 100%);
+    color: #292b5a; margin:0; min-height:100vh;
+}
+.page-header {
+    width: 100%; display: flex; flex-direction: column; align-items: center; justify-content:center;
+    padding: 44px 12px 26px 12px; background: linear-gradient(120deg,#fafdff 45%, #f5f8ff 80%);
+    border-bottom: 2.5px solid #e5e9f9;
+}
+.invoice-logo { width: 150px; margin-bottom:18px; filter: drop-shadow(0 1.2px 1.5px #e2232a10);}
+.page-title { color: #282C7F; font-size: 2.36em; font-weight: 900; letter-spacing: 0.01em; margin:0 0 12px 0; text-align:center;}
+.page-desc { color: #e2232a; font-size:1.13em; margin-top:9px; opacity:.93; font-weight:500; text-align:center;}
+
+/* MENU */
+.top-nav {
+    width: 100%; max-width: 1080px; margin: 0 auto 32px auto; padding: 0 12px;
+    display: flex; align-items: center; gap: 30px; font-size: 1.10em; background: #fff;
+    border-radius: 13px; box-shadow: 0 2px 16px #d7dbfa2a; border: 1px solid #ecf0fc;
+    height: 48px; font-weight: 500; position: sticky; top: 0; z-index: 25;
+}
+.top-nav a {
+    text-decoration: none; color: #282c7f; padding: 0 13px; border-radius:8px; line-height:48px;
+    transition:background 0.19s, color 0.13s;
+}
+.top-nav a:hover, .top-nav a.active {
+    color: #E2232A; background: #fff4f4;
+}
+
+/* DANH MỤC */
+.category-block {
+    width: 100%; max-width: 1080px; margin: 0 auto 46px auto; padding:0 14px;
+    animation: fadeIn 1.06s cubic-bezier(.48,1.13,.73,1.12);
+}
+@keyframes fadeIn {0%{opacity:0;transform:translateY(40px);}100%{opacity:1;transform:none;}}
+
+/* TIÊU ĐỀ DANH MỤC */
+.cat-title {
+    display:flex;align-items:center; gap:16px;
+    font-size: 21px; font-weight: 900;
+    background:linear-gradient(96deg,#fff 60%,#f1f3fa 120%);
+    color: #282C7F; letter-spacing:0.01em;
+    border-left: 7px solid #E2232A; border-radius:14px 3px 3px 16px;
+    padding:13px 0 13px 21px; margin-bottom: 20px;
+    box-shadow: 0 2px 16px #e2232a0d;
+}
+.cat-icon {
+    width:36px;height:36px;border-radius:12px;flex-shrink:0;
+    background:linear-gradient(100deg,#fff1f3 65%,#ffd1df 140%);
+    box-shadow: 0 2px 10px #e2232a10; border: 2px solid #E2232A11;
+}
+
+/* LƯỚI PHẦN MỀM */
+.soft-grid {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(312px,1fr));
+    gap: 28px 30px; width: 100%; align-items: stretch;
+}
+.soft-item {
+    background:#fff; border:1.7px solid #ebeeff; padding: 28px 22px 22px 22px;
+    border-radius:17px; min-height: 145px;
+    box-shadow: 0 7px 30px 0 #e2232a11, 0 1.8px 10px #222c7f0b;
+    position:relative; overflow: visible; display:flex;flex-direction:column; min-width:0;
+    transition: box-shadow .21s, border-color .23s, transform .18s cubic-bezier(.46,1.12,.59,1.02); }
+.soft-item:hover {
+    border-color: #E2232A;
+    box-shadow: 0 16px 35px #e2232a24, 0 2.5px 13px #282c7f18;
+    transform: translateY(-7px) scale(1.028) rotate(-0.6deg);
+    z-index:2;}
+.soft-item::before {
+    content:"";
+    position:absolute; top:0; left:0; right:0; height:5px; border-radius:17px 17px 0 0;
+    background: linear-gradient(90deg, #E2232A 10%,#282C7F 100%);
+    opacity:0.11; transition: opacity .17s;}
+.soft-item:hover::before { opacity:0.25; }
+
+/* ĐẦU PHẦN MỀM */
+.soft-head { display:flex;align-items:center;gap:15px; margin-bottom:16px;}
+.soft-head img { width:44px; height:44px; border-radius:11px; background: #ebeefa;
+    padding:5px; box-shadow: 0 2px 18px #e2232a14; border:2.5px solid #f7dadd;}
+.soft-name { font-weight:700;font-size:20px;color:#282C7F; letter-spacing:0.01em; }
+
+/* CÁC NÚT LINK */
+.soft-tags { display:flex;gap:13px;flex-wrap:wrap; margin-top:7px;}
+.soft-tag {
+    font-size: 15px; padding: 10px 19px 10px 14px;
+    background: linear-gradient(90deg,#fafdff 55%, #f7ecf7 100%);
+    border-radius: 24px; border: 1.8px solid #f0f3ff; color: #282C7F;
+    cursor: pointer; font-weight: 500;
+    display: inline-flex; align-items:center; gap:7px; position:relative;
+    box-shadow: 0 1.5px 7px #e2232a0c;
+    transition: background .17s, color .17s, border-color .18s, transform .12s;
+}
+.soft-tag:hover, .soft-tag:focus {
+    background: linear-gradient(90deg,#fff4f8 60%, #ffe5e7 100%);
+    border-color: #E2232A; color: #E2232A;
+    box-shadow: 0 8px 25px #e2232a13, 0 1.5px 8px #282c7f14;
+    transform: scale(1.08);
+}
+.soft-tag a { color:inherit; text-decoration: none; font-weight: 500;display:flex;align-items:center;gap:6px;}
+.os-icon { width:18px; height:18px; vertical-align:middle; margin-right:7px;
+    opacity:.93; filter: drop-shadow(0 1px 2px #e2232a17); }
+.soft-badge {
+    display:inline-block;background:#282C7F;color:#fff;font-size:12px;font-weight:600;
+    border-radius:6px;padding:2.7px 8px 2px 8px;margin-left:8px;letter-spacing:0.02em;
+}
+
+.soft-tooltip { position:relative; }
+.soft-tipbox {
+    visibility: hidden; opacity:0; pointer-events: none;
+    position: absolute; bottom: 135%; left:50%; z-index:99; transform: translateX(-50%) scale(.94);
+    min-width:180px; padding: 13px 21px;
+    background: linear-gradient(110deg,#282C7F 35%,#E2232A 140%);
+    color: #fff; font-size: 14px; font-weight: 500;
+    border-radius: 10px; box-shadow: 0 7px 29px #282c7f41, 0 3px 12px #e2232a28;
+    border: 2px solid #E2232A; line-height:1.64; white-space: normal;
+    transition: opacity .25s, transform .16s; text-align:left;
+}
+.soft-tooltip:hover .soft-tipbox,.soft-tooltip:focus-within .soft-tipbox {opacity:1;visibility:visible;pointer-events:auto;transform: translateX(-50%) scale(1);}
+.soft-tipbox:after {
+    content:"";position:absolute;top:100%;left:50%;margin-left:-11px;
+    border-left:11px solid transparent; border-right:11px solid transparent; border-top:11px solid #E2232A;
+    filter: drop-shadow(0 2px 3px #282c7f78);
+}
+
+/* Responsive Mobile */
+@media (max-width:940px) { .soft-grid {grid-template-columns: repeat(auto-fit,minmax(225px,1fr));} }
+@media (max-width:600px) {
+    .soft-grid {grid-template-columns:1fr;}
+    .category-block, .top-nav, .page-header {padding:0 8px;}
+    .cat-title, .page-title {font-size:1.08em;}
+    .soft-head img {width:28px;height:28px;}
+    .soft-item {padding:13px 6px;}
+}
+::-webkit-scrollbar-thumb {background-color: #ed3035 !important; border-radius: 8px;}
+::-webkit-scrollbar {background:#f5f8ff;}
+</style>
+</head>
+<body>
+
+<!-- ===== HEADER + LOGO ===== -->
+<div class="page-header">
+  <img src="https://i.imgur.com/n93QmLQ.png" class="invoice-logo" alt="Invoice Logo">
+  <div class="page-title">Trang tải phần mềm hỗ trợ Chữ Ký Số</div>
+  <div class="page-desc">Đầy đủ phần mềm ký số doanh nghiệp, BHXH, thuế, hóa đơn, dịch vụ công...<br>Dễ dàng tải về & cập nhật mới nhất!</div>
+</div>
+
+<!-- ===== MENU ===== -->
+<div class="top-nav">
+  <a href="#" class="active">Tất cả</a>
+  <a href="#tax">Thuế điện tử</a>
+  <a href="#customs">Hải quan</a>
+  <a href="#gov">Dịch vụ công</a>
+  <a href="#bhxh">BHXH</a>
+</div>
+
+<!-- ===== CÁC DANH MỤC ===== -->
+<!-- PHẦN MỀM THUẾ -->
+<div class="category-block" id="tax">
+  <div class="cat-title">
+    <img src="../../assets/images/chuKySo/logo/thuedientu.png" class="cat-icon">
+    Phần mềm Thuế điện tử
+  </div>
+  <div class="soft-grid">
+    <!-- eSigner -->
+    <div class="soft-item">
+      <div class="soft-head">
+        <img src="../../assets/images/chuKySo/logo/esigner.png">
+        <span class="soft-name">eSigner</span>
+      </div>
+      <div class="soft-tags">
+        <span class="soft-tag">
+          <a href="https://www.fshare.vn/file/38ODMOB8XQLH?token=1765331853" target="_blank">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon"> Tải về
+            <span class="soft-badge">Win</span>
+           </a>
+        </span>
+      </div>
+    </div>
+    <!-- iTaxViewer -->
+    <div class="soft-item">
+      <div class="soft-head">
+        <img src="../../assets/images/chuKySo/logo/itax.png">
+        <span class="soft-name">iTaxViewer</span>
+      </div>
+      <div class="soft-tags">
+        <span class="soft-tag soft-tooltip">
+          <a href="../../assets/images/chuKySo/download/itax/iTaxViewer2.6.0.zip">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon"> Tải về
+            <span class="soft-badge">v2.6.0</span>
+          </a>
+          <span class="soft-tipbox">Ứng dụng đọc tờ khai thuế xml<br>Dùng cho mọi máy tính Windows</span>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PHẦN MỀM HẢI QUAN -->
+<div class="category-block" id="customs">
+  <div class="cat-title">
+    <img src="../../assets/images/chuKySo/logo/haiquan.png" class="cat-icon">
+    Hỗ trợ Hải quan/Java
+  </div>
+  <div class="soft-grid">
+    <div class="soft-item">
+      <div class="soft-head">
+        <img src="../../assets/images/chuKySo/logo/java.png">
+        <span class="soft-name">Java</span>
+      </div>
+      <div class="soft-tags">
+        <span class="soft-tag">
+          <a href="../../assets/images/chuKySo/download/java/jre-7u3-windows-i586.exe">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon"> JRE 7u3
+          </a>
+        </span>
+        <span class="soft-tag">
+          <a href="../../assets/images/chuKySo/download/java/jre-8u471-windows-x64.exe">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon"> JRE 8u471
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PHẦN MỀM DỊCH VỤ CÔNG / BHXH / ĐẤU THẦU -->
+<div class="category-block" id="gov">
+  <div class="cat-title">
+    <img src="../../assets/images/chuKySo/logo/dichvucongquocgia.png" class="cat-icon">
+    Dịch vụ công, BHXH, Đấu thầu
+  </div>
+  <div class="soft-grid">
+    <!-- DVCQG -->
+    <div class="soft-item">
+      <div class="soft-head">
+        <img src="../../assets/images/chuKySo/logo/dichvucongquocgia.png">
+        <span class="soft-name">Cổng Dịch vụ Công QG</span>
+      </div>
+      <div class="soft-tags">
+        <span class="soft-tag soft-tooltip">
+          <a href="https://dichvucong.gov.vn/jsp/dvc-common/download-public.jsp?type=public&filenameOrigin=VNPT-CA_Plugin_Office_Setup_1.0.4.6.zip&filename=VNPT-CA_Plugin_Office_Setup_1.0.4.6.zip">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon"> Plugin Win
+          </a>
+          <span class="soft-tipbox">Dung lượng: 84.6 MB<br>Bản Windows mới nhất</span>
+        </span>
+        <span class="soft-tag soft-tooltip">
+          <a href="https://dichvucong.gov.vn/jsp/dvc-common/download-public.jsp?type=public&filenameOrigin=VNPT-CA%20Plugin_macOS_1.0.1.2.zip&filename=VNPT-CA%20Plugin_macOS_1.0.1.2.zip">
+            <img src="../../assets/images/chuKySo/logo/macos.png" class="os-icon"> Plugin MacOS
+          </a>
+          <span class="soft-tipbox">Dung lượng: 75.8 MB<br>Dùng cho Macbook</span>
+        </span>
+      </div>
+    </div>
+    <!-- BHXH -->
+    <div class="soft-item">
+      <div class="soft-head">
+        <img src="../../assets/images/chuKySo/logo/logo-bao-hiem-xa-hoi-viet-nam.png">
+        <span class="soft-name">BHXH Việt Nam</span>
+      </div>
+      <div class="soft-tags">
+        <span class="soft-tag">
+          <a href="https://dichvucong.baohiemxahoi.gov.vn/#/tro-giup/redirect-download?link=https%253A%252F%252Fdichvucong.baohiemxahoi.gov.vn%253A8888%252Fdownload%252Fvss-declaration-Setup_2.0.7.19.exe">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon">EXE 2.0.7.19
+          </a>
+        </span>
+        <span class="soft-tag">
+          <a href="https://dichvucong.baohiemxahoi.gov.vn/#/tro-giup/redirect-download?link=https%253A%252F%252Fdichvucong.baohiemxahoi.gov.vn%253A8888%252Fdownload%252Fvss-declaration-Setup_2.0.7.19.msi">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon">MSI 2.0.7.19
+          </a>
+        </span>
+      </div>
+    </div>
+    <!-- Đấu thầu -->
+    <div class="soft-item">
+      <div class="soft-head">
+        <img src="../../assets/images/chuKySo/logo/he-thong-mang-dau-thau-quoc-gia.png">
+        <span class="soft-name">Đấu thầu quốc gia</span>
+      </div>
+      <div class="soft-tags">
+        <span class="soft-tag soft-tooltip">
+          <a href="https://muasamcong.mpi.gov.vn/api/unau/edocproxy/file/share/48cdafab5adb760ceed0be5518184cfa3580a557990ea7a240d3e599ed410bf7">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon"> Agent 2.0 (64bit)
+          </a>
+          <span class="soft-tipbox">Dung lượng: 86 MB<br>Windows 64bit</span>
+        </span>
+        <span class="soft-tag">
+          <a href="https://muasamcong.mpi.gov.vn/api/unau/edocproxy/file/share/526ae1a764e566c0467ff664bbcaf6a410d5d4ed889e3c9e435da4981059d65e">
+            <img src="../../assets/images/chuKySo/logo/windows.png" class="os-icon">Agent 2.0 (32bit)
+          </a>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ====== FOOTER NHẸ ======= -->
+<div style="max-width:1050px;margin:56px auto 23px auto;padding:0 16px;color:#bbb;font-size:15px;text-align:center;">
+    &copy; 2024 <b style="color:#282C7F;letter-spacing:1px;">Invoice</b> &nbsp;|&nbsp; Powered by <span style="color:#e2232a;">Digital Solution</span>
+</div>
+</body>
+</html>
