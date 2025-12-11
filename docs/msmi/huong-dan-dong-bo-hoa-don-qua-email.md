@@ -43,39 +43,39 @@
 
 - Tại trang Google click vào biểu tượng tài khoản ở góc trên bên phải màn hình
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-1.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-1.png "Hãy bấm vào để xem rõ hơn")
 
 - Chọn **Quản lý tài khoản Google của bạn**
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-2.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-2.png "Hãy bấm vào để xem rõ hơn")
 
 - Sau khi màn hình đổi đến giao diện **Quản lý tài khoản** click vào phần **Bảo mật**
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-3.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-3.png "Hãy bấm vào để xem rõ hơn")
 
 - Chọn **Xác minh 2 bước** trong phần **Bảo mật** và bật nó lên
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-4.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-4.png "Hãy bấm vào để xem rõ hơn")
 
 - Khi click vào **Xác minh 2 bước** Google có thể yêu cầu nhập mật khẩu đăng nhập gmail. Sau khi đăng nhập sẽ hiển thị màn hình bật **Xác minh 2 bước**
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-5.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-5.png "Hãy bấm vào để xem rõ hơn")
 
 - Thêm số điện thoại và các khóa khác ta có thể click vào nút **Bật tính năng Xác minh 2 bước** để khởi động tính năng xác minh 2 bước
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-6.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-6.png "Hãy bấm vào để xem rõ hơn")
 
 - Quay lại phần tìm kiếm trong quản lý tài khoản và tìm từ khóa **Mật khẩu ứng dụng** và click vào đó
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-7.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-7.png "Hãy bấm vào để xem rõ hơn")
 
 - Sau khi click vào **Mật khẩu ứng dụng** web sẽ hiển thị màn hình **Mật khẩu ứng dụng**
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-8.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-8.png "Hãy bấm vào để xem rõ hơn")
 
 - Nhập tên của ứng dụng cần tạo mật khẩu ứng dụng. Ví dụ nhập tên ứng dụng mSMI là Quanlyhoadon và click nút **Tạo**. Màn hình sẽ hiển thị mật khẩu ứng dụng được tạo cho ứng dụng này.
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-9.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-9.png "Hãy bấm vào để xem rõ hơn")
 
 ### **II. Tạo tài khoản nhận mail trên mSMI**
 
@@ -83,13 +83,13 @@
 
 - Đăng nhập vào trang Quản lý hóa đơn mSMI chọn Hộp thư -> **Danh sách tài khoản**
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-10.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-10.png "Hãy bấm vào để xem rõ hơn")
 
 - Sau khi màn hình hiển thị danh sách tài khoản mail chọn nút **Thêm** để hiện ra form thêm tài khoản nhận mail
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-11.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-11.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-12.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-12.png "Hãy bấm vào để xem rõ hơn")
 
 - Chi tiết các tham số khi thêm GMAIL vào phần mềm
 
@@ -135,11 +135,11 @@
   </tbody>
 </table>
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-14.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-14.png "Hãy bấm vào để xem rõ hơn")
 
 - Sau khi lưu màn hình trả về giao diện **Danh sách tài khoản**, có thông báo thành công ở góc trên bên phải màn hình và có thông tin tài khoản nhận mail mới được tạo trên danh sách tài khoản
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-15.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-15.png "Hãy bấm vào để xem rõ hơn")
 
 ## **C. ĐỒNG BỘ HÓA ĐƠN TỪ GMAIL**
 
@@ -147,9 +147,9 @@
 
 - Sau khi màn hình hiển thị danh sách tài khoản mail chọn nút **Thêm** để hiện ra form thêm tài khoản nhận mail
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-16.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-16.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-17.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-17.png "Hãy bấm vào để xem rõ hơn")
 
 - Chi tiết các tham số khi thêm GMAIL vào phần mềm
 
@@ -197,12 +197,12 @@
 
 - Sau khi lưu màn hình trả về giao diện **Danh sách tài khoản**, có thông báo thành công ở góc trên bên phải màn hình và có thông tin tài khoản nhận mail mới được tạo trên danh sách tài khoản
 
-![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-18.png)
+![Hình 3](../../assets/images/mSMI/dong-bo-qua-email-18.png "Hãy bấm vào để xem rõ hơn")
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 4](../../assets/images/mSMI/msmi_footer.png)
+![Hình 4](../../assets/images/mSMI/msmi_footer.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Oct 1 , 2025</strong> by <strong>NHATTH</strong></div>

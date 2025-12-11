@@ -4,11 +4,11 @@
 
 ### Bước 1: Truy cập vào phần mềm mSMI, ngay ở giao diện anh chị bấm vào đăng nhập lại
 
-![Hình 1](../../assets/images/mSMI/mmsi_dangNhapLai_1.png)
+![Hình 1](../../assets/images/mSMI/mmsi_dangNhapLai_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### Bước 2: Điền lại thông tin mật khẩu chính xác vào phần mềm
 
-![Hình 2](../../assets/images/mSMI/mmsi_dangNhapLai_2.png)
+![Hình 2](../../assets/images/mSMI/mmsi_dangNhapLai_2.png "Hãy bấm vào để xem rõ hơn")
 
 Tích thêm vào nhớ tài khoản để có thể kích hoạt tự động đồng bộ
 
@@ -20,9 +20,6 @@ Tích thêm vào nhớ tài khoản để có thể kích hoạt tự động đ
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/mSMI/msmi_footer.png)
-
-
-
+![Hình 5](../../assets/images/mSMI/msmi_footer.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Mar 10, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>

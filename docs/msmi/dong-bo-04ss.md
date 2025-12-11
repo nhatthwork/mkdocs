@@ -4,11 +4,11 @@
 
 ### Bước 1: Click chọn Quản lý hóa đơn >> Thông báo 04/SS :
 
-![Hình 1](../../assets/images/mSMI/msmi_dongBo04ss_1.png)
+![Hình 1](../../assets/images/mSMI/msmi_dongBo04ss_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### Bước 2: Anh chị điền vào các điều kiện mình muốn đồng bộ, sau đó bấm nút đồng bộ thủ công
 
-![Hình 2](../../assets/images/mSMI/msmi_dongBo04ss_2.png)
+![Hình 2](../../assets/images/mSMI/msmi_dongBo04ss_2.png "Hãy bấm vào để xem rõ hơn")
 
 Như vậy là mình đã thành công đồng bộ các thông báo sai sót 04/SS của đơn vị.
 
@@ -16,9 +16,6 @@ Như vậy là mình đã thành công đồng bộ các thông báo sai sót 04
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/mSMI/msmi_footer.png)
-
-
-
+![Hình 5](../../assets/images/mSMI/msmi_footer.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>Mar 10, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>
