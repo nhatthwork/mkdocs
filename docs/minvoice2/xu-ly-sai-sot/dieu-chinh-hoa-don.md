@@ -111,6 +111,8 @@
 
 [3.3. Điều chỉnh đơn vị tính của hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa#attribute-lists){ data-preview }
 
+[3.4. Điều chỉnh hình thức thanh toán](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan#attribute-lists){ data-preview }
+
 ## **Hướng dẫn lập biên bản hoá đơn điều chỉnh**
 
 ???+ Note "Căn cứ"
