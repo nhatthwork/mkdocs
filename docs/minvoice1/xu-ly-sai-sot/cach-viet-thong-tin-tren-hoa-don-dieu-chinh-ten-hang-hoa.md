@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# **Cách viết thông tin trên hóa đơn điều chỉnh đơn vị tính của hàng hóa**
+# **Cách viết thông tin trên hóa đơn điều chỉnh tên hàng hóa**
 
 ???+ Warning "Lưu ý"
 
@@ -11,18 +11,20 @@ hide:
 
 Xem video hướng dẫn (đang cập nhật):
 
-- Hóa đơn gốc ghi sai đơn vị tính của hàng hóa. Tên đơn vị tính của hàng hóa trên hóa đơn: 15 hộp( Nho mỹ), đơn vị tính đúng: 15 kg.
+**Điều chỉnh sai tên hàng**
 
-=> Lập hóa đơn điều chỉnh đơn vị tính của hàng hóa:
+- Hóa đơn gốc ghi sai tên hàng hóa. Tên hàng hóa trên hóa đơn: Quần bò nam, tên đúng: Quần bò nữ.
+
+=> Lập hóa đơn điều chỉnh tên hàng hóa:
 
 - Chọn **Tính chất** là **Ghi chú/diễn giải.**
 - Sau đó nhập nội dung điều chỉnh.
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-don-vi-tinh-1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-ten-hang-hoa-1.png "Hãy bấm vào để xem rõ hơn")
 
-Hóa đơn điều chinh tên đơn vị hiển thị thông tin điều chỉnh tương ứng.
+Hóa đơn điều chỉnh tên hàng hóa hiển thị thông tin điều chỉnh tương ứng.
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-don-vi-tinh-2.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-ten-hang-hoa-2.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Bắt buộc"
 
@@ -30,12 +32,12 @@ Hóa đơn điều chinh tên đơn vị hiển thị thông tin điều chỉnh
 
     Anh/Chị lập biên bản sau khi điều chỉnh theo hướng dẫn lập biên bản [tại đây.](../lap-bien-ban-hoa-don#attribute-lists){ data-preview }
 
-Xem thêm các trường hợp khác [tại đây.](../dieu-chinh-hoa-don#attribute-lists){ data-preview }
+Xem thêm các trường hợp khác [tại đây.](../dieu-chinh#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
+![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Sep 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Dec 15, 2025</strong> by <strong>nhatth</strong></div>

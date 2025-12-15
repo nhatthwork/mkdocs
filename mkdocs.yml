@@ -230,6 +230,19 @@ nav:
               - Hướng dẫn thao tác ký biên bản người mua: minvoice1/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md
               - Thay thế hóa đơn: minvoice1/xu-ly-sai-sot/thay-the.md
               - Điều chỉnh hóa đơn: minvoice1/xu-ly-sai-sot/dieu-chinh.md
+              - "Các trường hợp điều chỉnh hoá đơn":
+                  - "Điều chỉnh tăng đơn giá hàng hóa": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md
+                  - "Điều chỉnh tăng số lượng hàng hóa": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa.md
+                  - "Điều chỉnh tăng thuế suất": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat.md
+                  - "Điều chỉnh tăng thành tiền": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md
+                  - "Điều chỉnh giảm đơn giá hàng hóa": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa.md
+                  - "Điều chỉnh giảm số lượng hàng hóa": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa.md
+                  - "Điều chỉnh giảm thuế suất": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat.md
+                  - "Điều chỉnh giảm thành tiền": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md
+                  - "Điều chỉnh tên hàng hóa": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa.md
+                  - "Điều chỉnh mã số thuế người mua hàng": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang.md
+                  - "Điều chỉnh đơn vị tính của hàng hóa": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa.md
+                  - "Điều chỉnh hình thức thanh toán": minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan.md
               - Điều chỉnh hoá đơn về 0 (Tương đương huỷ hoá đơn): minvoice1/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
               - Thông báo 04/SS-HDDT sai sót theo NĐ70: minvoice1/xu-ly-sai-sot/lap-04ss.md
           - "Danh mục và báo cáo":
@@ -305,6 +318,7 @@ nav:
                   - "Điều chỉnh tên hàng hóa": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa.md
                   - "Điều chỉnh mã số thuế người mua hàng": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang.md
                   - "Điều chỉnh đơn vị tính của hàng hóa": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa.md
+                  - "Điều chỉnh hình thức thanh toán": minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan.md
               - Điều chỉnh hoá đơn về 0 (Tương đương hủy hóa đơn): minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md
               #    - setup/huy-hoa-don-hang-loat.md
               - minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md

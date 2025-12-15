@@ -13,7 +13,7 @@ Xem video hướng dẫn (đang cập nhật):
 
 **- Hóa đơn gốc ghi sai thông tin số lượng hàng hóa: Số lượng ghi trên hóa đơn 50, số lượng đúng là 30.**
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-giam-so-luong-1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-giam-so-luong-1.png "Hãy bấm vào để xem rõ hơn")
 
 ==> Lập hóa đơn điều chỉnh giảm số lượng hàng hóa xuống 20. Số lượng giảm dẫn đến thành tiền theo số lượng giảm, tiền thuế giảm, tổng tiền thanh toán giảm, kế toán lập hóa đơn điều chỉnh khai báo nội dung như sau:
 
@@ -21,11 +21,11 @@ Xem video hướng dẫn (đang cập nhật):
 
 - Bấm thêm dòng chọn **Tính chất** là **Ghi chú, diễn giải** điền nội dung điều chỉnh vào **Tên hàng hóa**
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-giam-so-luong-2.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-giam-so-luong-2.png "Hãy bấm vào để xem rõ hơn")
 
 **Hóa đơn điều chỉnh tăng đơn giá bán hàng hóa hiển thị các thông tin điều chỉnh tương ứng.**
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-giam-so-luong-3.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-giam-so-luong-3.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Bắt buộc"
 
@@ -33,7 +33,7 @@ Xem video hướng dẫn (đang cập nhật):
 
     Anh/Chị lập biên bản sau khi điều chỉnh theo hướng dẫn lập biên bản [tại đây.](../lap-bien-ban-hoa-don#attribute-lists){ data-preview }
 
-Xem thêm các trường hợp khác [tại đây.](../dieu-chinh-hoa-don#attribute-lists){ data-preview }
+Xem thêm các trường hợp khác [tại đây.](../dieu-chinh#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

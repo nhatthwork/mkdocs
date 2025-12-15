@@ -3,29 +3,27 @@ hide:
   - toc
 ---
 
-# **Cách viết thông tin trên hóa đơn điều chỉnh mã số thuế người mua hàng**
+# **Cách viết thông tin trên hóa đơn điều chỉnh hình thức thanh toán**
 
 ???+ Warning "Lưu ý"
 
     Cách ghi thông tin dưới đây không có trong quy định của CQT, đơn vị tham khảo ý kiến CQT trước khi thực hiện.
 
-???+ Note "Khuyến nghị"
-
-    Trường hợp sai mã thuế chưa kê khai hóa đơn Anh/Chị nên làm hóa đơn thay thế, vì hiện tại thuế quản lý hóa đơn đầu vào và đầu ra
-
 Xem video hướng dẫn (đang cập nhật):
 
-Lập hóa đơn điều chỉnh mã số thuế người mua hàng:
+- Hóa đơn gốc ghi sai hình thức thanh toán. Hình thức thanh toán ghi sai là "Tiền mặt", HTTT đúng: "Chuyển khoản".
 
-- Khai báo mã số thuế đúng của người mua hàng.
+=> Lập hóa đơn điều chỉnh hình thức thanh toán:
+
+- Chọn đúng HTTT đúng là **Chuyển khoản**
 - Chọn **Tính chất** là **Ghi chú/diễn giải.**
-- Sau đó nhập nội dung điều chỉnh.
+- Sau đó nhập nội dung điều chỉnh vào tên hàng hóa.
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-ma-so-thue-1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v2_dieu-chinh-hinh-thuc-thanh-toan_1.png "Hãy bấm vào để xem rõ hơn")
 
-Hóa đơn điều chỉnh mã số thuế người mua hiển thị thông tin điều chỉnh tương ứng.
+Hóa đơn điều chinh hình thức thanh toán hiển thị thông tin điều chỉnh tương ứng.
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-ma-so-thue-2.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v2_dieu-chinh-hinh-thuc-thanh-toan_2.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Bắt buộc"
 
@@ -41,4 +39,4 @@ Xem thêm các trường hợp khác [tại đây.](../dieu-chinh-hoa-don#attrib
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Sep 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Dec 15, 2025</strong> by <strong>nhatth</strong></div>

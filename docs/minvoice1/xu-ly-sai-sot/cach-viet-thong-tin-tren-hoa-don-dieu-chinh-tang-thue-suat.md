@@ -13,17 +13,17 @@ Xem video hướng dẫn (đang cập nhật):
 
 Bước 1: Chọn hóa đơn cần điều chỉnh --> Nghiệp vụ --> Điều chỉnh
 
-![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-thue-suat-1.png "Hãy bấm vào để xem rõ hơn")
 
 **Anh chị có thể chọn lại hàng hóa cũ đỡ mất công nhập lại**
 
-![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_3.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-thue-suat-2.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_4.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-thue-suat-3.png "Hãy bấm vào để xem rõ hơn")
 
 Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòng đó và chọn đúng thuế suất đúng
 
-![Hình 2](../../assets/images/invoice2/2.0_dieu-chinh-thue-suat_5.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-thue-suat-4.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Bắt buộc"
 
@@ -31,12 +31,12 @@ Bước 2: Ghi âm hoàn toàn dòng sai thuế suất và ghi lại đúng dòn
 
     Anh/Chị lập biên bản sau khi điều chỉnh theo hướng dẫn lập biên bản [tại đây.](../lap-bien-ban-hoa-don#attribute-lists){ data-preview }
 
-Xem thêm các trường hợp khác [tại đây.](../dieu-chinh-hoa-don#attribute-lists){ data-preview }
+Xem thêm các trường hợp khác [tại đây.](../dieu-chinh#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
+![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Sep 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Dec 15, 2025</strong> by <strong>nhatth</strong></div>

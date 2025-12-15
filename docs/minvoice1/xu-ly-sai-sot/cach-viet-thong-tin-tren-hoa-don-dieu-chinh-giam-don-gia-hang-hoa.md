@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# **Cách viết thông tin trên hóa đơn điều chỉnh giảm Số lượng hàng hóa**
+# **Cách viết thông tin trên hóa đơn điều chỉnh giảm đơn giá hàng hóa**
 
 ???+ Warning "Lưu ý"
 
@@ -11,21 +11,21 @@ hide:
 
 Xem video hướng dẫn (đang cập nhật):
 
-**- Hóa đơn gốc ghi sai thông tin số lượng hàng hóa: Số lượng ghi trên hóa đơn 50, số lượng đúng là 30.**
+**- Hóa đơn gốc ghi sai thông tin đơn giá hàng hóa: Đơn giá ghi trên hóa đơn 250.000 VNĐ, đơn giá đúng là 200.000 VNĐ.**
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-giam-so-luong-1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-giam-don-gia-1.png "Hãy bấm vào để xem rõ hơn")
 
-==> Lập hóa đơn điều chỉnh giảm số lượng hàng hóa xuống 20. Số lượng giảm dẫn đến thành tiền theo số lượng giảm, tiền thuế giảm, tổng tiền thanh toán giảm, kế toán lập hóa đơn điều chỉnh khai báo nội dung như sau:
+==> Lập hóa đơn điều chỉnh giảm đơn giá bán hàng hóa xuống 50.000 VNĐ. Đơn giá giảm dẫn đến thành tiền theo đơn giá giảm, tiền thuế giảm, tổng tiền thanh toán giảm, kế toán lập hóa đơn điều chỉnh khai báo nội dung như sau:
 
-- Khai báo giá trị âm số lượng hàng hóa giảm và các giá trị liên quan thay đổi khi số lượng giảm gồm: **Thành tiền, Tổng tiền hàng, Tiền thuế GTGT, Tổng tiền thanh toán.**
+- Khai báo giá trị âm đơn giá giảm và các giá trị liên quan thay đổi khi đơn giá giảm gồm: **Thành tiền, Tổng tiền hàng, Tiền thuế GTGT, Tổng tiền thanh toán.**
 
 - Bấm thêm dòng chọn **Tính chất** là **Ghi chú, diễn giải** điền nội dung điều chỉnh vào **Tên hàng hóa**
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-giam-so-luong-2.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-giam-don-gia-2.png "Hãy bấm vào để xem rõ hơn")
 
 **Hóa đơn điều chỉnh tăng đơn giá bán hàng hóa hiển thị các thông tin điều chỉnh tương ứng.**
 
-![Hình 1](../../assets/images/xu-ly-sai-sot/v2-dieu-chinh-giam-so-luong-3.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](../../assets/images/xu-ly-sai-sot/v1-dieu-chinh-giam-don-gia-3.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Bắt buộc"
 
@@ -33,7 +33,7 @@ Xem video hướng dẫn (đang cập nhật):
 
     Anh/Chị lập biên bản sau khi điều chỉnh theo hướng dẫn lập biên bản [tại đây.](../lap-bien-ban-hoa-don#attribute-lists){ data-preview }
 
-Xem thêm các trường hợp khác [tại đây.](../dieu-chinh-hoa-don#attribute-lists){ data-preview }
+Xem thêm các trường hợp khác [tại đây.](../dieu-chinh#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
