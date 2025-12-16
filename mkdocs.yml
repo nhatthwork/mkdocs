@@ -110,6 +110,13 @@ plugins:
   - minify:
       minify_html: true
   - glightbox
+  - git-authors
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      locale: vi
+      timezone: Asia/Ho_Chi_Minh
+      fallback_to_build_date: true
 
 # Hooks
 hooks:
@@ -275,6 +282,7 @@ nav:
           - "Các chứng năng hay sử dụng":
               - minvoice2/huong-dan/in-hang-loat.md
               - minvoice2/huong-dan/cap-nhat-ky-hieu.md
+              - minvoice2/huong-dan/huong-dan-tao-ky-hieu-moi-theo-loai-hoa-don-su-dung.md
               - minvoice2/huong-dan/chinh-thap-phan.md
               - minvoice2/huong-dan/gui-mail.md
               - minvoice2/huong-dan/ky-hang-loat.md

@@ -1,11 +1,10 @@
-# **Tạo và cập nhật ký hiệu, mẫu hoá đơn mới**
+# **Cập nhật ký hiệu do thay đổi năm tài chính**
 
 **Mục đích:**
 
 1. Cập nhật ký hiệu do thay đổi năm tài chính
-2. Muốn tạo thêm ký hiệu hóa đơn để sử dụng
 
-## **Hướng dẫn Tạo và cập nhật ký hiệu mới**
+## **Hướng dẫn cập nhật ký hiệu do thay đổi năm tài chính**
 
 ???+ Note "Ghi chú"
 
@@ -57,30 +56,8 @@
 
     Như vậy là bạn đã tạo thành công ký hiệu cho năm tài chính mới 2026
 
-=== "Tạo ký hiệu mới"
-
-    Bước 1: Bạn truy cập vào phần **Đăng ký phát hành → Mẫu hóa đơn**
-
-    ![Hình 1](../../assets/images/invoice2/2.0_cap-nhat-ky-hieu_2.png "Hãy bấm vào để xem rõ hơn")
-
-    Bước 2: Bấm thêm và chọn mẫu hoá đơn cần tạo
-
-    ![Hình 2](../../assets/images/invoice2/2.0_cap-nhat-ky-hieu_5.png "Hãy bấm vào để xem rõ hơn")
-
-    ![Hình 3](../../assets/images/invoice2/2.0_cap-nhat-ky-hieu_6.png "Hãy bấm vào để xem rõ hơn")
-
-    Bước 3: Chỉnh sửa ký hiệu
-
-    ![Hình 4](../../assets/images/invoice2/2.0_cap-nhat-ky-hieu_7.png "Hãy bấm vào để xem rõ hơn")
-
-    Bấm lưu để tạo ký hiệu hoá đơn mới
-
-    Như vậy là bạn đã tạo thành công ký hiệu mới
-
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
-
-<div class="last-updated">Last updated on <strong>Dec 12, 2025</strong> by <strong>NHATTH</strong></div>
