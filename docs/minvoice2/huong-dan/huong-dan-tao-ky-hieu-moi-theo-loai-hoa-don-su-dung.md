@@ -119,6 +119,24 @@ Chọn mẫu theo NĐ70 để có CCCD, Mã ĐVQNHS, Số hộ chiếu
 
 ![Hình 5](../../assets/images/invoice2/2.0_tao-ky-hieu_7.png "Hãy bấm vào để xem rõ hơn")
 
+??? danger "Trường hợp lưu thành công nhưng không thấy hiện ký hiệu ở "Hóa đơn đầu ra""
+
+    ### Trường hợp lưu thành công nhưng không thấy hiện ký hiệu ở "Hóa đơn đầu ra"
+
+    Truy câp **hệ thống - người sử dụng**
+
+    ![Hình 5](../../assets/images/invoice2/2.0_tao-ky-hieu_8.png "Hãy bấm vào để xem rõ hơn")
+
+    Bấm vào tài khoản đang sử sụng -> Phân quyền
+
+    ![Hình 5](../../assets/images/invoice2/2.0_tao-ky-hieu_9.png "Hãy bấm vào để xem rõ hơn")
+
+    Tích chọn vào ký hiệu vừa tạo  -> Bấm Lưu
+
+    ![Hình 5](../../assets/images/invoice2/2.0_tao-ky-hieu_10.png "Hãy bấm vào để xem rõ hơn")
+
+    Load lại trang và truy cập mục Hóa đơn đầu ra để thấy ký hiệu vừa tạo
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
