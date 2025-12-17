@@ -110,13 +110,6 @@ plugins:
   - minify:
       minify_html: true
   - glightbox
-  - git-authors
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: date
-      locale: vi
-      timezone: Asia/Ho_Chi_Minh
-      fallback_to_build_date: true
 
 # Hooks
 hooks:

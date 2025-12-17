@@ -61,3 +61,5 @@
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
+
+<div class="last-updated">Last updated on <strong>Dec 16, 2025</strong> by <strong>nhatth</strong></div>

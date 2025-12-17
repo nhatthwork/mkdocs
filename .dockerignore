@@ -1,4 +1,5 @@
 ﻿.cache
 .github
+.git
 node_modules
 src

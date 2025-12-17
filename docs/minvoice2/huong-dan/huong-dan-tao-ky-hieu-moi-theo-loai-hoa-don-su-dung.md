@@ -31,41 +31,55 @@
 
         **Ký hiệu hóa đơn điện tử**
 
-        Căn cứ theo điểm b, khoản 1, Điều 5 Thông tư 32/2025/TT-BTC có quy định ký hiệu hóa đơn điện tử gồm 6 ký tự (chữ và số), thể hiện loại hóa đơn, năm lập và hình thức có mã hoặc không mã của cơ quan thuế. Cụ thể:
+        Căn cứ theo **điểm b, khoản 1, Điều 5 Thông tư 32/2025/TT-BTC** có quy định ký hiệu hóa đơn điện tử gồm **6 ký tự (chữ và số)**, thể hiện loại hóa đơn, năm lập và hình thức có mã hoặc không mã của cơ quan thuế. Cụ thể:
 
-        Ký tự đầu (1 chữ cái):
-        C: Hóa đơn có mã của cơ quan thuế
-        K: Hóa đơn không có mã của cơ quan thuế
-        Hai ký tự tiếp (2 chữ số): Thể hiện năm lập hóa đơn (2 số cuối năm dương lịch). Ví dụ: 2025 → 25
-        Ký tự thứ 4 (1 chữ cái): Thể hiện loại hóa đơn điện tử sử dụng:
-        T: Hóa đơn Doanh nghiệp, tổ chức, hộ, cá nhân kinh doanh đăng ký sử dụng;
-        D: Hóa đơn tài sản công và hóa đơn bán hàng dự trữ quốc gia hoặc hóa đơn điện tử đặc thù không nhất thiết phải có một số tiêu thức do các doanh nghiệp, tổ chức đăng ký sử dụng;
-        L: Hóa đơn Cơ quan thuế cấp theo từng lần phát sinh;
-        M: Hóa đơn khởi tạo từ máy tính tiền;
-        N: Phiếu xuất kho kiêm vận chuyển nội bộ;
-        : Phiếu xuất kho gửi bán đại lý điện;
-        G: Tem, vé, thẻ điện tử là hóa đơn GTGT;
-        : Tem, vé, thẻ điện tử là hóa đơn bán hàng;
-        X: Hóa đơn thương mại điện tử;
-         ký tự cuối (2 chữ cái): Do người bán tự xác định để quản lý mẫu hóa đơn. Nếu không có nhu cầu quản lý → dùng mặc định “YY”
+        **Ký tự đầu (1 chữ cái)**:
+
+        **C:** Hóa đơn có mã của cơ quan thuế
+
+        **K:** Hóa đơn không có mã của cơ quan thuế
+
+        **Hai ký tự tiếp (2 chữ số)**: Thể hiện năm lập hóa đơn (2 số cuối năm dương lịch). Ví dụ: 2025 → 25
+
+        **Ký tự thứ 4 (1 chữ cái)**: Thể hiện loại hóa đơn điện tử sử dụng:
+
+        **T:** Hóa đơn Doanh nghiệp, tổ chức, hộ, cá nhân kinh doanh đăng ký sử dụng;
+
+        **D:** Hóa đơn tài sản công và hóa đơn bán hàng dự trữ quốc gia hoặc hóa đơn điện tử đặc thù không nhất thiết phải có một số tiêu thức do các doanh nghiệp, tổ chức đăng ký sử dụng;
+
+        **L:** Hóa đơn Cơ quan thuế cấp theo từng lần phát sinh;
+
+        **M:** Hóa đơn khởi tạo từ máy tính tiền;
+
+        **N:** Phiếu xuất kho kiêm vận chuyển nội bộ;
+
+        **B:** Phiếu xuất kho gửi bán đại lý điện;
+
+        **G:** Tem, vé, thẻ điện tử là hóa đơn GTGT;
+
+        **H:** Tem, vé, thẻ điện tử là hóa đơn bán hàng;
+
+        **X:** Hóa đơn thương mại điện tử;
+
+        **ký tự cuối (2 chữ cái):** Do người bán tự xác định để quản lý mẫu hóa đơn. Nếu không có nhu cầu quản lý → dùng mặc định “YY”
         Tại bản thể hiện, ký hiệu hóa đơn điện tử và ký hiệu mẫu số hóa đơn điện tử được thể hiện ở phía trên bên phải của hóa đơn (hoặc ở vị trí dễ nhận biết);
 
-        Như vậy, theo quy định tại Thông tư 32/2025/TT-BTC thì bản thể hiện, ký hiệu hóa đơn điện tử và ký hiệu mẫu số hóa đơn điện tử được thể hiện chung bằng 1 chuỗi bao gồm 7 ký tự. Trong đó, ký tự đầu tiên thể hiện ký hiệu mẫu số hóa đơn, 6 ký hiệu tiếp theo thể hiện ký hiệu hóa đơn điện tử.
+        Như vậy, theo quy định tại **Thông tư 32/2025/TT-BTC** thì bản thể hiện, ký hiệu hóa đơn điện tử và ký hiệu mẫu số hóa đơn điện tử được thể hiện chung bằng 1 chuỗi bao gồm 7 ký tự. Trong đó, ký tự đầu tiên thể hiện ký hiệu mẫu số hóa đơn, 6 ký hiệu tiếp theo thể hiện ký hiệu hóa đơn điện tử.
 
         Ví dụ thể hiện các ký tự của ký hiệu mẫu hóa đơn điện tử và ký hiệu hóa đơn điện tử theo Thông tư 32/2025/TT-BTC:
 
         | Ký hiệu, mẫu số hóa đơn điện tử | Ý nghĩa |
         |-------------------------------|---------|
-        | 1C25TAA | Hóa đơn giá trị gia tăng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế |
-        | 1C25MAA | Hóa đơn giá trị gia tăng máy tính tiền được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế |
-        | 2C25TBB | Hóa đơn bán hàng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức, hộ cá nhân kinh doanh đăng ký sử dụng với cơ quan thuế |
-         2C25MBB | Hóa đơn bán hàng máy tính tiền được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức, hộ cá nhân kinh doanh đăng ký sử dụng với cơ quan thuế |
-        | 1C25LBB | Hóa đơn giá trị gia tăng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử của cơ quan thuế cấp theo từng lần phát sinh |
-        | 1K25TYY | Hóa đơn giá trị gia tăng loại không có mã được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế |
-        | 1K25DAA | Hóa đơn giá trị gia tăng loại không có mã được lập năm 2025 và là hóa đơn điện tử đặc thù không nhất thiết phải có một số tiêu thức bắt buộc do các doanh nghiệp, tổ chức đăng ký sử dụng |
-        | 6K25NAB | Phiếu xuất kho kiêm vận chuyển nội bộ điện tử loại không có mã được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế |
-        | 6K25BAB | Phiếu xuất kho hàng gửi bán đại lý điện tử loại không có mã được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế |
-        | 7K25XAB | Hóa đơn thương mại điện tử được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế |
+        | **1C25TAA** | Hóa đơn giá trị gia tăng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế |
+        | **1C25MAA** | Hóa đơn giá trị gia tăng máy tính tiền được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế |
+        | **2C25TBB** | Hóa đơn bán hàng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức, hộ cá nhân kinh doanh đăng ký sử dụng với cơ quan thuế |
+         **2C25MBB** | Hóa đơn bán hàng máy tính tiền được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức, hộ cá nhân kinh doanh đăng ký sử dụng với cơ quan thuế |
+        | **1C25LBB** | Hóa đơn giá trị gia tăng có mã của cơ quan thuế được lập năm 2025 và là hóa đơn điện tử của cơ quan thuế cấp theo từng lần phát sinh |
+        | **1K25TYY** | Hóa đơn giá trị gia tăng loại không có mã được lập năm 2025 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế |
+        | **1K25DAA** | Hóa đơn giá trị gia tăng loại không có mã được lập năm 2025 và là hóa đơn điện tử đặc thù không nhất thiết phải có một số tiêu thức bắt buộc do các doanh nghiệp, tổ chức đăng ký sử dụng |
+        | **6K25NAB** | Phiếu xuất kho kiêm vận chuyển nội bộ điện tử loại không có mã được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế |
+        | **6K25BAB** | Phiếu xuất kho hàng gửi bán đại lý điện tử loại không có mã được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế |
+        | **7K25XAB** | Hóa đơn thương mại điện tử được lập năm 2025 do doanh nghiệp đăng ký với cơ quan thuế |
 
 ## **Tạo mẫu hóa đơn theo loại hóa đơn sử dụng trên phần mềm M-invoice**
 
@@ -110,3 +124,5 @@ Chọn mẫu theo NĐ70 để có CCCD, Mã ĐVQNHS, Số hộ chiếu
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
+
+<div class="last-updated">Last updated on <strong>Dec 16, 2025</strong> by <strong>nhatth</strong></div>

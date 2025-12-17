@@ -12,9 +12,6 @@ RUN pip install --no-cache-dir \
     mkdocs-material \
     mkdocs-minify-plugin \
     mkdocs-glightbox \
-    mkdocs-git-revision-date-localized-plugin \
-    mkdocs-git-authors-plugin \
-    mkdocs-recently-updated-docs
 
 # Ensure the overrides directory is copied
 # COPY ./material/overrides /docs/material/overrides
