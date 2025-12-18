@@ -94,6 +94,8 @@ extra_css:
   - stylesheets/extra.css
   - stylesheets/card.css
   - stylesheets/nav.css
+  - stylesheets/icon.css
+  - stylesheets/typewriter.css
 
 # JS
 extra_javascript:
@@ -101,7 +103,7 @@ extra_javascript:
   - stylesheets/ga.js
   - stylesheets/extra.js
   - stylesheets/nav.js
-
+  - stylesheets/typewriter.js
 # Plugins
 plugins:
   - blog
