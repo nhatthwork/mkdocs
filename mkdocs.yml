@@ -220,6 +220,7 @@ nav:
           - "Các chứng năng hay sử dụng":
               - Tải hàng loạt hoá đơn PDF và XML: minvoice1/huong-dan/in-hang-loat.md
               - minvoice1/huong-dan/chinh-thap-phan.md
+              - minvoice1/huong-dan/cap-nhat-ky-hieu.md
               - Sửa tay tiền thuế và tổng tiền: minvoice1/huong-dan/sua-tien-bang-tay.md
               - Tạo hóa đơn bằng file excel: minvoice1/huong-dan/nhap-excel-hang-loat.md
               - Nhập file excel chi tiết: minvoice1/huong-dan/nhap-excel-chi-tiet.md
