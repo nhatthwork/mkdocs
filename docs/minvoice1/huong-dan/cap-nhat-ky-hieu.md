@@ -54,9 +54,9 @@ Sau đó bấm **Nhận**
 
 Như vậy là bạn đã tạo thành công ký hiệu cho năm tài chính mới 2026
 
-??? danger "Trường hợp lưu thành công nhưng không thấy hiện ký hiệu ở "Hóa đơn đầu ra""
+??? danger "Trường hợp lưu thành công nhưng không thấy hiện ký hiệu ở danh sách ký hiệu"
 
-    ### Trường hợp lưu thành công nhưng không thấy hiện ký hiệu ở "Hóa đơn đầu ra"
+    ### Trường hợp lưu thành công nhưng không thấy hiện ký hiệu ở danh sách ký hiệu
 
     Truy câp **hệ thống - quản trị người dùng - người sử dụng**
 
