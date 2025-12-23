@@ -216,6 +216,7 @@ nav:
               - Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70: minvoice1/huong-dan/them-CKS.md
               - Thay đổi địa chỉ doanh nghiệp trên hóa đơn: minvoice1/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
               - minvoice1/huong-dan/huong-dan-su-dung-phieu-de-nghi-thu-tien.md
+              - minvoice1/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md
           - "Các chứng năng hay sử dụng":
               - Tải hàng loạt hoá đơn PDF và XML: minvoice1/huong-dan/in-hang-loat.md
               - minvoice1/huong-dan/chinh-thap-phan.md
@@ -274,6 +275,7 @@ nav:
               - minvoice2/huong-dan/chuyen-doi-so-dinh-danh-ca-nhan-thay-the-ma-so-thue.md
               - minvoice2/huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe.md
               - minvoice2/huong-dan/huong-dan-su-dung-hoa-don-mua-ban-xe-so-khung-so-may.md
+              - minvoice2/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md
           - "Các chứng năng hay sử dụng":
               - minvoice2/huong-dan/in-hang-loat.md
               - minvoice2/huong-dan/cap-nhat-ky-hieu.md
