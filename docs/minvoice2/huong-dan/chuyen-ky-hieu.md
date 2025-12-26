@@ -2,11 +2,11 @@
 
 ## **Hướng dẫn chuyển hóa đơn từ ký hiệu này sang ký hiệu khác**
 
-Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương tự
-
 ???+ Note "Ghi chú"
 
-    Khi sử dụng phần mềm hóa đơn, NSD đôi khi sẽ tạo nhầm hóa đơn ở một dải ký hiệu khác. M-invoice sẽ giới thiệu với NSD tính năng  chuyển ký hiêu hóa đơn hóa đơn trên hệ thống
+    Chức năng này sẽ chuyển 1 hóa đơn từ ký hiệu này sang ký hiệu khác (VD: lập nhập hóa đơn ở ký hiệu 2025 muốn chuyển sang ký hiệu của năm 2026)
+
+    Lưu ý: Chức năng này chỉ áp dụng cho hóa đơn chưa sinh số hóa đơn
 
 ### **Bước 1: Chọn hóa đơn cần chuyển ký hiệu --> Chức năng**
 
@@ -28,4 +28,4 @@ Như vậy là bạn đã hoàn thành việc chuyển hóa đơn từ ký hiệ
 
 ![Hình 4](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Dec 26, 2025</strong> by <strong>NHATTH</strong></div>
