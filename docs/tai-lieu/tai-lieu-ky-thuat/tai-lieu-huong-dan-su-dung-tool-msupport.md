@@ -351,6 +351,26 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
         Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
         ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
 
+??? abstract "Cấu trúc cache email"
+
+    #### Cấu trúc cache email
+
+    **Mục đích**: Khi bạn chỉnh sửa mẫu email trong DANH MỤC -> MẪU EMAIL cần phải xóa cache mới được update
+
+    [tenantID]: ID của Mã số thuế.
+
+    [TaxCode]: Mã số thuế
+
+    ```text title="Cấu trúc key email"
+    eInvoice20:[tenantID]:EmailSendInvoiceReleaseTemplate:[TaxCode]
+    ```
+    VD: eInvoice20:3a0863e7-f579-11f8-48bf-5c6ed5a37ac7:EmailSendInvoiceReleaseTemplate:2301210029
+
+    ??? Question "Cách để lấy tenantID"
+
+        Chuột phải và mở inspect trên trình duyệt hoặc bấm  phím tắt F12:
+        ![Hình 3](../../assets/images/tool/tool-tenantid-1.png "Hãy bấm vào để xem rõ hơn")
+
 ---> Và một số cache khác, ... **[đang cập nhật]**
 
 ### **Update 2.0**

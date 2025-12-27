@@ -4,7 +4,7 @@
 
 ???+ Note "Ghi chú"
 
-    Chức năng này sẽ chuyển 1 hóa đơn từ ký hiệu này sang ký hiệu khác (VD: lập nhập hóa đơn ở ký hiệu 2025 muốn chuyển sang ký hiệu của năm 2026)
+    Chức năng này sẽ chuyển 1 hóa đơn từ ký hiệu này sang ký hiệu khác (VD: lập nhầm hóa đơn ở ký hiệu 2025 muốn chuyển sang ký hiệu của năm 2026)
 
     Lưu ý: Chức năng này chỉ áp dụng cho hóa đơn chưa sinh số hóa đơn
 
