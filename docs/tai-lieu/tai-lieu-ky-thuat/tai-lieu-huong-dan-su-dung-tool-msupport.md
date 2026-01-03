@@ -125,6 +125,14 @@ hide:
       <td>Edit</td>
       <td>Thêm cách xóa CACHE KEY của mẫu hóa đơn</td>
     </tr>
+     <tr>
+      <td>4</td>
+      <td>Trịnh Hoài Nhất</td>
+      <td>v1.0.3</td>
+      <td>03/01/2026</td>
+      <td>Edit</td>
+      <td>Thêm cách xóa CACHE email</td>
+    </tr>
   </tbody>
 </table>
 
