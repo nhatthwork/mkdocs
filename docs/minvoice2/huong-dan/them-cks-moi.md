@@ -5,31 +5,18 @@ description: Hướng dẫn thay đổi hoặc thêm chữ ký số (CKS) mới 
 
 # **Thay đổi chữ ký số (CKS) hoặc thêm chữ ký số (CKS) mới vào phần mềm theo NĐ70**
 
-<div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
-  <p><strong>🚨 Quan trọng:</strong> <br>
-  Bắt buộc xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử từ <strong>Nghị định 70/2025/NĐ-CP</strong></p>
-
-  <p>Từ <strong>ngày 01/07/2025</strong>, người nộp thuế (NNT) khi đăng ký hoặc thay đổi thông tin sử dụng hóa đơn điện tử sẽ <strong>bắt buộc phải xác thực sinh trắc học</strong> trên ứng dụng <strong>eTax Mobile</strong>.</p>
-
-  <p><strong>🔍 Quy trình thực hiện như sau:</strong><br>
-  ✅ NNT gửi tờ khai đăng ký/thay đổi thông tin trên hệ thống hóa đơn điện tử.<br>
-  ✅ Truy cập ứng dụng <strong>eTax Mobile</strong> để thực hiện xác thực sinh trắc học.<br>
-  ✅ Sau khi xác thực thành công → Cơ quan thuế (CQT) gửi kết quả xác thực.<br>
-  ✅ Trong 01 ngày làm việc, CQT sẽ thông báo chấp nhận/không chấp nhận hồ sơ.</p>
-
-  <p><strong>❌ Lưu ý:</strong><br>
-  Nếu sau <strong>24h</strong> mà NNT <strong>không xác thực</strong> hoặc xác thực <strong>không thành công</strong>, <span style="color:red;"><strong>tờ khai sẽ bị hủy</strong></span>.</p>
-
-  <p><strong>👉 Để tránh gián đoạn</strong> trong quá trình sử dụng hóa đơn điện tử, NNT cần <strong>chủ động xác thực ngay sau khi gửi tờ khai!</strong></p>
-</div>
-
 ## **Hướng dẫn Thay đổi CKS hoặc thêm CKS mới vào phần mềm và nộp tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
 
-<iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/10tfqMP7Zec?si=rL1BMWD5zb82nF6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width: 50rem; height: 480px" src="https://www.youtube.com/embed/10tfqMP7Zec?si=rL1BMWD5zb82nF6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ???+ warning "Lưu ý: cần phải làm xác thực sinh trắc học sau khi nộp tờ khai thay đổi với CQT"
 
-    **Từ Nghị định 70/2025/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** (trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)
+    **Từ Nghị định 70/2025/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** <span style="color:red;"><strong>(trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)</strong></span>
+
+    <p><strong>❌ Lưu ý:</strong><br>
+    Nếu sau <strong>24h</strong> mà NNT <strong>không xác thực</strong> hoặc xác thực <strong>không thành công</strong>, <span style="color:red;"><strong>tờ khai sẽ bị hủy</strong></span>.</p>
+
+    <p><strong>👉 Để tránh gián đoạn</strong> trong quá trình sử dụng hóa đơn điện tử, NNT cần <strong>chủ động xác thực ngay sau khi gửi tờ khai!</strong></p>
 
     🖱️ **Click vào đây để xem:**
     📄 [Xác thực sinh trắc học trên eTax Mobile](https://youtu.be/JZ8b6bfL0aM?si=Dr6Rrhc7yF5qjsWf){ target=_blank }
@@ -62,15 +49,15 @@ Click vào loại **CKS** phù hợp nhất với mình
 
 Ở thanh Taskbar sẽ hiển thị lên biểu tượng của công cụ **Plugin Minvoice** các bạn chọn vào đó để thêm **CKS** mới của mình
 
-**Các lỗi thường gặp khi thực hiện nộp thay đổi tờ khai thay đổi chữ ký số**
+??? Bug "Các lỗi thường gặp khi thực hiện nộp thay đổi tờ khai thay đổi chữ ký số"
 
-**<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
+    **<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
 
-**<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
+    **<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
 
-**<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
+    **<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
 
-<iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### **Bước 3 : Làm tờ khai 01**
 
@@ -134,21 +121,23 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_7.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 5 : Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế**
+??? Info "Bước 5: Xác thực OTP tờ khai trên app eTax mobile - (Trường hợp tờ khai được chấp nhận luôn xin bỏ qua bước này)"
 
-**QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
+    ### **Bước 5: Xác thực OTP tờ khai trên app eTax mobile - (Trường hợp tờ khai được chấp nhận luôn xin bỏ qua bước này)**
 
-<div style="border: 1px solid #ccc; padding: 16px 22px; border-radius: 8px; background-color: #fdfdfd; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
-  <strong style="font-size: 16px; color: #1a237e;">📌 Tóm tắt trình tự thực hiện đăng ký sử dụng hóa đơn</strong>
+    **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
 
-  <ol style="padding-left: 20px; margin-top: 10px;">
-    <li style="margin-bottom: 10px;">
+     <div style="border: 1px solid #ccc; padding: 16px 22px; border-radius: 8px; background-color: #fdfdfd; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
+    <strong style="font-size: 16px; color: #1a237e;">📌 Tóm tắt trình tự thực hiện đăng ký sử dụng hóa đơn</strong>
+
+    <ol style="padding-left: 20px; margin-top: 10px;">
+      <li style="margin-bottom: 10px;">
       <strong>Gửi tờ khai đăng ký sử dụng hóa đơn mẫu 01/ĐKSD-HDDT</strong><br>
       (qua tổ chức dịch vụ hóa đơn điện tử)<br>
       <span style="color: #d84315;"><em>Lưu ý:</em></span> Kê khai <strong>chính xác thông tin người đại diện pháp luật</strong> so với thông tin đã đăng ký kinh doanh.
-    </li>
+      </li>
 
-    <li style="margin-bottom: 10px;">
+      <li style="margin-bottom: 10px;">
       <strong>Nhận thông tin tiếp nhận đăng ký sử dụng hóa đơn</strong><br>
       Bao gồm:
       <ul style="margin: 6px 0 6px 20px;">
@@ -170,19 +159,19 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
       Nhấn vào thông báo trong ứng dụng để thực hiện xác thực OTP.
     </li>
 
-  </ol>
-</div>
+    </ol>
+    </div>
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
 
-???+ note "Nội dung"
+    ???+ note "Nội dung"
 
-    Hướng dẫn thực hiện xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế trên app eTax mobile.
+        Hướng dẫn thực hiện xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế trên app eTax mobile.
 
-<div style="border: 1px solid #b0bec5; padding: 18px 24px; border-radius: 8px; background-color: #f7f9fc; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
-  <strong style="font-size: 16px; color: #1e3a8a;">📌 Trình tự bắt buộc để được sử dụng hoá đơn điện tử</strong>
+    <div style="border: 1px solid #b0bec5; padding: 18px 24px; border-radius: 8px; background-color: #f7f9fc; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
+      <strong style="font-size: 16px; color: #1e3a8a;">📌 Trình tự bắt buộc để được sử dụng hoá đơn điện tử</strong>
 
-  <ol style="padding-left: 20px; margin-top: 12px;">
+      <ol style="padding-left: 20px; margin-top: 12px;">
     <li style="margin-bottom: 10px;">
       <strong>Bước 1:</strong> Giám đốc phải có <strong>tài khoản định danh điện tử VNeID cấp 2</strong>.
     </li>
@@ -202,67 +191,69 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
       ❌ <em style="color: #c62828;">Việc này không thể ủy quyền.</em>
     </li>
 
-  </ol>
+    </ol>
 
-  <p style="margin-top: 14px; background-color: #fff3e0; padding: 10px 14px; border-left: 4px solid #fb8c00; border-radius: 4px;">
+    <p style="margin-top: 14px; background-color: #fff3e0; padding: 10px 14px; border-left: 4px solid #fb8c00; border-radius: 4px;">
     <strong>🔎 Lưu ý:</strong>  
     Những <strong>công ty mới thành lập</strong> bắt buộc phải làm định danh thì mới được sử dụng hóa đơn.<br>
     Các <strong>công ty đang sử dụng hóa đơn điện tử</strong> cũng cần thực hiện lại các bước trên nếu:  
     - Chữ ký số hết hạn  
     - Thay đổi tên hoặc địa chỉ doanh nghiệp  
-  </p>
+    </p>
 
-  <p style="margin-top: 12px; color: #2e7d32;"><strong>✅ Kết luận:</strong> 100% Giám đốc cần chuẩn bị sẵn 2 ứng dụng:</p>
-  <ul style="margin-top: 6px; padding-left: 20px;">
+      <p style="margin-top: 12px; color: #2e7d32;"><strong>✅ Kết luận:</strong> 100% Giám đốc cần chuẩn bị sẵn 2 ứng dụng:</p>
+    <ul style="margin-top: 6px; padding-left: 20px;">
     <li><strong>VNeID</strong> – để định danh điện tử</li>
     <li><strong>eTaxMobile</strong> – để xác nhận tờ khai với cơ quan thuế</li>
-  </ul>
-  <p style="margin-top: 8px;">➡️ Giúp quá trình đăng ký hóa đơn diễn ra <strong>nhanh chóng và thuận tiện</strong>.</p>
-</div>
+    </ul>
+    <p style="margin-top: 8px;">➡️ Giúp quá trình đăng ký hóa đơn diễn ra <strong>nhanh chóng và thuận tiện</strong>.</p>
+    </div>
 
-**Hướng dẫn thực hiện**
+    **Hướng dẫn thực hiện**
 
-#### **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
+    **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
 
-#### **2. Đăng nhập app etax mobile**
+    **2. Đăng nhập app etax mobile**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png){: style="height:650px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png){: style="height:650px"}
 
-#### **3. Chọn mục Hóa đơn điện tử.**
+    **3. Chọn mục Hóa đơn điện tử.**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_11.png){: style="height:650px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_11.png){: style="height:650px"}
 
-#### **4. Nhấn vào mục Tờ khai chờ xác thực.**
+    **4. Nhấn vào mục Tờ khai chờ xác thực.**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_12.png){: style="height:650px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_12.png){: style="height:650px"}
 
-#### **5. Thực hiện xác thực.**
+    **5. Thực hiện xác thực.**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_13.png){: style="height:650px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_13.png){: style="height:650px"}
 
-**Sau khi thực hiện xong bước xác thực OTP, tức tờ khai đã được xử lý đến mục tích xanh sau đây trên quy trình tờ khai. Đơn vị chờ Cơ quan thuế phản hồi các thông điệp tiếp theo.**
+    **Sau khi thực hiện xong bước xác thực OTP, tức tờ khai đã được xử lý đến mục tích xanh sau đây trên quy trình tờ khai. Đơn vị chờ Cơ quan thuế phản hồi các thông điệp tiếp theo.**
 
-![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_14.png){: style="width:780px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_14.png){: style="width:780px"}
 
-#### **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
+    **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
 
-![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Danger "Chú ý"
 
-    <span style="color: red; font-size: 20px">**Các bạn vui lòng chờ đến khi CQT chấp nhận tờ khai thì mới có thể lập được hóa đơn**</span>
+    <span style="color: red; font-size: 20px">**Anh/Chị vui lòng chờ đến khi CQT chấp nhận tờ khai thì mới có thể lập được hóa đơn**</span>
 
-### Các lỗi thường gặp khi thực hiện nộp thay đổi tờ khai thay đổi chữ ký số
+??? Bug "Các lỗi thường gặp khi thực hiện nộp thay đổi tờ khai thay đổi chữ ký số"
+  
+    ### Các lỗi thường gặp khi thực hiện nộp thay đổi tờ khai thay đổi chữ ký số
 
-**<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
+    **<strong style="color: red;">Trường hợp 1:</strong> Máy tính LAPTOP, PC chưa nhận chữ ký số**
 
-**<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
+    **<strong style="color: red;">Trường hợp 2:</strong> Plugin chưa được bật** phút `1:49` trong video
 
-**<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
+    **<strong style="color: red;">Trường hợp 3:</strong> Lỗi không hiển thị chữ ký số mặc dù đã thêm chữ ký số lên phần mềm. <strong style="color: red;">(Số serialNumber chứng thư số đã tồn tại trên phần mềm)</strong>** phút `2:32` trong video
 
-<iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe style="width: 50rem; height: 580px" src="https://www.youtube.com/embed/hLoBmZ3_EOs?si=Wm401Ibp2RWLLxqZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
@@ -270,4 +261,4 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 12](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jul 04, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 05, 2025</strong> by <strong>nhatth</strong></div>

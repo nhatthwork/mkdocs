@@ -15,11 +15,7 @@
 
 ## **Hướng dẫn thay đổi địa chỉ doanh nghiệp trên hóa đơnp**
 
-**Hướng dẫn bằng video**
-
-<iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/FCWj4XUDy9o?si=8LPIVoVPXWYO9lr2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
+**Hướng dẫn bằng hình ảnh**
 
 ### **Bước 1: Truy cập hệ thống -> thông tin doanh nghiệp**
 
@@ -31,10 +27,75 @@ Bạn vào phần **Hệ thông --> Quản lý doanh nghiệp --> Thông tin doa
 
 ![Hình 1](../../assets/images/invoice1/1.0_diaChi_2.png "Hãy bấm vào để xem rõ hơn")
 
+
+### **Bước 3 : Làm tờ khai 01**
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_4.png "Hãy bấm vào để xem rõ hơn")
+
+Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đổi NĐ70/2025 >> Thêm (F4)**
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_11.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_5.png "Hãy bấm vào để xem rõ hơn")
+
+!!! note ""
+
+    Ở phần **Đăng ký/Thay đổi thông tin sử dụng hóa đơn điện tử**
+
+    + Chọn **Đăng ký mới** nếu bạn chưa từng sử dụng hóa đơn theo nghị định 70 (Hóa đơn có mã của CQT)
+
+    + Chọn **Thay đổi** thông tin nếu bạn muốn thay đổi địa chỉ, tên doanh nghiệp, hay thêm CKS mới vào phần mềm
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_6.png "Hãy bấm vào để xem rõ hơn")
+
+???+ note "Thông tin người đại diện pháp luật"
+
+    Ở phần này các bạn điền đẩy đủ các phần như sau
+
+    **Tên người đại diện**: tên giám đốc
+
+    **Đia chỉ liên hệ** : địa chỉ công ty
+
+    **Số điện thoại** : số điện thoại
+
+    **Căn cước công dân**: điền căn cước công dân của giám đốc
+
+    **Hộ chiếu**
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_7.png "Hãy bấm vào để xem rõ hơn")
+
+???+ note "Thông tin người nhận các thông báo quan trọng liên quan đến hóa đơn điện tử (trường sẽ là thông tin của kế toán, kế toán trưởng)"
+
+    Ở phần này các bạn điền đẩy đủ các phần như sau
+
+    **Người liên hệ**: tên kế toán, ...
+
+    **Đia chỉ liên hệ** : địa chỉ nhận thông báo nếu có
+
+    **điện thoại liên hệ** : số điện thoại nhận thông báo
+
+    **Email liên hệ**: mail nhận thông báo từ thuế
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_8.png "Hãy bấm vào để xem rõ hơn")
+
+1,2,3,4,Các bạn tích chọn vào các loại hóa đơn phù hợp với hình thức doanh nghiệp mình sử dụng
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_9.png "Hãy bấm vào để xem rõ hơn")
+
+5, chọn **Thêm** để thêm cks hay để Add CKS mới thay đổi vào tờ khai **nếu có rồi thì k cần làm bước này**
+
+6, Thông tin tổ chức chức cung cấp dịch vụ và truyền nhận (sẽ mặc định là: CÔNG TY TNHH HÓA ĐƠN ĐIỆN TỬ M-INVOICE)
+
+7, Sau khi add xong CKS, quý khách nhấn Lưu để **lưu** lại dữ liệu tờ khai 01 này
+
+### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
+
+![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_10.png "Hãy bấm vào để xem rõ hơn")
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 30, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 05, 2025</strong> by <strong>nhatth</strong></div>
