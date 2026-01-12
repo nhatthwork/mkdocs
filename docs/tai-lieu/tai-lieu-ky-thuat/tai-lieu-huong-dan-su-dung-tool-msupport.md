@@ -133,6 +133,14 @@ hide:
       <td>Edit</td>
       <td>Thêm cách xóa CACHE email</td>
     </tr>
+     <tr>
+      <td>5</td>
+      <td>Trịnh Hoài Nhất</td>
+      <td>v1.0.4</td>
+      <td>12/01/2026</td>
+      <td>Edit</td>
+      <td>Thêm key cố định (cache giao diện)</td>
+    </tr>
   </tbody>
 </table>
 
@@ -252,7 +260,7 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 #### **1. Xóa key cố định**
 
-**Sign Cache**
+#### **A. Sign Cache**
 
 - Cache ký của hóa đơn -> áp dụng cho các trường hợp **ký lỗi** do lưu cache (Vd: HÓA ĐƠN KỸ LỖI VUI LÒNG F5 TẢI LẠI TRANG, ...)
 
@@ -266,7 +274,7 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 
 ![Hình 3](../../assets/images/tool/tool-cache-1.png "Hãy bấm vào để xem rõ hơn")
 
-**Key_api Cache**
+#### **B. Key_api Cache**
 
 - Cache của key_api -> áp dụng cho các trường hợp đẩy hóa đơn từ bên tích hợp mà xảy ra lỗi **trùng key tích hợp** nhưng hóa đơn chưa có trên phần mềm hóa đơn
 
@@ -279,6 +287,22 @@ Truy cập tab **FileSetting** -> Nhập **mã số thuế** muốn chỉnh sử
 3. Bấm xóa cache cố định
 
 ![Hình 3](../../assets/images/tool/tool-cache-2.png "Hãy bấm vào để xem rõ hơn")
+
+#### **C. Cache giao diện**
+
+- Cache của giao diện -> áp dụng cho các trường hợp chỉnh sủa file map giao diện INVOICE_***.json muốn hiện theo ý của khách
+
+**Các bước để lấy và xóa được cache key_api:**
+
+1. Điền thông tin mã số thuế
+
+2. Chọn loại hóa đơn tương ứng vì file giao diện sẽ phân biệt theo loại hóa đơn
+
+3. Bấm **lấy key giao diện** -> có thông báo thành công -> ra thông tin **Cache giao diện** -> **Thành công**
+
+4. Bấm xóa cache cố định
+
+![Hình 3](../../assets/images/tool/tool-cache-3.png "Hãy bấm vào để xem rõ hơn")
 
 #### **2. Xóa key bất kỳ**
 
