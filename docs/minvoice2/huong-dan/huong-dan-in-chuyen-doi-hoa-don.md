@@ -1,4 +1,4 @@
-# **Hướng dẫn in chuyển đổi hóa đơn**
+# **In chuyển đổi hóa đơn (hóa đơn giấy)**
 
 ???+ Note "Ghi chú"
 
