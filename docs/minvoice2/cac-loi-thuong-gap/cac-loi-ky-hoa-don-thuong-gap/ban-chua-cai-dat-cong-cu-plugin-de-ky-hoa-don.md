@@ -2,11 +2,16 @@
 
 ## **Hướng dẫn sửa lỗi "Bạn chưa cài đặt công cụ plugin để ký hoá đơn"**
 
-![Hình 1](../../../assets/images/invoice2/2.0_CKS-cai-dat-plugin_1.png "Hãy bấm vào để xem rõ hơn")
-
-???+ note "Ghi chú"
+???+ Bug "Mô tả lỗi"
 
     Lỗi này thường xảy ra khi quý khách chưa cài plugin ký số
+
+???+ Danger "Trường hợp đã cài đặt nhưng khi ký vẫn thông báo chưa cài"
+
+    Có thể do trình duyệt anh chị đang sử dụng chặn không cho gọi plugin ký lên, anh chị hãy làm theo hướng dẫn sau [Tại đây](loi-ky-hoa-don-chua-cai-dat-plugin-tren-trinh-duyet-chrome.md#attribute-lists){ data-preview }
+
+
+![Hình 1](../../../assets/images/invoice2/2.0_CKS-cai-dat-plugin_1.png "Hãy bấm vào để xem rõ hơn")
 
 #### Kiểm tra xem plugin ký số đã cài đặt trên máy mình chưa bằng cách sau
 
@@ -24,4 +29,4 @@
 
 ![Hình 5](../../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Aug 06, 2025</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>NHATTH</strong></div>

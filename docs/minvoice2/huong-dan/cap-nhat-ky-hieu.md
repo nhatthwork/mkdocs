@@ -1,18 +1,18 @@
 # **Cập nhật ký hiệu do thay đổi năm tài chính**
 
-**Mục đích:**
+???+ Note "Mục đích"
 
-1. Cập nhật ký hiệu do thay đổi năm tài chính
+    Cập nhật ký hiệu do thay đổi năm tài chính
 
 ## **Hướng dẫn cập nhật ký hiệu do thay đổi năm tài chính**
 
-???+ Note "Ghi chú"
+???+ Note "Căn cứ"
 
     Theo nghị định 123/2020/NĐ-CP và Thông tư 78/2021/TT-BTC, Ký hiệu hóa đơn được đánh theo năm và số hóa đơn bắt đầu lại số 1 từ 01/01 hoặc ngày bắt đầu sử dụng hóa đơn điện tử.
 
     Quý khách vui lòng tích chọn các ký hiệu cần sử dụng và ấn Copy mẫu hóa đơn để chuyển sang năm sau
 
-???+ Note "Ví dụ"
+???+ Example "Ví dụ"
 
     Năm 2025 quý khách đang sử dụng ký hiệu 1C25TYY đến số 1234 thì sang năm 2026 anh chị cần sử dụng ký hiệu 1C26TYY và số hóa đơn sẽ bắt đầu lại từ 1
 
@@ -78,4 +78,4 @@ Như vậy là bạn đã tạo thành công ký hiệu cho năm tài chính m�
 
 ![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Dec 16, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

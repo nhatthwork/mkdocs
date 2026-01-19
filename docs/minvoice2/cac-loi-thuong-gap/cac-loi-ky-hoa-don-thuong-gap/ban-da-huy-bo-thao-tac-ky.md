@@ -2,11 +2,11 @@
 
 ## **Hướng dẫn sửa lỗi "Bạn đã huỷ bỏ thao tác ký"**
 
-![Hình 1](../../../assets/images/invoice2/2.0_CKS-huy-bo-thao-tac-ky_1.png "Hãy bấm vào để xem rõ hơn")
-
-???+ note "Ghi chú"
+???+ Bug "Mô tả lỗi"
 
     Lỗi này thường xảy ra khi quý khách chưa cài phần mềm chữ ký số hãy kiểm tra theo cách dưới đây và cài đặt
+
+![Hình 1](../../../assets/images/invoice2/2.0_CKS-huy-bo-thao-tac-ky_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### Bước 1: Kiểm tra xem phần mềm cks đã cài đặt trên máy mình chưa bằng cách sau
 
@@ -30,4 +30,4 @@
 
 ![Hình 5](../../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Aug 06, 2025</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>NHATTH</strong></div>

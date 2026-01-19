@@ -2,6 +2,10 @@
 
 ## **Hướng dẫn sửa lỗi "Vui lòng nâng cấp phiên bản Plugin ký"**
 
+???+ Bug "Mô tả lỗi"
+
+    Lỗi này thường xảy ra khi anh chị ký hóa đơn hoặc biên bản mà sử dụng plugin phiên bản cũ, anh chị cần nâng cấp theo hướng dẫn dưới đây
+
 ### **Bước 1: Gỡ bỏ phiên bản hiện tại**
 
 <span style="color:red;">Anh chị vui lòng gỡ plugin ra cài lại để có thể ký được</span>
@@ -54,4 +58,4 @@ Kích chuột trái vào mũi tên góc phải màn hình, nếu có biểu tư�
 
 ![Hình 5](../../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Sep 26, 2025</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>NHATTH</strong></div>

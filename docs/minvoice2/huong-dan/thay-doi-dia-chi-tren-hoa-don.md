@@ -55,11 +55,11 @@ Anh/Chị vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
     Ở phần này các bạn điền đẩy đủ các phần như sau
 
-    **Tên người đại diện**: tên giám đốc
+    **Tên người đại diện**: Tên giám đốc
 
-    **Đia chỉ liên hệ** : địa chỉ công ty
+    **Đia chỉ liên hệ**
 
-    **Số điện thoại** : số điện thoại
+    **Số điện thoại**
 
     **Căn cước công dân**
 
@@ -101,4 +101,4 @@ Anh/Chị vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 30, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

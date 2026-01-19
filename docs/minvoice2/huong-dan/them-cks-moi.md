@@ -43,7 +43,7 @@ Các bạn vào **Hệ thông --> Đăng ký chữ ký số --> Thêm chứng th
 
 ![Hình 4](../../assets/images/invoice2/2.0_them-cks-moi_4.png "Hãy bấm vào để xem rõ hơn")
 
-Click vào loại **CKS** phù hợp nhất với mình
+Click vào loại **CKS** đúng còn hạn của DN
 
 ![Hình 5](../../assets/images/invoice2/2.0_them-cks-moi_5.png "Hãy bấm vào để xem rõ hơn")
 
@@ -261,4 +261,4 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 12](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jan 05, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

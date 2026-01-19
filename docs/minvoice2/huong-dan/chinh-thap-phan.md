@@ -7,7 +7,13 @@ description: Muốn đơn giá có 3 số thập phân, đơn giá có 2 số th
 
 ???+ Note "Ghi chú"
 
-    Trong quá trình sử dụng phần mềm hóa đơn điện tử M-invoice, người sử dụng sẽ muốn có thêm phần số thập phân sau dấu phẩy ở các trường thông tin như số lượng, đơn giá, ... để khi tính tổng tiền có thể ra được số tiền phù hợp với yêu cầu của khách hàng. M-invoice xin giới thiệu với khách hàng và người sử dụng tính năng điều chỉnh phần số thập phân trên phần mềm
+    Trong quá trình sử dụng phần mềm hóa đơn điện tử M-invoice, người sử dụng sẽ muốn có thêm phần số thập phân sau dấu phẩy ở các trường thông tin như: 
+
+    1. số lượng
+   
+    2. Đơn giá, 
+   
+    ... để khi tính tổng tiền có thể ra được số tiền phù hợp với yêu cầu của khách hàng. M-invoice xin giới thiệu với khách hàng và người sử dụng tính năng điều chỉnh phần số thập phân trên phần mềm
 
 ## **Hướng dẫn điều chỉnh phần số thập phân của phần tiền**
 
@@ -31,4 +37,4 @@ Sau đó nhấn lưu -> load lại trang -> thử lại
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

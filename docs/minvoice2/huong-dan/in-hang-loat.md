@@ -1,7 +1,5 @@
 # **Tải hàng loạt hóa đơn PDF và XML**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 <script>
 function activateTabFromUrlFragment() {
   // 1. Get the fragment from the URL (e.g., #tab2-h1)
@@ -56,7 +54,9 @@ document.addEventListener('DOMContentLoaded', activateTabFromUrlFragment);
 
 ## **Hướng dẫn In hàng loạt PDF và XML**
 
-Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in hoá đơn PDF và XML. M-invoice xin giới thiệu với khách hàng và người sử dụng tính năng in hoá đơn PDF và XML
+???+ Note "Mục đích"
+
+    Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in hoặc tải hàng loạt hoá đơn PDF và XML. M-invoice xin giới thiệu với khách hàng và người sử dụng tính năng in hoặc tải hoá đơn PDF và XML hàng loạt
 
 === "Cách 1: In nhiều hoá đơn PDF"
 
@@ -147,4 +147,4 @@ Trong quá trình phát hành hóa đơn người dùng sẽ có nhu cầu in ho
 
 ![Hình 14](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Aug 9, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

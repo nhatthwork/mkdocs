@@ -17,6 +17,8 @@ description: "Lập biên bản hóa đơn, Lập biên bản hóa đơn điều
 
 === "Cách 1. Lập biên bản tại Danh sách hóa đơn đầu ra"
 
+    ### Cách 1. Lập biên bản tại Danh sách hóa đơn đầu ra
+
     **Bước 1: Ở mục Hóa đơn đầu ra**
 
     <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
@@ -57,7 +59,7 @@ description: "Lập biên bản hóa đơn, Lập biên bản hóa đơn điều
         🖱️ **Click vào đây để cài đặt:**
         📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-    ### **Bước 4 : Xem in PDF và gửi mail cho người mua để ký biên bản**
+    **Bước 4 : Xem in PDF và gửi mail cho người mua để ký biên bản**
 
     ![Hình 4](../../assets/images/invoice2/2.0_bienban_13.png "Hãy bấm vào để xem rõ hơn")
 
@@ -71,7 +73,9 @@ description: "Lập biên bản hóa đơn, Lập biên bản hóa đơn điều
 
 === "Cách 2 Lập biên bản tại mục Xử lý sai sót"
 
-    ### **Bước 1: Truy cập mục xử lý sai sót**
+    ### Cách 2 Lập biên bản tại mục Xử lý sai sót
+
+    **Bước 1: Truy cập mục xử lý sai sót**
 
     <span style="color:red;">Sau khi đã làm thay thế hoặc điều chỉnh</span>
 
@@ -81,11 +85,11 @@ description: "Lập biên bản hóa đơn, Lập biên bản hóa đơn điều
 
     Chọn lập biên bản
 
-    ### **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
+    **Bước 2: Kiểm tra thông tin người bán, người mua, điền lý do thay thế hoặc lý do điều chỉnh**
 
     ![Hình 2](../../assets/images/invoice2/2.0_bienban_17.png "Hãy bấm vào để xem rõ hơn")
 
-    ### **Bước 3 : Lưu và ký biên bản thay thế, điều chỉnh**
+    **Bước 3 : Lưu và ký biên bản thay thế, điều chỉnh**
 
     ![Hình 3](../../assets/images/invoice2/2.0_bienban_18.png "Hãy bấm vào để xem rõ hơn")
 
@@ -113,7 +117,7 @@ description: "Lập biên bản hóa đơn, Lập biên bản hóa đơn điều
         🖱️ **Click vào đây để cài đặt:**
         📄 [Hướng dẫn tải plugin](../huong-dan/plugin.md#attribute-lists){ data-preview }
 
-    ### **Bước 4 : Xem in và gửi mail biên bản cho người mua ký**
+    **Bước 4 : Xem in và gửi mail biên bản cho người mua ký**
 
     ![Hình 4](../../assets/images/invoice2/2.0_bienban_20.png "Hãy bấm vào để xem rõ hơn")
 
@@ -131,4 +135,4 @@ Xem hướng dẫn ký biên bản người mua chi tiết [tại đây](../huon
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Sep 18, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

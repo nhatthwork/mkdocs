@@ -1,6 +1,6 @@
 # **Thêm các trường mới theo NĐ70 ở trên mẫu hóa đơn**
 
-???+ note "Nội dung"
+???+ note "Mục đích"
 
     M-invoice xin hướng dẫn quý anh chị tạo mẫu ký hiệu hóa đơn mới và bổ sung thông tin trên mẫu cho Đơn vị có nhu cầu thêm các thông tin theo Nghị định 70/2025/NĐ-CP như: **Mã đơn vị có quan hệ với ngân sách** (gọi tắt là **MĐVCQHVNS**), **Số căn cước công dân, Số hộ chiếu**.
 
@@ -58,4 +58,4 @@
 
 ![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Aug 15, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

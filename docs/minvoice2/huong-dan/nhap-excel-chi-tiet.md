@@ -25,7 +25,7 @@ description: "Hướng dẫn thêm nhanh nhiều hàng hóa dịch vụ vào cù
 
 <iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/2BcxuQ1hWbY?si=pCdz31XtA089jPMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-???+ Tip
+???+ Tip "Mẹo"
 
     Quý khách lên xem video hướng dẫn nhập excel hang loạt để dễ hinh dung hơn
 
@@ -57,4 +57,4 @@ description: "Hướng dẫn thêm nhanh nhiều hàng hóa dịch vụ vào cù
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

@@ -1,10 +1,6 @@
 # **Ký Hàng Loạt**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Ký hàng loạt hoá đơn**
-
-Chức năng này sinh ra nhằm mục đích cung cấp cho khách hàng có nhu cầu muốn ký nhiều hóa đơn liên tiếp. Các bước thực hiện như sau
 
 ???+ Note "Ghi chú"
 
@@ -30,4 +26,4 @@ Chức năng này sinh ra nhằm mục đích cung cấp cho khách hàng có nh
 
 ![Hình 3](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

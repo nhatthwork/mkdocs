@@ -1,10 +1,6 @@
 # **Gửi Email**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Gửi Email thông tin tra cứu hóa đơn cho khách hàng**
-
-Chức năng Sao chép giúp tạo nhanh 1 hóa đơn có nội dung tương tự
 
 ???+ Note "Ghi chú"
 
@@ -47,4 +43,4 @@ Lưu ý: để gửi được mail tự động anh chị cần phải điền s
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

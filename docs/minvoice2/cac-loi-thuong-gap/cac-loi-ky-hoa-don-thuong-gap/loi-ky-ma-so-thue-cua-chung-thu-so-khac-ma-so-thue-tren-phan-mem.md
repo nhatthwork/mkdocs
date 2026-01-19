@@ -4,7 +4,7 @@
 
 ???+ note "Nguyên nhân"
 
-    Nguyên nhân: Theo Thông tư 86/2024/TT-BTC chuyển đổi số định danh cá nhân thay thế mã số thuế nên M-invoice mới tích hợp chức nằng chuyển sang CCCD thay MST trên phần mềm, cho nên cần cài đặt plugin mới nhất mới có thể ký hóa đơn được chuyển từ MST sang CCCD
+    Theo Thông tư 86/2024/TT-BTC chuyển đổi số định danh cá nhân thay thế mã số thuế nên M-invoice mới tích hợp chức nằng chuyển sang CCCD thay MST trên phần mềm, cho nên cần cài đặt plugin mới nhất mới có thể ký hóa đơn được chuyển từ MST sang CCCD
 
 ## **Cách xử lý lỗi trên**
 
@@ -18,4 +18,4 @@
 
 ![Hình 5](../../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Nov 24, 2025</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>NHATTH</strong></div>

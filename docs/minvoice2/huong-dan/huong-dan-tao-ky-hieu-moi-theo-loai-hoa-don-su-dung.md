@@ -1,13 +1,13 @@
 # **Tạo ký hiệu mới theo loại hóa đơn sử dụng**
 
-**Mục đích:**
+???+ Note "Mục đích"
 
-1. Tạo ký hiệu theo loại hóa đơn muốn sử dụng
-2. Muốn tạo thêm ký hiệu hóa đơn để sử dụng
+    1. Tạo ký hiệu theo loại hóa đơn muốn sử dụng
+    2. Muốn tạo thêm ký hiệu hóa đơn để sử dụng
 
 ## **Hướng dẫn tạo ký hiệu mới theo loại hóa đơn sử dụng**
 
-???+ Note "Ghi chú"
+???+ Note "Căn cứ"
 
     Nghị định Nghị định 123/2020/NĐ-CP, Thông tư 32/2025/TT-BTC về HĐĐT đã ban hành một số quy định mới về hình thức hóa đơn sử dụng, mẫu số hóa đơn và ký hiệu hóa đơn.
 
@@ -101,7 +101,7 @@ Bấm **Thêm**
 
 ### **Bước 3: Chọn loại hóa đơn và tạo ký hiệu kèm mẫu**
 
-???+ Abstract "Ví dụ"
+???+ Example "Ví dụ"
 
     Ở hướng dẫn này M-invoice sẽ ví dụ tạo ký hiệu **Hóa đơn bán hàng - máy tính tiền**
 
@@ -143,4 +143,4 @@ Chọn mẫu theo NĐ70 để có CCCD, Mã ĐVQNHS, Số hộ chiếu
 
 ![Hình 9](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Dec 16, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>
