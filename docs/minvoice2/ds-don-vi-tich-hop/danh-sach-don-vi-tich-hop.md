@@ -206,11 +206,55 @@ a.guide-link:hover {
 }
 
 
+/* ===== GLOBAL SEARCH BOX 21/01/2026 ===== */
+.global-search-wrapper {
+  position: relative;
+  max-width: 420px;
+  margin-bottom: 14px;
+}
+
+.global-search-input {
+  width: 100%;
+  padding: 10px 14px 10px 40px;
+  font-size: 0.9em;
+  border-radius: 10px;
+  border: 1px solid var(--border-color);
+  background-color: var(--filter-bg);
+  color: var(--text-color);
+  transition: all 0.25s ease;
+}
+
+.global-search-input::placeholder {
+  color: #999;
+}
+
+.global-search-input:focus {
+  outline: none;
+  border-color: #4a4fc1;
+  box-shadow: 0 0 0 3px rgba(74,79,193,0.2);
+  background-color: var(--bg-table);
+}
+
+/* icon search */
+.global-search-icon {
+  position: absolute;
+  left: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1em;
+  color: #777;
+  pointer-events: none;
+}
+/* ============================= */
+
+
 </style>
 
 <div id="sheet-table-container">
   <p>Đang tải dữ liệu...</p>
 </div>
+
+
 
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 
@@ -316,78 +360,150 @@ async function loadSheetData() {
     table.appendChild(tbody);
     const container = document.getElementById('sheet-table-container');
     container.innerHTML = '';
+
+    //THEM 21/01/26
+
+// ===== GLOBAL SEARCH (UI PRO) =====
+const searchWrapper = document.createElement('div');
+searchWrapper.className = 'global-search-wrapper';
+
+const searchIcon = document.createElement('span');
+searchIcon.className = 'global-search-icon';
+searchIcon.innerHTML = '🔍';
+
+const globalInput = document.createElement('input');
+globalInput.type = 'text';
+globalInput.id = 'global-search';
+globalInput.className = 'global-search-input';
+globalInput.placeholder = 'Tìm kiếm tất cả...';
+
+globalInput.oninput = applyFilter;
+
+searchWrapper.appendChild(searchIcon);
+searchWrapper.appendChild(globalInput);
+container.appendChild(searchWrapper);
+// =================================
+
+
+    //END
+
+
     container.appendChild(table);
 
     applyFilter(); // ban đầu render hết
   }
 
-  function highlightMatch(text, keyword) {
-    if (!keyword) return text;
-    const pattern = new RegExp(`(${keyword})`, 'gi');
-    return text.replace(pattern, `<span class="highlight">$1</span>`);
-  }
 
-  function applyFilter() {
-    const table = document.querySelector('#sheet-table-container table');
-    const filters = Array.from(table.querySelectorAll('.filter-row td')).map(td => {
-      const input = td.querySelector('input, select');
-      return input ? input.value.trim().toLowerCase() : '';
-    });
+// ADD 21/01/26
 
-    const tbody = table.querySelector('tbody');
-    tbody.innerHTML = '';
+function highlightMatch(text, keywords = []) {
+  if (!text) return text;
 
-    rawRows.slice(1).forEach(row => {
-      const visibleRow = row.filter((_, idx) => !hiddenCols.includes(idx));
-      const match = visibleRow.every((cell, idx) => {
-        const filterVal = filters[idx];
-        if (!filterVal) return true;
-        return cell.toLowerCase().includes(filterVal);
-      });
+  let result = text;
 
-      if (match) {
-        const tr = document.createElement('tr');
-   visibleRow.forEach((cell, idx) => {
-  const td = document.createElement('td');
-  const keyword = filters[idx];
-  td.innerHTML = highlightMatch(cell, keyword);
+  keywords.forEach(keyword => {
+    if (!keyword) return;
+    const escaped = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(`(${escaped})`, 'gi');
+    result = result.replace(regex, `<span class="highlight">$1</span>`);
+  });
 
-  // ---- Thêm đoạn xử lý trạng thái ----
-  const colName = headers[idx].toLowerCase();
-if (colName.includes("trạng thái")) {
-    td.classList.add("status-cell");
-    const val = cell.trim();
-
-    const span = document.createElement("span");
-    span.textContent = val;
-
-    // gán class trạng thái
-    const valLower = val.toLowerCase();
-    if (valLower === "đã golive") span.classList.add("status-golive");
-    else if (valLower === "ngưng hợp tác") span.classList.add("status-stopped");
-    else if (valLower === "đang thực hiện") span.classList.add("status-inprogress");
-    else if (valLower === "đang kiểm thử") span.classList.add("status-checking"); 
-
-    td.innerHTML = "";
-    td.appendChild(span);
+  return result;
 }
 
 
+//end
 
-  // ---- Thêm đoạn in đậm cho tên nhà cung cấp & sản phẩm ----
-  if (colName.includes("tên nhà cung cấp") || colName.includes("tên sản phẩm")) {
+// ADD 21/01/26
+
+function applyFilter() {
+  const table = document.querySelector('#sheet-table-container table');
+
+  // Lọc theo từng cột
+  const columnFilters = Array.from(
+    table.querySelectorAll('.filter-row td')
+  ).map(td => {
+    const input = td.querySelector('input, select');
+    return input ? input.value.trim().toLowerCase() : '';
+  });
+
+  // Lọc tìm kiếm tất cả
+  const globalKeyword =
+    document.getElementById('global-search')?.value.trim().toLowerCase() || '';
+
+  const tbody = table.querySelector('tbody');
+  tbody.innerHTML = '';
+
+  rawRows.slice(1).forEach(row => {
+    const visibleRow = row.filter((_, idx) => !hiddenCols.includes(idx));
+
+    // Điều kiện lọc theo cột
+    const matchColumn = visibleRow.every((cell, idx) => {
+      const filterVal = columnFilters[idx];
+      if (!filterVal) return true;
+      return cell.toLowerCase().includes(filterVal);
+    });
+
+    // Điều kiện tìm tất cả
+    const matchGlobal =
+      !globalKeyword ||
+      visibleRow.some(cell =>
+        cell.toLowerCase().includes(globalKeyword)
+      );
+
+    if (matchColumn && matchGlobal) {
+      const tr = document.createElement('tr');
+
+    visibleRow.forEach((cell, idx) => {
+  const td = document.createElement('td');
+  const colName = headers[idx].toLowerCase();
+  const cellText = cell?.toString() ?? '';
+
+  // ---- CỘT TRẠNG THÁI ----
+  if (colName.includes("trạng thái")) {
+    td.classList.add("status-cell");
+
+    const span = document.createElement("span");
+    span.textContent = cellText;
+
+    const v = cellText.trim().toLowerCase();
+
+    if (v.includes("golive")) span.classList.add("status-golive");
+    else if (v.includes("ngưng")) span.classList.add("status-stopped");
+    else if (v.includes("thực hiện")) span.classList.add("status-inprogress");
+    else if (v.includes("kiểm thử")) span.classList.add("status-checking");
+
+    td.appendChild(span);
+  } 
+  // ---- CỘT THƯỜNG (CÓ HIGHLIGHT) ----
+  else {
+    td.innerHTML = highlightMatch(cellText, [
+      columnFilters[idx],
+      globalKeyword
+    ]);
+  }
+
+  // ---- IN ĐẬM ----
+  if (
+    colName.includes("tên nhà cung cấp") ||
+    colName.includes("tên sản phẩm")
+  ) {
     td.style.fontWeight = "700";
   }
 
   tr.appendChild(td);
 });
 
-        tbody.appendChild(tr);
-      }
-    });
-  }
+
+
+      tbody.appendChild(tr);
+    }
+  });
+}
+// END
+
 
   loadSheetData();
 </script>
 
-<div class="last-updated">Last updated on <strong>May 27, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 21, 2026</strong> by <strong>nhatth</strong></div>
