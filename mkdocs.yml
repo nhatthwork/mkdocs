@@ -438,8 +438,14 @@ nav:
               - mseller/may-tinh/quan-ly-don-hang.md
               - mseller/may-tinh/bao-cao-chi-tiet.md
   - Chữ ký số:
-      - "":
+      - "":           
           - "Công cụ & phần mềm cần thiết cho Dịch vụ công - Thuế – Hải quan": chu-ky-so/phan-mem.md
+          - "Dịch vụ công":
+              - chu-ky-so/dich-vu-cong/huong-dan-cac-nghiep-vu-tren-dich-vu-cong.md
+              - chu-ky-so/dich-vu-cong/huong-dan-cai-dat-cau-hinh-ky-so-tren-cong-dich-vu-cong.md
+              - chu-ky-so/dich-vu-cong/dang-ky-tai-khoan-tren-trang-cong-dich-vu-cong-cho-doanh-nghiep-moi.md
+              - chu-ky-so/dich-vu-cong/huong-dan-dang-nhap-tren-trang-cong-dich-vu-cong-thue-dien-tu.md
+              - chu-ky-so/dich-vu-cong/huong-dan-nop-to-khai-thue-dien-tu-tren-dich-vu-cong.md
           - "Chữ ký số IntrustCA":
               - chu-ky-so/chu-ky-so-intrustca/them-cks-intrustca-vao-phan-mem-hoa-don.md
               - chu-ky-so/chu-ky-so-intrustca/thay-doi-cks-intrustca-tren-thue-dien-tu.md
