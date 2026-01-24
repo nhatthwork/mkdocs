@@ -1,0 +1,32 @@
+#scroll-progress-track {
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: rgba(61, 69, 146, 0.15);
+  border-radius: 999px;
+  z-index: 9999;
+  pointer-events: none;
+  /* Hiệu ứng ẩn hiện mượt mà */
+  transition: opacity 0.4s ease, visibility 0.4s ease, top 0.2s ease;
+  opacity: 0;
+  visibility: hidden;
+}
+
+#scroll-progress-bar {
+  height: 100%;
+  width: 0%;
+  background: #3d4592;
+  border-radius: 999px;
+  transition: width 0.15s ease-out;
+}
+
+@media (max-width: 768px) {
+  #scroll-progress-track {
+    height: 3px;
+  }
+}
+
+
+
+

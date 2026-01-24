@@ -96,6 +96,8 @@ extra_css:
   - stylesheets/nav.css
   - stylesheets/icon.css
   - stylesheets/typewriter.css
+  - stylesheets/progress.css
+  - stylesheets/notion-font.css
 
 # JS
 extra_javascript:
@@ -104,6 +106,8 @@ extra_javascript:
   - stylesheets/extra.js
   - stylesheets/nav.js
   - stylesheets/typewriter.js
+  - stylesheets/progress.js
+
 # Plugins
 plugins:
   - blog
