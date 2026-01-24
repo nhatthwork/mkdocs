@@ -22,7 +22,7 @@
 
 ![Hình 0](../../assets/images/invoice2/2.0_dieu-chinh-thay-the-tren-ky-hieu-cu_2.png "Hãy bấm vào để xem rõ hơn")
 
-**Ở chỗ ký hiệu chọn sang ký hiệu mới 2026**
+<span style="color: red">Ở chỗ ký hiệu chọn sang ký hiệu mới 2026 </br> Bước quan trọng bắt buộc phải làm - nếu không sẽ báo lỗi sau "Có lỗi xảy ra Mẫu số ký hiệu không hơp lệ với năm tài chính"</span>
 
 ![Hình 0](../../assets/images/invoice2/2.0_dieu-chinh-thay-the-tren-ky-hieu-cu_3.png "Hãy bấm vào để xem rõ hơn")
 
