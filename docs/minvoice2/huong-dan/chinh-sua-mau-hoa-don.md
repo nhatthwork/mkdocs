@@ -55,23 +55,23 @@
 
 ## **1. Thêm sửa logo lên mẫu hóa đơn**
 
-[Thêm sửa logo lên mẫu hóa đơn](../chinh-sua-mau-hoa-don/huong-dan-them-logo-len-mau-hoa-don#attribute-lists){ data-preview }
+[Thêm sửa logo lên mẫu hóa đơn](../chinh-sua-mau-hoa-don/huong-dan-them-logo-len-mau-hoa-don.md#attribute-lists){ data-preview }
 
 ## **2. Thêm sửa khung viền mẫu hóa đơn**
 
-[Thêm sửa khung viền mẫu hóa đơn](../chinh-sua-mau-hoa-don/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa#attribute-lists){ data-preview }
+[Thêm sửa khung viền mẫu hóa đơn](../chinh-sua-mau-hoa-don/huong-dan-them-khung-vien-mau-hoa-don.md#attribute-lists){ data-preview }
 
 ## **3. Thêm sửa hình nền lên mẫu hóa đơn**
 
-[Thêm sửa hình nền lên mẫu hóa đơn](../chinh-sua-mau-hoa-don/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat#attribute-lists){ data-preview }
+[Thêm sửa hình nền lên mẫu hóa đơn](../chinh-sua-mau-hoa-don/huong-dan-them-hinh-nen-len-mau-hoa-don.md#attribute-lists){ data-preview }
 
 ## **4. Bật tắt chế độ song ngữ**
 
-[Bật tắt chế độ song ngữ](../chinh-sua-mau-hoa-don/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat#attribute-lists){ data-preview }
+[Bật tắt chế độ song ngữ](../chinh-sua-mau-hoa-don/huong-dan-bat-tat-che-do-song-ngu.md#attribute-lists){ data-preview }
 
 ## **5. Chỉnh sửa font chữ, cỡ chữ và căn lề các thông tin trên mẫu hóa đơn**
 
-[Chỉnh sửa font chữ, cỡ chữ và căn lề các thông tin trên mẫu hóa đơn](../chinh-sua-mau-hoa-don/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia#attribute-lists){ data-preview }
+[Chỉnh sửa font chữ, cỡ chữ và căn lề các thông tin trên mẫu hóa đơn](../chinh-sua-mau-hoa-don/huong-dan-chinh-font-chu-co-chu-va-can-le-mau-hoa-don.md#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
@@ -79,4 +79,4 @@
 
 ![Hình 4](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jul 24, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Jan 28, 2025</strong> by <strong>nhatth</strong></div>
