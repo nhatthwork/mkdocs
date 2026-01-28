@@ -20,11 +20,9 @@ Nội dung bài viết bao gồm hướng dẫn cài đặt cấu hình ký số
 
 2.5 [Nộp tờ khai bổ sung trên Cổng dịch vụ công](huong-dan-nop-to-khai-bo-sung-tren-cong-dich-vu-cong.md#attribute-lists){ data-preview }
 
-2.6 [Nộp tiền thuế trên Cổng dịch vụ công](huong-dan-cai-dat-cau-hinh-ky-so-tren-cong-dich-vu-cong.md#attribute-lists){ data-preview }
+2.6 [Nộp tiền thuế trên Cổng dịch vụ công](huong-dan-nop-tien-thue-tren-dich-vu-cong.md#attribute-lists){ data-preview }
 
-2.7 [Thay đổi chữ ký số trên Cổng dịch vụ công](huong-dan-cai-dat-cau-hinh-ky-so-tren-cong-dich-vu-cong.md#attribute-lists){ data-preview }
-
-2.8 [Tra cứu tờ khai đã nộp/lưu tạm trên Cổng dịch vụ công thuế điện tử](huong-dan-cai-dat-cau-hinh-ky-so-tren-cong-dich-vu-cong.md#attribute-lists){ data-preview }
+2.7 [Tra cứu tờ khai đã nộp/lưu tạm trên Cổng dịch vụ công thuế điện tử](huong-dan-tra-cuu-da-nop-luu-tam-tren-cong-dich-vu-cong-thue-dien-tu.md#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
