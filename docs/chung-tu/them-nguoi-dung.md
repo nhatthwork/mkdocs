@@ -1,7 +1,5 @@
 # **Thêm tài khoản người dùng**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Cách tạo thêm tài khoản người dùng**
 
 ???+ Note "Ghi chú"

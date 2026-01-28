@@ -1,7 +1,5 @@
 # **Gửi Email**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Gửi Email chứng từ**
 
 ???+ Note "Ghi chú"

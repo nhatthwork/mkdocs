@@ -1,10 +1,8 @@
 # **Nhập excel hàng loạt chứng từ**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Hướng dẫn nhập excel chứng từ**
 
-???+ Note "Ghi chú"
+???+ Note "Mục đích"
 
     Trong quá trình sử dụng, bạn muốn tải một loạt chứng từ lên phần mềm mà không biết làm cách nào, sau đây M-invoice sẽ hướng dẫn quy trình để nhận nhiều chứng từ một lúc bằng file excel
 

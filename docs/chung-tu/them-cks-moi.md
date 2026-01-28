@@ -1,7 +1,5 @@
 # **Đăng ký tờ khai chứng từ hoặc thêm, thay đổi cks mới vào phần mềm**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Hướng dẫn đăng ký tờ khai chứng từ hoặc thêm, thay đổi cks mới vào phần mềm**
 
 ### **Bước 1: Cắm CKS vào máy tính, kiểm tra xem plugin đã được bật chưa**

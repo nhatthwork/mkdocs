@@ -1,7 +1,5 @@
 # **Tải hàng loạt PDF và XML**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Hướng dẫn Tải hàng loạt PDF và XML**
 
 ???+ Note "Mục đích"

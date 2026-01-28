@@ -1,6 +1,14 @@
 # **Đăng nhập mTNCN**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ khấu trừ thuế TNCN ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
+???+ "Mục đích"
+
+    🔐 Xác thực người dùng trước khi truy cập vào hệ thống, đảm bảo chỉ những người có tài khoản hợp lệ mới được sử dụng phần mềm.
+
+    🛡️ Bảo mật dữ liệu chứng từ thu nhập cá nhân, tránh việc truy cập trái phép, chỉnh sửa hoặc khai thác thông tin không đúng thẩm quyền.
+
+    👤 Phân quyền sử dụng hệ thống, giúp mỗi người dùng chỉ được thao tác trên các chức năng và dữ liệu phù hợp với vai trò được cấp (kế toán, quản trị, người nhập liệu…).
+
+📑 Ghi nhận lịch sử truy cập, phục vụ việc theo dõi, kiểm tra, đối soát và truy vết khi phát sinh sự cố hoặc sai lệch dữ liệu.
 
 ## **Hướng dẫn đăng nhập mTNCN**
 

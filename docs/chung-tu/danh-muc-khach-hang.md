@@ -1,7 +1,5 @@
 # **Danh mục người nộp thuế**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Thêm danh mục người nộp thuế**
 
 ???+ Note "Ghi chú"

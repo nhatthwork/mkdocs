@@ -1,7 +1,5 @@
 # **Tải cộng cụ ký chứng từ TNCN plugin 2.0**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Hướng dẫn tải cộng cụ ký chứng từ TNCN plugin 2.0**
 
 ???+ Danger "Lưu ý"

@@ -1,7 +1,5 @@
 # **Hướng dẫn phát hành chứng từ**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm chứng từ khấu trừ thuế TNCN ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 === "Thêm chứng từ"
 
     #### **Hướng dẫn lập và phát hành chứng từ**
