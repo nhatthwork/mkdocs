@@ -17,6 +17,10 @@ Xem video hướng dẫn (đang cập nhật):
 
 Lập hóa đơn điều chỉnh mã số thuế người mua hàng:
 
+- Chọn hóa đơn cần **điều chỉnh** -> **Nghiệp vụ** -> **Lập HĐ điều chỉnh**
+  
+![Hình 1](../../assets/images/invoice1/1.0_dieu-chinh_1.png "Hãy bấm vào để xem rõ hơn")
+
 - Khai báo mã số thuế đúng của người mua hàng.
 - Chọn **Tính chất** là **Ghi chú/diễn giải.**
 - Sau đó nhập nội dung điều chỉnh.

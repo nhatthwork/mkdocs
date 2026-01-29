@@ -15,6 +15,10 @@ hide:
 
 ==> Lập hóa đơn điều chỉnh tăng số lượng hàng hóa lên 25. Số lượng tăng dẫn đến thành tiền theo số lượng tăng, tiền thuế tăng, tổng tiền thanh toán tăng, kế toán lập hóa đơn điều chỉnh khai báo nội dung như sau:
 
+- Chọn hóa đơn cần **điều chỉnh** -> **Nghiệp vụ** -> **Lập HĐ điều chỉnh**
+  
+![Hình 1](../../assets/images/invoice1/1.0_dieu-chinh_1.png "Hãy bấm vào để xem rõ hơn")
+
 - Khai báo số lượng hàng hóa tăng và các giá trị liên quan thay đổi khi số lượng tăng gồm: **Thành tiền, Tổng tiền hàng, Tiền thuế GTGT, Tổng tiền thanh toán.**
 
 - Bấm thêm dòng chọn **Tính chất** là **Ghi chú, diễn giải** điền nội dung điều chỉnh vào **Tên hàng hóa**

@@ -17,6 +17,10 @@ Xem video hướng dẫn (đang cập nhật):
 
 ==> Lập hóa đơn điều chỉnh giảm đơn giá bán hàng hóa xuống 50.000 VNĐ. Đơn giá giảm dẫn đến thành tiền theo đơn giá giảm, tiền thuế giảm, tổng tiền thanh toán giảm, kế toán lập hóa đơn điều chỉnh khai báo nội dung như sau:
 
+- Chọn hóa đơn cần **điều chỉnh** -> **Nghiệp vụ** -> **Lập HĐ điều chỉnh**
+  
+![Hình 1](../../assets/images/invoice1/1.0_dieu-chinh_1.png "Hãy bấm vào để xem rõ hơn")
+
 - Khai báo giá trị âm đơn giá giảm và các giá trị liên quan thay đổi khi đơn giá giảm gồm: **Thành tiền, Tổng tiền hàng, Tiền thuế GTGT, Tổng tiền thanh toán.**
 
 - Bấm thêm dòng chọn **Tính chất** là **Ghi chú, diễn giải** điền nội dung điều chỉnh vào **Tên hàng hóa**

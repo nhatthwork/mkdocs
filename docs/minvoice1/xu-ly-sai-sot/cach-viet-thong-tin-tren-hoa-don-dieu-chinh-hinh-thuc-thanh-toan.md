@@ -15,6 +15,10 @@ Xem video hướng dẫn (đang cập nhật):
 
 => Lập hóa đơn điều chỉnh hình thức thanh toán:
 
+- Chọn hóa đơn cần **điều chỉnh** -> **Nghiệp vụ** -> **Lập HĐ điều chỉnh**
+  
+![Hình 1](../../assets/images/invoice1/1.0_dieu-chinh_1.png "Hãy bấm vào để xem rõ hơn")
+
 - Chọn đúng HTTT đúng là **Chuyển khoản**
 - Chọn **Tính chất** là **Ghi chú/diễn giải.**
 - Sau đó nhập nội dung điều chỉnh vào tên hàng hóa.
