@@ -54,7 +54,7 @@ jobs:
         if: success()
         uses: appleboy/telegram-action@master
         with:
-          to: "5702962241"
+          to: "-5012582010"
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: "✅ Build & Push Docker image minvoicesys/knowlegae-base thành công! Version: ${{ env.VERSION }}"
 
@@ -62,6 +62,6 @@ jobs:
         if: failure() # Chỉ chạy khi job thất bại
         uses: appleboy/telegram-action@master
         with:
-          to: "5702962241"
+          to: "-5012582010"
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: "❌ Build & Push Docker image minvoicesys/knowlegae-base thất bại! Version: ${{ env.VERSION }} Kiểm tra workflow ngay!"
