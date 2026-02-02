@@ -1,12 +1,18 @@
 # **Dashboard 2.0**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Hướng dẫn truy cập nhanh trên trang chủ Dashboard**
 
-???+ Note "Ghi chú"
+???+ Note "Mục đích"
 
-    Quý khách có thể truy cập nhanh bằng các chức năng trên màn hình Dashboard một cách nhanh chóng và tiện lợi
+    Tổng quan tức thời: Hiển thị nhanh các hóa đơn cần xử lý (Đang gửi, Chờ ký, Đã ký) trong 1 tháng gần nhất
+
+    Bản quyền số lượng hóa đơn đã dùng
+
+    Danh sách hóa đơn thông báo 04ss
+
+    Lập hóa đơn nhanh chóng trên ký hiệu sử dụng
+
+    Danh sách chứng thư số đang dùng (ngày hiệu lực, thời gian hết hạn) để người dùng chủ động khi hết hạn chứng thư số
 
 **Video giới thiệu về phần mềm hoá đơn điện tử M-invoice**
 
@@ -59,4 +65,4 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 8](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Mar 28, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>
+<div class="last-updated">Last updated on <strong>Feb 02, 2026</strong> by <strong>NHATTH</strong></div>

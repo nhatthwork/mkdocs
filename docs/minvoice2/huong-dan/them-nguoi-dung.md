@@ -1,12 +1,16 @@
 # **Thêm tài khoản người dùng**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Cách tạo thêm tài khoản người dùng**
 
-???+ Note "Ghi chú"
+???+ Note "Mục đích"
 
-    Trong quá trình sử dụng phần mềm hóa đơn điện tử M-invoice, có nhiều người sử dụng phần mềm chung 1 tài khoản sẽ có bất tiện, sau đây Minvoice sẽ hướng dẫn tạo thêm user để có thể phân quyền quản lý dễ dàng hơn
+    Mục đích của việc thêm tài khoản người dùng trong hệ thống (xuất hóa đơn/phần mềm quản lý) là:
+
+    **Phân quyền sử dụng:** Mỗi người dùng có quyền hạn riêng (xem, tạo, sửa, ký, quản trị…).
+
+    **Bảo mật dữ liệu:** Tránh dùng chung tài khoản, giảm rủi ro lộ hoặc sửa sai dữ liệu.
+
+    **Theo dõi lịch sử thao tác:** Ghi nhận ai tạo, sửa, phát hành hóa đơn (log, audit).
 
 ### **Bước 1: Hệ thống --> Quản lý người dùng --> Người sử dụng**
 
@@ -28,4 +32,4 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 3](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Feb 02, 2026</strong> by <strong>nhatth</strong></div>

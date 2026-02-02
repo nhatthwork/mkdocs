@@ -1,6 +1,6 @@
 # **In chuyển đổi hóa đơn (hóa đơn giấy)**
 
-???+ Note "Ghi chú"
+???+ Note "Mục đích"
 
     Bản in chuyển đổi (loại giấy) thường dùng để:
 

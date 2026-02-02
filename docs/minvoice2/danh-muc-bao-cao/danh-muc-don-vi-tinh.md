@@ -1,14 +1,16 @@
 # **Danh mục đơn vị tính**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Thêm mới đơn vị tính**
 
 Sử dụng để thêm đơn vị tính mới ngoài đơn vị tính có trên phần mềm
 
-???+ Note "Ghi chú"
+???+ Note "Mục đích"
 
-    Trong quá trình lập hoá đơn, có nhiều đơn vị tính không có trên phần mềm. Để giảm thao tác nhập lại khi nhập đơn vị tính, M-Invoice hướng dẫn NSD thực hiện thao tác thêm đơn vị tính mới vào phần mềm:
+    Chuẩn hóa đơn vị đo lường: Đảm bảo đơn vị tính (cái, chiếc, kg, giờ, lần…) được dùng thống nhất.
+
+    Giảm sai sót khi lập hóa đơn: Tránh nhập nhầm hoặc không đúng đơn vị tính.
+
+    Xuất hóa đơn nhanh hơn: Chỉ cần chọn đơn vị tính có sẵn thay vì nhập tay.
 
 ### **Trên giao diện trang chủ truy cập Danh mục --> đơn vị tính**
 
@@ -47,4 +49,4 @@ Sử dụng để thêm đơn vị tính mới ngoài đơn vị tính có trên
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Feb 02, 2026</strong> by <strong>nhatth</strong></div>

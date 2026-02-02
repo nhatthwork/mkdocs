@@ -1,14 +1,16 @@
 # **Danh mục hàng hóa, dịch vụ**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Thêm danh mục hàng hóa, dịch vụ**
 
 Sử dụng để thêm mã hàng hoá, dịch vụ
 
-???+ Note "Ghi chú"
+???+ Note "Mục đích"
 
-    Trong quá trình lập hoá đơn, các mặt hàng được đặt theo mã do đơn vị đặt tên. Sau đây, M-Invoice hướng dẫn NSD tạo mã hàng hoá, dịch vụ
+    Chuẩn hóa dữ liệu: Lưu sẵn tên hàng hóa/dịch vụ, đơn vị tính, thuế suất… để dùng thống nhất, tránh nhập sai.
+
+    Xuất hóa đơn nhanh hơn: Chỉ cần chọn từ danh mục, không phải nhập lại nhiều lần.
+
+    Giảm sai sót: Hạn chế lỗi chính tả, nhầm thuế suất, nhầm đơn vị tính khi lập hóa đơn.
 
 ### **Trên giao diện trang chủ truy cập Danh mục --> Hàng hóa, dịch vụ**
 
@@ -55,4 +57,4 @@ Sử dụng để thêm mã hàng hoá, dịch vụ
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Nov 29, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Feb 02, 2026</strong> by <strong>nhatth</strong></div>

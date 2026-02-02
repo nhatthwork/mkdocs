@@ -1,14 +1,16 @@
 # **Danh mục khách hàng**
 
-Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm hóa đơn điện tử M-Invoice ở phiên bản 2.0 vô cùng mạch lạc và dễ hiểu.
-
 ## **Thêm danh mục khách hàng**
 
 Sử dụng giảm bớt thao tác điền thông tin khách hàng
 
-???+ Note "Ghi chú"
+???+ Note "Mục đích"
 
-    Trong quá trình lập hoá đơn cần điền thông tin khách hàng và để giảm bớt thao tác nhập thông tin khách hàng, M-invoice hướng dẫn NSD thực hiện thêm danh mục khách hàng
+    Lưu trữ thông tin khách hàng: Tên đơn vị/cá nhân, MST, địa chỉ, email… dùng lại nhiều lần.
+
+    Xuất hóa đơn nhanh & chính xác: Chọn khách hàng từ danh mục, tránh nhập sai MST hoặc tên.
+
+    Đồng bộ dữ liệu: Thông tin khách hàng thống nhất trên tất cả hóa đơn.
 
 ### **Trên giao diện trang chủ truy cập Danh mục --> khách hàng**
 
@@ -55,4 +57,4 @@ Sử dụng giảm bớt thao tác điền thông tin khách hàng
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Nov 29, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Feb 02, 2026</strong> by <strong>nhatth</strong></div>

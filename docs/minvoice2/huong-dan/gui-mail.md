@@ -37,6 +37,8 @@
 **Gửi email tự động:** trường hợp anh muốn gửi mail tự động sau khi ký. Anh/Chị truy cập mục `Hệ thống - Khai báo tham số hệ thống` tìm mã `TU_DONG_GUI_EMAIL` sửa thành `C`
 Lưu ý: để gửi được mail tự động anh chị cần phải điền sẵn mail người mua ở hóa đơn.
 
+![Hình 4](../../assets/images/invoice2/2.0_gui-mail_5.png "Hãy bấm vào để xem rõ hơn")
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)

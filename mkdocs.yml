@@ -113,8 +113,6 @@ plugins:
   - blog
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - git-revision-date-localized
-  - git-authors
   - minify:
       minify_html: true
   - glightbox
