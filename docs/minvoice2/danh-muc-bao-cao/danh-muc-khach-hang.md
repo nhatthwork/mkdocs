@@ -12,11 +12,13 @@ Sử dụng giảm bớt thao tác điền thông tin khách hàng
 
     Đồng bộ dữ liệu: Thông tin khách hàng thống nhất trên tất cả hóa đơn.
 
-### **Trên giao diện trang chủ truy cập Danh mục --> khách hàng**
+=== "Cách 1: Nhập thủ công từ Danh mục - Khách hàng"
 
-![Hình 1](../../assets/images/invoice2/2.0_danh-muc-khach-hang_1.png "Hãy bấm vào để xem rõ hơn")
+    ### Nhập thủ công từ Danh mục - Khách hàng
 
-=== "Cách 1: Nhập thủ công"
+    **Trên giao diện trang chủ truy cập Danh mục --> khách hàng**
+
+    ![Hình 1](../../assets/images/invoice2/2.0_danh-muc-khach-hang_1.png "Hãy bấm vào để xem rõ hơn")
 
     Bạn nhấn nút **Thêm(F4)** để bắt đầu thêm Khách hàng
     Nhập đầy đủ thông tin như **Mã khách hàng, mã số thuế, Tên đơn vị, Địa chỉ ....**
@@ -28,7 +30,30 @@ Sử dụng giảm bớt thao tác điền thông tin khách hàng
 
     Như vậy bạn đã tạo 1 mã khách hàng thành công trên hệ thống
 
-=== "Cách 2: Nhập từ file excel"
+=== "Cách 2: Nhập thủ công khi lập hóa đơn"
+
+    ### Nhập thủ công khi lập hóa đơn
+
+    Ở HÓA ĐƠN ĐẦU RA chọn tạo hóa đơn **Thêm (F4)** để bắt đầu tạo hóa đơn
+
+    Bạn nhấn nút dấu cộng ở hàng mã KH để bắt đầu thêm Khách hàng
+
+    ![Hình 3](../../assets/images/invoice2/2.0_danh-muc-khach-hang_8.png "Hãy bấm vào để xem rõ hơn")
+
+    Nhập đầy đủ thông tin như **Mã khách hàng, mã số thuế, Tên đơn vị, Địa chỉ ....**
+    Khi nhập xong bạn nhấn Lưu để lưu hàng mã hàng khách hàng này vào
+
+    ![Hình 3](../../assets/images/invoice2/2.0_danh-muc-khach-hang_9.png "Hãy bấm vào để xem rõ hơn")
+
+    Như vậy bạn đã tạo 1 mã khách hàng thành công trên hệ thống
+
+=== "Cách 3: Nhập từ file excel"
+
+    ### Nhập từ file excel
+
+    **Trên giao diện trang chủ truy cập Danh mục --> khách hàng**
+
+    ![Hình 1](../../assets/images/invoice2/2.0_danh-muc-khach-hang_1.png "Hãy bấm vào để xem rõ hơn")
 
     Trên giao diện Danh mục khách hàng bạn chọn **Nhập Excel**, sau đó nhấn **Tải file mẫu**
 
@@ -57,4 +82,4 @@ Sử dụng giảm bớt thao tác điền thông tin khách hàng
 
 ![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Feb 02, 2026</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Feb 24, 2026</strong> by <strong>nhatth</strong></div>
