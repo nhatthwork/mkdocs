@@ -69,6 +69,4 @@ Trên đây là các bước thực hiện báo tăng BHXH cho người lao đ�
 ![Hình 8](../../assets/images/mBHXH/hotro.png)
 
 
-
-
 <div class="last-updated">Last updated on <strong>Mar 18, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>
