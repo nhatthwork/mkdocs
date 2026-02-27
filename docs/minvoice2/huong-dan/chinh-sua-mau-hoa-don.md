@@ -73,6 +73,10 @@
 
 [Chỉnh sửa font chữ, cỡ chữ và căn lề các thông tin trên mẫu hóa đơn](../chinh-sua-mau-hoa-don/huong-dan-chinh-font-chu-co-chu-va-can-le-mau-hoa-don.md#attribute-lists){ data-preview }
 
+## **6. Điều chỉnh độ rộng của các cột trên mẫu hoá đơn**
+
+[Điều chỉnh độ rộng của các cột trên mẫu hoá đơn](../chinh-sua-mau-hoa-don/huong-dan-dieu-chinh-do-rong-cac-cot-tren-hoa-don.md#attribute-lists){ data-preview }
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
