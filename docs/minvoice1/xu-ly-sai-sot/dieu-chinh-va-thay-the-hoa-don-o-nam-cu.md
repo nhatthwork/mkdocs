@@ -1,4 +1,38 @@
-# **Hướng dẫn lập biên bản hoá đơn điều chỉnh thay thế**
+# **Điều chỉnh / Thay thế hóa đơn ở năm cũ VD: hóa đơn bị sai ở năm 2025**
+
+???+ Note "Ghi chú"
+
+    Khi sang năm mới (VD: 2026) anh chị muốn điều chỉnh hoặc thay thế hóa đơn ở ký hiệu năm cũ (VD: 2025)
+
+    Hướng dẫn này sẽ hướng dẫn Anh/Chị điều chỉnh / thay thế hóa đơn ở năm cũ được xuất trên M-invoice.
+
+    Trường hợp hóa đơn cũ của anh chị được xuất bên nhà cung cấp khác vui lòng làm theo hướng dẫn sau  [Hướng dẫn](dieu-chinh-va-thay-the-tren-he-thong-khac.md#attribute-lists){ data-preview }
+
+???+ Tip "Điều kiện"
+
+    Đã tạo ký hiệu năm mới (năm 2026)
+
+    Trường hợp anh chị chưa tạo có thể làm theo hướng dẫn sau [Hướng dẫn tạo ký hiệu theo năm tài chính](../huong-dan/cap-nhat-ky-hieu.md#attribute-lists){ data-preview }
+
+### **Bước 1: Truy cập vào hóa đơn NĐ70 -> chọn và loại hóa đơn mà Anh/Chị đang sử dụng -> Chọn ký hiệu 2025**
+
+![Hình 0](../../assets/images/invoice1/1.0_dieu-chinh-thay-the-tren-ky-hieu-cu_1.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 2: Tìm đến hóa đơn sai sót -> Chọn nghiệp vụ -> Chọn Điều chỉnh hoặc Thay thế theo nhu cầu của Doanh nghiệp**
+
+![Hình 0](../../assets/images/invoice1/1.0_dieu-chinh-thay-the-tren-ky-hieu-cu_2.png "Hãy bấm vào để xem rõ hơn")
+
+<span style="color: red">Lưu ý: Ở chỗ ký hiệu chọn sang ký hiệu mới 2026 </br> Bước quan trọng bắt buộc phải làm - nếu không sẽ báo lỗi sau "Có lỗi xảy ra Mẫu số ký hiệu không hơp lệ với năm tài chính"</span>
+
+![Hình 0](../../assets/images/invoice1/1.0_dieu-chinh-thay-the-tren-ky-hieu-cu_3.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 3: Sau đó Anh/Chị làm hóa đơn Điều chỉnh hoặc Thay thế cho đúng**
+
+Xem thêm các hướng dẫn điều chỉnh [Các trường hợp điều chỉnh hóa đơn](../xu-ly-sai-sot/dieu-chinh.md#attribute-lists){ data-preview }
+
+Xem thêm hướng dẫn thay thế [Hướng dẫn thay thế](../xu-ly-sai-sot/thay-the.md#attribute-lists){ data-preview }
+
+## Hướng dẫn lập biên bản hoá đơn điều chỉnh / thay thế
 
 ???+ Note "Căn cứ"
 
@@ -59,10 +93,14 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in hoặc chọn SA
 
 **Như vậy anh chị đã upload lên thành công**
 
-!!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
+## Gửi mail cho người mua để người mua ký biên bản
+
+![Hình 5](../../assets/images/invoice1/1-bienban-11.png "Hãy bấm vào để xem rõ hơn")
+
+???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 6](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
+![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Mar 11, 2026</strong> by <strong>NHATTH</strong></div>

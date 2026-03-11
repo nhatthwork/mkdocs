@@ -1,4 +1,4 @@
-# **Chỉnh phần số thập phân của phần tiền**
+# **Chỉnh sửa thập phân ở số lượng, đơn giá**
 
 ???+ Note "Mục đích"
 

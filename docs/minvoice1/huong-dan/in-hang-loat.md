@@ -2,7 +2,22 @@
 
 ## Lưu ý : M-invoice Plugin phải từ phiên bản 4.1.7.0 trở lên
 
-Trong quá trình sử dụng M-invoice, quý khác có thể muốn tải hàng loạt hóa đơn ra file PDF và XML, hoá đơn chuyển đổi sau đây M-invoice sẽ hương dẫn NSD tải hàng loạt bằng plugin
+???+ Note "Mục đích"
+
+    1️⃣ Chức năng In hàng loạt PDF hóa đơn
+
+    Mục đích:
+    Cho phép người dùng thực hiện in nhiều hóa đơn định dạng PDF cùng lúc, giúp tiết kiệm thời gian thao tác so với việc in từng hóa đơn riêng lẻ. Chức năng này đặc biệt hữu ích khi cần lưu trữ chứng từ, gửi khách hàng hoặc phục vụ công tác kiểm tra, đối soát.
+
+    2️⃣ Chức năng Xuất hàng loạt XML hóa đơn
+
+    Mục đích:
+    Cho phép người dùng tải xuống hàng loạt file XML của hóa đơn điện tử, phục vụ cho các nhu cầu như lưu trữ dữ liệu gốc của hóa đơn, gửi cho cơ quan thuế, tích hợp với phần mềm kế toán hoặc hệ thống khác.
+
+    3️⃣ Chức năng Chuyển đổi hóa đơn
+
+    Mục đích:
+    Cho phép chuyển đổi hóa đơn điện tử sang hóa đơn giấy (bản thể hiện) để phục vụ các mục đích như lưu trữ nội bộ, cung cấp cho khách hàng khi cần bản giấy hoặc phục vụ công tác kiểm tra, đối chiếu chứng từ.
 
 <iframe style="width: 43rem; height: 380px"
     src="https://www.youtube.com/embed/nhch9QVlTlM" 
@@ -21,7 +36,15 @@ Trong quá trình sử dụng M-invoice, quý khác có thể muốn tải hàng
 
     ![Hình 2](../../assets/images/invoice1/1.0_inHangLoat_2.png "Hãy bấm vào để xem rõ hơn")
 
-    **Bước 3 : Sau khi đăng nhập (1) Chọn vào phần hóa đơn nghị định 123. (2) Chọn vào phần ký hiệu hóa đơn để chọn ký hiệu muốn xem in. (3) Chọn phần đảo trạng thái để chọn hàng loạt hóa đơn(4) Chọn in để bắt đầu in hàng loạt**
+    **Bước 3 : Sau khi đăng nhập**
+    
+    (1) Chọn vào phần hóa đơn nghị định 123 (phụ thuộc vào hóa đơn nằm trong nghị định nào)
+    
+    (2) Chọn vào phần ký hiệu hóa đơn để chọn ký hiệu muốn xem in. 
+    
+    (3) Chọn phần đảo trạng thái để chọn hàng loạt hóa đơn
+    
+    (4) Chọn in để bắt đầu in hàng loạt
 
     ![Hình 3](../../assets/images/invoice1/1.0_inHangLoat_3.png "Hãy bấm vào để xem rõ hơn")
 
@@ -43,9 +66,17 @@ Trong quá trình sử dụng M-invoice, quý khác có thể muốn tải hàng
 
     ![Hình 2](../../assets/images/invoice1/1.0_inHangLoat_2.png "Hãy bấm vào để xem rõ hơn")
 
-    **Bước 3 : Sau khi đăng nhập (1) Chọn vào phần hóa đơn nghị định 123. (2) Chọn vào phần ký hiệu hóa đơn để chọn ký hiệu muốn tải xml. (3) Chọn phần đảo trạng thái để chọn hàng loạt hóa đơn(4) Chọn chức năng -> tải xml để bắt đầu in hàng loạt**
+    **Bước 3 : Sau khi đăng nhập**
+    
+    - Chọn vào phần hóa đơn nghị định 123 (phụ thuộc vào hóa đơn nằm trong nghị định nào)
+    
+    - Chọn vào phần ký hiệu hóa đơn để chọn ký hiệu muốn xem in. 
+    
+    - Chọn phần đảo trạng thái để tích chọn hàng loạt hóa đơn
+    
+    - Chọn chức năng -> tải xml để bắt đầu in hàng loạt
 
-    ![Hình 3](../../assets/images/invoice1/1.0_inxml_1.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 4](../../assets/images/invoice1/1.0_inxml_2.png "Hãy bấm vào để xem rõ hơn")
 
     **Bước 4: Như vậy quý khách đã tải thành công xml**
 
@@ -61,9 +92,17 @@ Trong quá trình sử dụng M-invoice, quý khác có thể muốn tải hàng
 
     ![Hình 2](../../assets/images/invoice1/1.0_inHangLoat_2.png "Hãy bấm vào để xem rõ hơn")
 
-    **Bước 3 : Sau khi đăng nhập (1) Chọn vào phần hóa đơn nghị định 123. (2) Chọn vào phần ký hiệu hóa đơn để chọn ký hiệu muốn tải xml. (3) Chọn phần đảo trạng thái để chọn hàng loạt hóa đơn(4) Chọn chức năng -> tải xml để bắt đầu in hàng loạt**
+    **Bước 3 : Sau khi đăng nhập** 
+    
+    - Chọn vào phần hóa đơn nghị định 123. 
+    
+    - Chọn vào phần ký hiệu hóa đơn để chọn ký hiệu muốn in chuyển đổi hàng loạt. 
+    
+    - Chọn phần đảo trạng thái để chọn hàng loạt hóa đơn
+    
+    -  Chọn chức năng -> in chuyển đổi để bắt đầu in chuyển đổi hàng loạt
 
-    ![Hình 3](../../assets/images/invoice1/1.0_inchuyendoi_1.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 3](../../assets/images/invoice1/1.0_inchuyendoi_2.png "Hãy bấm vào để xem rõ hơn")
 
     ![Hình 4](../../assets/images/invoice1/1.0_inHangLoat_4.png "Hãy bấm vào để xem rõ hơn")
 
@@ -77,4 +116,4 @@ Trong quá trình sử dụng M-invoice, quý khác có thể muốn tải hàng
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jan 27, 2025</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Mar 11, 2026</strong> by <strong>NHATTH</strong></div>

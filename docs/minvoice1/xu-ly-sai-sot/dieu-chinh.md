@@ -172,7 +172,7 @@ Bấm nút in ở trình duyệt hoặc bấm ctrl + P để in hoặc chọn SA
 
 ![Hình 5](../../assets/images/invoice1/1-bienban-9.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 5](../../assets/images/invoice1/1-bienban-9.png "Hãy bấm vào để xem rõ hơn")
+![Hình 5](../../assets/images/invoice1/1-bienban-10.png "Hãy bấm vào để xem rõ hơn")
 
 **Như vậy anh chị đã upload lên thành công**
 

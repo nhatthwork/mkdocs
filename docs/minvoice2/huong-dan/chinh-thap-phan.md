@@ -3,7 +3,7 @@ title: Chỉnh sửa thập phân ở số lượng, đơn giá, thành tiền
 description: Muốn đơn giá có 3 số thập phân, đơn giá có 2 số thập phân, đơn giá có 4 số thập phân, số lượng có 4 số thập phân, số lượng có 3 số thập phân, số lượng có 2 số thập phân
 ---
 
-# **Chỉnh phần số thập phân của phần tiền**
+# **Chỉnh sửa thập phân ở số lượng, đơn giá**
 
 ???+ Note "Mục đích"
 
