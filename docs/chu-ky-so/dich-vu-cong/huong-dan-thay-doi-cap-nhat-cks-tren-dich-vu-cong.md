@@ -6,6 +6,12 @@
 
     Áp dụng cho các trường thay thay đổi cks mới, mua mới, gia hạn, cấp bù
 
+### **Hướng dẫn video thay đổi chữ ký số trên dịch vụ công**
+
+<iframe style="width: 48rem; height: 480px" src="https://www.youtube.com/embed/Scr80ZKislw?si=rP3VlMFAFxTLDn3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## **Hướng dẫn ảnh chi tiết từng bước**
+
 ## I. **Các bước thực hiện**
 
 ### **Bước 1: Đăng nhập vào trang dịch vu công**
