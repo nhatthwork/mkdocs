@@ -21,7 +21,7 @@ hide:
 
     **Bước 3: Tra cứu lỗi + hướng xử lý theo bảng tra cứu ở dưới đây**
 
-??? info "Cách để xem mã lỗi và mô tả lỗi ở phiên bản 2.0 - Bấm vào đây để xem"
+??? info "Cách để xem mã lỗi và mô tả lỗi ở phiên bản 2.0 - Bấm vào đấy để xem"
 
     **Bước 1: Bấm vào chữ có lỗi màu đỏ ở hóa đơn bị lỗi**
 
@@ -53,8 +53,8 @@ hide:
     --spinner-color: #4b52c1;
   }
 
-  body[data-md-color-scheme="slate"] {
-    --bg-table: #1f2127;
+  html[data-theme='dark'] {
+    --bg-table: #1e1e1e;
     --text-color: #f0f0f0;
     --bg-header: #4b52c1;
     --bg-row-alt: #2a2a2a;
@@ -63,7 +63,7 @@ hide:
     --highlight-color: #ffd700;
     --filter-bg: #2a2a2a;
     --spinner-color: #c2c6ff;
-}
+  }
 
   #sheet-table-container {
     width: 100%;
