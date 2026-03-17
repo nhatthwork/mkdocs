@@ -222,6 +222,7 @@ nav:
               - Thay đổi địa chỉ doanh nghiệp trên hóa đơn: minvoice1/huong-dan/thay-doi-dia-chi-tren-hoa-don.md
               - minvoice1/huong-dan/huong-dan-su-dung-phieu-de-nghi-thu-tien.md
               - minvoice1/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md
+              - minvoice1/huong-dan/huong-dan-de-nghi-tam-dung-su-dung-hoa-don-dien-tu.md
           - "Các chứng năng hay sử dụng":
               - Tải hàng loạt hoá đơn PDF và XML: minvoice1/huong-dan/in-hang-loat.md
               - minvoice1/huong-dan/chinh-thap-phan.md
@@ -259,6 +260,7 @@ nav:
               - Báo cáo chi tiết: minvoice1/danh-muc-bao-cao/bao-cao-chi-tiet.md
               - Báo cáo tổng hợp: minvoice1/danh-muc-bao-cao/bao-cao-tong-hop.md
               - Báo cáo bảng kê bán ra PL01: minvoice1/danh-muc-bao-cao/bao-cao-pl01.md
+              - Danh mục khách hàng: minvoice1/danh-muc-bao-cao/danh-muc-khach-hang.md
           - "API Document": "https://wiki.minvoice.com.vn/s/2b6b1609-e648-4e47-89f1-d1127055b220"
           - "Lịch sử chỉnh sửa 🕑": minvoice1/lich-su-chinh-sua.md
   - M-invoice 2.0:
@@ -284,6 +286,7 @@ nav:
               - minvoice2/huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe.md
               - minvoice2/huong-dan/huong-dan-su-dung-hoa-don-mua-ban-xe-so-khung-so-may.md
               - minvoice2/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md
+              - minvoice2/huong-dan/huong-dan-de-nghi-tam-dung-su-dung-hoa-don-dien-tu.md
           - "Các chứng năng hay sử dụng":
               - minvoice2/huong-dan/in-hang-loat.md
               - minvoice2/huong-dan/cap-nhat-ky-hieu.md
