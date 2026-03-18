@@ -10,7 +10,7 @@
 
 ### **Bước 1: Vào lại hồ sơ đã kê khai >> tìm đến cột “Phương án” >> sau đó chọn lại dữ liệu cột này >> ghi lại dữ liệu thành công.**
 
-![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-d03-ts_1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-d03-ts_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Sau đó xuất lại tờ khai >> thực hiện ký số và gửi lại tờ khai**
 
@@ -18,7 +18,7 @@
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
-    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
+    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 2)
 
 ![Hình 8](../../assets/images/mBHXH/hotro.png)
 

@@ -10,17 +10,17 @@
 
 ### **Bước 2: Chuyển từ nhà I-VAN khác sang M-BHXH**
 
-![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: check mail BHXH VN gửi mã kích hoạt về như hình dưới**
 
-![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_2.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 4: Click vào TAB Hồ sơ đăng ký / Thay đổi thông tin sử dụng dịch vụ I-VAN / Chọn Đăng ký mới**
 
-![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_3.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_3.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_4.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_4.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 5: Sau đó ký số và gửi lại hồ sơ.**
 
@@ -28,11 +28,11 @@
 
 ### **Bước 1: Hồ sơ đăng ký / Thay đổi thông tin sử dụng dịch vụ I-VAN Click Thay đổi thông tin**
 
-![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_6.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_6.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Đọc Chữ ký số mới**
 
-![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_7.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_7.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Bấm điều chỉnh để nộp hồ sơ**
 
@@ -42,7 +42,7 @@
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
-    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
+    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 2)
 
 ![Hình 8](../../assets/images/mBHXH/hotro.png)
 

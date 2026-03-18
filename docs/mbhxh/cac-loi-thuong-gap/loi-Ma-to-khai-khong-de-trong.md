@@ -1,14 +1,12 @@
-# **BHXH VN trả về lỗi “CE006/ CE007: Đơn vị đã đăng ký**
+# **Mã tờ khai không để trống**
 
 ???+ Bug "Nguyên nhân"
 
-    Do đơn vị đã đăng ký dịch vụ
+    Hệ thống BHXH VN chặn việc gửi file đính kèm ở các thủ tục.
 
-### **Bước 1: Vào mBHXH >> Hồ sơ đăng ký / Thay đổi thông tin sử dụng dịch vụ I-VAN >> Click chọn thay đổi thông tin**
+???+ success "Hướng xử lý"
 
-![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-oe006-ce007-don-vi-da-dang-ky_1.png "Hãy bấm vào để xem rõ hơn")
-
-### **Bước 2: Sau đó ký số và gửi lại hồ sơ.**
+    Các đơn vị hỗ trợ khách hàng báo với khách hàng xóa file đính kèm >>chỉ gửi tờ khai đi là thành công ( trừ thủ tục 606 và 606a)
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
