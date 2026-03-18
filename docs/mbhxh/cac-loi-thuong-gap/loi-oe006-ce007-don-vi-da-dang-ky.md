@@ -6,7 +6,7 @@
 
 ### **Bước 1: Vào mBHXH >> Hồ sơ đăng ký / Thay đổi thông tin sử dụng dịch vụ I-VAN >> Click chọn thay đổi thông tin**
 
-![Hình 1](../../../assets/images/mBHXH/cac-loi-thuong-gap/loi-oe006-ce007-don-vi-da-dang-ky_1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mBHXH/cac-loi-thuong-gap/loi-oe006-ce007-don-vi-da-dang-ky_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Sau đó ký số và gửi lại hồ sơ.**
 

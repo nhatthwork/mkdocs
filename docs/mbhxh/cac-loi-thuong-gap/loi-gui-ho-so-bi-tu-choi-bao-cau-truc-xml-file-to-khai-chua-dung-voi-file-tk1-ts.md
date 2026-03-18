@@ -10,9 +10,9 @@
 
 ### **Bước 1: Vào lại phần tờ khai kê khai hoặc thông tin người lao động >> tìm đến các cột Tỉnh/huyện/xã  khai sinh, tỉnh /huyện/xã nhận hồ sơ, bênh viện >> sau đó chọn lại dữ liệu >> lưu lại**
 
-![Hình 1](../../../assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts_1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts_1.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 1](../../../assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts_2.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts_2.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Thực hiện xuất tờ khai >> ký số và gửi lại**
 

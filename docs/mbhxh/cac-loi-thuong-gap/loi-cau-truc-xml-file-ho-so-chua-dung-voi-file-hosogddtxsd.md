@@ -1,7 +1,5 @@
 # **BHXH VN trả về lỗi “Cấu trúc XML file hồ sơ chưa đúng với file HoSoGDDT.xsd : Line: 1, Position: 4711719 “The element ‘CKy_Dvi’, ...**
 
-
-
 ???+ Bug "Mô tả lỗi"
 
     BHXH VN trả về lỗi “Cấu trúc XML file hồ sơ chưa đúng với file HoSoGDDT.xsd : Line: 1, Position: 4711719 “The element ‘CKy_Dvi’ has incomplete content. List of possible elements expected: ‘Signature’ in namespace ‘http://www.w3.org/2000/09/xmldsig’.
@@ -10,11 +8,11 @@
 
 ### **Bước 1: Hồ sơ đăng ký / Thay đổi thông tin sử dụng dịch vụ I-VAN Click Thay đổi thông tin**
 
-![Hình 1](../../../assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_6.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_6.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Đọc Chữ ký số mới**
 
-![Hình 1](../../../assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_7.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai_7.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 3: Bấm điều chỉnh để nộp hồ sơ**
 

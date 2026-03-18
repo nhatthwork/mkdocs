@@ -10,7 +10,7 @@
 
 ### **Bước 1: Vào lại hồ sơ đã kê khai >> tìm đến cột “Phương án” >> sau đó chọn lại dữ liệu cột này >> ghi lại dữ liệu thành công.**
 
-![Hình 1](../../../assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-d03-ts_1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-d03-ts_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Sau đó xuất lại tờ khai >> thực hiện ký số và gửi lại tờ khai**
 

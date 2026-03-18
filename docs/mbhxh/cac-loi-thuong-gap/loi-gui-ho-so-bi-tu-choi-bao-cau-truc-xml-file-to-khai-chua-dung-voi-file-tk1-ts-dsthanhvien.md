@@ -10,7 +10,7 @@
 
 ### **Bước 1: Vào màn hình nhập tờ khai bổ sung thêm thành viên trong phụ lục**
 
-![Hình 1](../../../assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts-dsthanhvien_1.png "Hãy bấm vào để xem rõ hơn")
+![Hình 1](/assets/images/mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts-dsthanhvien_1.png "Hãy bấm vào để xem rõ hơn")
 
 ### **Bước 2: Kết xuất tờ khai > thực hiện ký số và gửi lại**
 
