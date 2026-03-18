@@ -420,7 +420,14 @@ nav:
               - mbhxh/dang-ky-ivan-cho-don-vi-co-ma.md
               - mbhxh/huong-dan-thay-doi-cap-nhat-cks-tren-bhxh-minvoice.md
           - "Các lỗi thường gặp khi sử dụng phần mềm":
-              - ""
+              - mbhxh/cac-loi-thuong-gap/loi-oe001-don-vi-chua-dang-ky.md
+              - mbhxh/cac-loi-thuong-gap/loi-oe006-ce007-don-vi-da-dang-ky.md
+              - mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai.md
+              - mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts.md
+              - mbhxh/cac-loi-thuong-gap/loi-cau-truc-xml-file-ho-so-chua-dung-voi-file-hosogddtxsd.md
+              - mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-d03-ts.md
+              - mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-d02-ts.md
+              - mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts-dsthanhvien.md
           - Nghiệp vụ bảo hiểm xã hội:
               - mbhxh/ho-so-bao-tang.md
               - mbhxh/ho-so-bao-giam.md
