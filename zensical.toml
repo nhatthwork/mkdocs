@@ -525,7 +525,7 @@ favicon = "assets/icons/favicon-v2.png"
 # - https://zensical.org/docs/setup/language/
 #
 language = "vi"
-logo = "assets/minvoice_horizontal.png"
+logo = "assets/minvoice_white_horizontal.png"
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.
 

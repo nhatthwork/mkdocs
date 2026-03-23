@@ -67,7 +67,7 @@
 .md-status.md-status--nhat::after {
   display: none !important;
 }
-/* 
+
 .md-footer {
   background-color: #363793 !important;
   color: #ffffff !important;
@@ -84,33 +84,33 @@
 }
 
 /* Nếu là link trong header / tabs */
-/* .md-header a,
+.md-header a,
 .md-tabs a,
 .md-footer a {
   color: #ffffff !important;
-} */
+} 
 
 
 /* Chữ "Tìm kiếm" */
-/* .md-search__button {
+.md-search__button {
   color: #ffffff !important;
-} */
+} 
 
 /* Icon kính lúp */
-/* .md-search__icon {
+ .md-search__icon {
   color: #ffffff !important;
   fill: #ffffff !important;
-} */
+} 
 
 /* Nếu icon là svg */
-/* .md-search__icon svg {
+ .md-search__icon svg {
   fill: #ffffff !important;
   color: #ffffff !important;
-} */
+} 
 
-/* .md-search__button::before {
+ .md-search__button::before {
     background-color: #ffffff !important;
-}  */
+}  
 
 
 /* Ẩn riêng dòng “Made with Zensical” */
