@@ -1,0 +1,264 @@
+/* ============================================================
+   CARDS.CSS v5 — Bold & Distinguished
+   docs/assets/stylesheets/cards.css
+   ============================================================ */
+
+/* ---------- GRID ---------- */
+.card-grid-3 {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 18px;
+  margin: 16px 0 32px;
+  align-items: stretch;
+}
+.card-grid-2 {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 20px;
+  margin: 16px 0 32px;
+  align-items: stretch;
+}
+.card-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-auto-rows: 1fr;
+  gap: 16px;
+  margin: 16px 0 32px;
+  align-items: stretch;
+}
+@media (max-width: 960px) {
+  .card-grid-3 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .card-grid-4 { grid-template-columns: repeat(2, minmax(0,1fr)); }
+}
+@media (max-width: 600px) {
+  .card-grid-3,
+  .card-grid-2,
+  .card-grid-4 { grid-template-columns: 1fr; }
+}
+
+/* ---------- BASE CARD ---------- */
+.ncard {
+  background: #ffffff;
+  border: 1.5px solid #E8EAF2;
+  border-radius: 20px;
+  padding: 28px 26px 22px;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none !important;
+  color: inherit !important;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+  transition:
+    border-color 0.25s ease,
+    box-shadow   0.25s ease,
+    transform    0.25s cubic-bezier(.22,.68,0,1.2);
+}
+
+/* Subtle colored left border accent */
+.ncard::after {
+  content: '';
+  position: absolute;
+  left: 0; top: 20%; bottom: 20%;
+  width: 3px;
+  border-radius: 0 3px 3px 0;
+  background: #363793;
+  opacity: 0;
+  transition: opacity 0.25s, top 0.25s, bottom 0.25s;
+}
+
+.ncard:hover {
+  border-color: #9496D4;
+  box-shadow:
+    0 0 0 4px rgba(54,55,147,0.07),
+    0 20px 50px rgba(54,55,147,0.14);
+  transform: translateY(-6px);
+}
+.ncard:hover::after {
+  opacity: 1;
+  top: 15%;
+  bottom: 15%;
+}
+
+/* ---------- ICON ---------- */
+.ncard-icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  flex-shrink: 0;
+  position: relative;
+}
+.ncard-icon img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  border-radius: 8px;
+  display: block;
+}
+.ncard-icon svg { display: block; }
+
+/* Icon themes — solid background + matching shadow */
+.icon-indigo {
+  background: #EDEEFF;
+  box-shadow: 0 8px 20px rgba(54,55,147,0.15);
+}
+.icon-amber {
+  background: #FFF3D6;
+  box-shadow: 0 8px 20px rgba(217,119,6,0.15);
+}
+.icon-green {
+  background: #DCFBEF;
+  box-shadow: 0 8px 20px rgba(5,150,105,0.15);
+}
+.icon-red {
+  background: #FEE2E2;
+  box-shadow: 0 8px 20px rgba(220,38,38,0.15);
+}
+.icon-sky {
+  background: #DBEAFE;
+  box-shadow: 0 8px 20px rgba(2,132,199,0.15);
+}
+.icon-gray {
+  background: #F1F3F6;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+
+/* ---------- TOP ROW ---------- */
+.ncard-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.ncard-top .ncard-icon { margin-bottom: 20px; }
+
+/* ---------- BADGE ---------- */
+.ncard-badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 99px;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+  margin-top: 6px;
+}
+.badge-amber  { background: #FEF3C7; color: #92400E; }
+.badge-indigo { background: #EDEEFF; color: #363793; }
+.badge-green  { background: #D1FAE5; color: #065F46; }
+.badge-red    { background: #FEE2E2; color: #991B1B; }
+
+/* ---------- STEP LABEL ---------- */
+.ncard-step {
+  font-size: 10px !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.12em !important;
+  text-transform: uppercase !important;
+  color: #a0a4b8 !important;
+  margin: 0 0 10px !important;
+  display: block;
+}
+
+/* ---------- TYPOGRAPHY ---------- */
+.ncard-title {
+  font-size: 15.5px !important;
+  font-weight: 800 !important;
+  color: #0D0F1C !important;
+  margin: 0 0 9px !important;
+  line-height: 1.3 !important;
+  letter-spacing: -0.02em !important;
+}
+.ncard-desc {
+  font-size: 13px !important;
+  color: #717585 !important;
+  line-height: 1.75 !important;
+  margin: 0 !important;
+  flex: 1;
+}
+
+/* ---------- FOOTER ---------- */
+.ncard-footer {
+  margin-top: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* ---------- ARROW ---------- */
+.ncard-arrow {
+  width: 30px;
+  height: 30px;
+  border-radius: 9px;
+  background: #F0F1FA;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  color: #8C8FB8;
+  flex-shrink: 0;
+  transition: background 0.22s, color 0.22s, transform 0.22s cubic-bezier(.22,.68,0,1.2);
+  line-height: 1;
+  font-style: normal;
+}
+.ncard:hover .ncard-arrow {
+  background: #363793;
+  color: #ffffff;
+}
+
+/* ---------- CTA LINK ---------- */
+.ncard-link {
+  font-size: 13px !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  transition: gap 0.2s;
+}
+.ncard-link:hover { gap: 9px; }
+.ncard-link.indigo { color: #363793 !important; }
+.ncard-link.amber  { color: #D97706 !important; }
+.ncard-link.green  { color: #059669 !important; }
+.ncard-link.red    { color: #DC2626 !important; }
+
+/* ---------- DOWNLOAD BUTTON ---------- */
+.ncard-dl-icon {
+  width: 36px;
+  height: 36px;
+  border-radius: 11px;
+  background: #EDEEFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline: none;
+  box-shadow: 0 4px 12px rgba(54,55,147,0.15);
+  appearance: none;
+  -webkit-appearance: none;
+  text-decoration: none !important;
+  flex-shrink: 0;
+  transition: background 0.2s, transform 0.22s cubic-bezier(.22,.68,0,1.3), box-shadow 0.2s;
+}
+.ncard-dl-icon:hover {
+  background: #363793;
+  transform: scale(1.12);
+  box-shadow: 0 6px 18px rgba(54,55,147,0.35);
+}
+.ncard-dl-icon:hover svg { stroke: #ffffff; }
+.ncard-dl-icon svg {
+  display: block;
+  transition: stroke 0.2s;
+}
+
+/* ---------- STEP CARD ---------- */
+.ncard.step-card {
+  border-radius: 22px;
+  padding: 32px 28px 26px;
+}
+

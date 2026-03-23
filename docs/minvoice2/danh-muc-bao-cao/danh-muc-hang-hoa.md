@@ -1,0 +1,63 @@
+---
+icon: lucide/shopping-cart
+---
+# **Danh mục hàng hóa, dịch vụ**
+
+## **Thêm danh mục hàng hóa, dịch vụ**
+
+Sử dụng để thêm mã hàng hoá, dịch vụ
+
+???+ Note "Mục đích"
+
+    Chuẩn hóa dữ liệu: Lưu sẵn tên hàng hóa/dịch vụ, đơn vị tính, thuế suất… để dùng thống nhất, tránh nhập sai.
+
+    Xuất hóa đơn nhanh hơn: Chỉ cần chọn từ danh mục, không phải nhập lại nhiều lần.
+
+    Giảm sai sót: Hạn chế lỗi chính tả, nhầm thuế suất, nhầm đơn vị tính khi lập hóa đơn.
+
+### **Trên giao diện trang chủ truy cập Danh mục --> Hàng hóa, dịch vụ**
+
+![Hình 1](../../assets/images/invoice2/2.0_danh-muc-hang-hoa_1.png "Hãy bấm vào để xem rõ hơn")
+
+=== "Cách 1: Nhập thủ công"
+
+    Bạn nhấn nút **Thêm(F4)** để bắt đầu thêm Hàng hóa, dịch vụ
+    Nhập đầy đủ thông tin như **mã hàng, tên hàng, thuế suât .....Vvvv**
+    Khi nhập xong bạn nhấn **Lưu** để lưu hàng mã hàng hóa dịch vụ này vào
+
+    ![Hình 2](../../assets/images/invoice2/2.0_danh-muc-hang-hoa_2.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 3](../../assets/images/invoice2/2.0_danh-muc-hang-hoa_3.png "Hãy bấm vào để xem rõ hơn")
+    Như vậy bạn đã tạo 1 mã hàng thành công trên hệ thống
+
+=== "Cách 2: Nhập từ file excel"
+
+    Trên giao diện Danh mục hàng hóa dịch vụ bạn chọn **Nhập Excel**, sau đó nhấn **Tải file mẫu**
+
+    ![Hình 4](../../assets/images/invoice2/2.0_danh-muc-hang-hoa_4.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 5](../../assets/images/invoice2/2.0_danh-muc-hang-hoa_5.png "Hãy bấm vào để xem rõ hơn")
+
+    Nhập đầy đủ thông tin bạn muốn tải lên vào file mẫu sau đó lưu lại (Những mục có dấu * là bắt buộc)
+
+    ![Hình 6](../../assets/images/invoice2/2.0_danh-muc-hang-hoa_6.png "Hãy bấm vào để xem rõ hơn")
+
+    Quay trở lại phần mềm nhấn Choose File để chọn file vừa lưu, sau đó nhấn Nhận File
+
+    Như vậy là bạn đã tải file excel lên thành công
+
+=== "Kết xuất Excel danh mục hàng hóa"
+
+    **Mục đích:** Tải excel danh mục hàng hóa về để lưu trữ hoặc phân tích
+
+    ![Hình 6](../../assets/images/invoice2/2.0_danh-muc-hang-hoa_7.png "Hãy bấm vào để xem rõ hơn")
+
+    Anh chị chọn số lượng hàng hóa muốn kết xuất tối đa 300 hàng hóa -> Kết xuất excel, trường hợp anh chị nhiều hơn có thể kết xuất nhiều lần
+
+???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
+
+    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
+
+![Hình 7](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
+
+<div class="last-updated">Last updated on <strong>Feb 02, 2026</strong> by <strong>nhatth</strong></div>

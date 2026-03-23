@@ -1,0 +1,233 @@
+:root {
+  --md-primary-fg-color: #363793;
+  --md-primary-fg-color--light: #363793;
+  --md-primary-fg-color--dark: #363793;
+}
+
+.md-footer {
+  background-color: #363793 !important;
+}
+
+.md-tabs__list {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.md-tabs__list li:hover,
+.md-tabs__list a:hover {
+  color: #f53423;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  fill: currentcolor;
+  display: block;
+  height: 2.5rem;
+  width: auto;
+}
+
+.md-ellipsis {
+  padding-top: 0.3rem;
+}
+
+.md-banner {
+  display: none !important;
+}
+
+.mdx-hero__content {
+  max-width: 21rem !important;
+}
+
+/* Bo góc nhẹ cho thanh tìm kiếm mặc định */
+.md-search__form {
+  border-radius: 10px !important; /* hoặc 8px nếu muốn bo ít hơn */
+}
+
+.md-button md-button--primary {
+  border-radius: 20px !important; /* hoặc 8px nếu muốn bo ít hơn */
+}
+
+.md-button {
+  border-radius: 20px !important; /* hoặc 8px nếu muốn bo ít hơn */
+}
+
+/* 💡 Gạch chân và màu chữ cho tab đang chọn */
+.md-tabs__item--active {
+  background-color: transparent !important; /* Loại bỏ nền xám mặc định */
+  position: relative;
+}
+/* Gạch chân nhỏ phía dưới tab đang chọn */
+.md-tabs__item--active::after {
+  content: "";
+  position: absolute;
+  left: 25%;
+  bottom: 0;
+  width: 50%;
+  height: 3px;
+  background-color: #ffffff !important; /* Màu thanh highlight */
+  border-radius: 2px;
+}
+
+/* Chế độ sáng (default) */
+body[data-md-color-scheme="default"] .md-nav__link:hover {
+  background-color: #eaf0fe;
+  border: 1px solid #ccc;
+}
+
+body[data-md-color-scheme="default"] .md-nav__link--active {
+  color: #2d6df6 !important;
+  background-color: #eaf0fe;
+  font-weight: bold;
+  border: 0.5px solid #2d6df6;
+}
+
+/* Chế độ tối (slate) */
+body[data-md-color-scheme="slate"] .md-nav__link:hover {
+  background-color: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+body[data-md-color-scheme="slate"] .md-nav__link--active {
+  color: #88b5ff !important;
+  background-color: rgba(255, 255, 255, 0.1);
+  font-weight: bold;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.last-updated {
+  text-align: right;
+  font-size: 0.75em;
+  color: #777;
+  margin-top: 2em;
+  font-style: italic;
+}
+/* Vùng chứa tất cả tab */
+.tabbed-labels--linked {
+  background-color: #e0f2fe; /* xanh lam nhạt – hiện đại */
+  border-radius: 6px;
+  padding: 12px 16px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 1.5rem;
+}
+
+/* Label bao ngoài mỗi tab */
+.tabbed-labels--linked label {
+  font-weight: 500;
+  position: relative; /* để chứa tooltip */
+}
+
+/* Style chung cho tab */
+.tabbed-labels--linked label a {
+  display: inline-block;
+  padding: 10px 16px;
+  font-size: 15px;
+  background-color: #ffffff;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  cursor: pointer;
+  color: #374151;
+}
+
+/* Hover: thay đổi màu sắc tab */
+.tabbed-labels--linked label a:hover {
+  background-color: #f3f4f6;
+  border-color: #3b82f6;
+  color: #1d4ed8;
+}
+
+/* Tooltip hiện khi hover */
+.tabbed-labels--linked label a::after {
+  content: "Bấm vào đây để xem";
+  position: absolute;
+  bottom: 120%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #111827;
+  color: #ffffff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+  z-index: 20;
+}
+
+/* Hiện tooltip khi hover */
+.tabbed-labels--linked label a:hover::after {
+  opacity: 1;
+}
+
+.copy-link-button {
+  position: relative;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 4px;
+  margin-left: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.copy-link-button svg {
+  fill: #666666;
+  transition: fill 0.2s ease;
+}
+
+.copy-link-button:hover svg {
+  fill: #2f81f7;
+}
+
+/* Tooltip */
+.copy-link-button .tooltip {
+  visibility: hidden;
+  opacity: 0;
+  position: absolute;
+  top: -28px;
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 10;
+  transition: opacity 0.3s ease;
+}
+
+.copy-link-button:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+}
+
+.question {
+  position: relative;
+  cursor: pointer;
+}
+
+.question::after {
+  content: "Bấm vào để xem";
+  position: absolute;
+  bottom: 100%; /* hiển thị phía trên */
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 5px 8px;
+  font-size: 12px;
+  white-space: nowrap;
+  border-radius: 4px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+}
+
+.question:hover::after {
+  opacity: 1;
+}

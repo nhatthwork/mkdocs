@@ -1,0 +1,739 @@
+[project]
+
+# The site_name is shown in the page header and the browser window title
+#
+# Read more: https://zensical.org/docs/setup/basics/#site_name
+site_name = "Hướng dẫn sử dụng"
+
+# The site_description is included in the HTML head and should contain a
+# meaningful description of the site content for use by search engines.
+#
+# Read more: https://zensical.org/docs/setup/basics/#site_description
+site_description = "A new project generated from the default template project."
+
+# The site_author attribute. This is used in the HTML head element.
+#
+# Read more: https://zensical.org/docs/setup/basics/#site_author
+site_author = "NHATTH"
+
+# The site_url is the canonical URL for your site. When building online
+# documentation you should set this.
+# Read more: https://zensical.org/docs/setup/basics/#site_url
+#site_url = "https://www.example.com/"
+
+# The copyright notice appears in the page footer and can contain an HTML
+# fragment.
+#
+# Read more: https://zensical.org/docs/setup/basics/#copyright
+
+
+copyright = """
+Copyright &copy; 2026 M-invoice
+"""
+
+# Zensical supports both implicit navigation and explicitly defined navigation.
+# If you decide not to define a navigation here then Zensical will simply
+# derive the navigation structure from the directory structure of your
+# "docs_dir". The definition below demonstrates how a navigation structure
+# can be defined using TOML syntax.
+#
+# Read more: https://zensical.org/docs/setup/navigation/
+nav = [
+  { "Home" = "index.md" },
+
+  { "Đơn vị tích hợp" = [
+      { "Danh sách đơn vị tích hợp" = "minvoice2/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop.md" },
+      { "Bổ sung các điểm mới theo NGHỊ ĐỊNH 70/2025/NĐ-CP" = "minvoice2/ds-don-vi-tich-hop/bo-sung-nd70.md" },
+      { "Hướng dẫn tích hợp hóa đơn bán hàng theo Nghị quyết số 174/2024/QH15" = "minvoice2/ds-don-vi-tich-hop/nqhi-quyet-so-174.md" }
+  ]},
+
+  { "M-invoice 1.0" = [
+        { "Tổng quan" = "minvoice1/tong-quan.md" },
+
+        { "Hướng dẫn sử dụng" = [
+            { "Đăng nhập" = "minvoice1/huong-dan/dang-nhap.md" },
+            { "Dashboard 1.0" = "minvoice1/huong-dan/dashboard.md" },
+            { "Cài đặt plugin" = "minvoice1/huong-dan/cai-dat-plugin.md" },
+            { "Hướng dẫn lập và phát hành hóa đơn (Thêm, sửa, xoá ,sao chép)" = "minvoice1/huong-dan/lap-va-phat-hanh-hoa-don.md" },
+            { "Đăng ký / thay đổi tờ khai theo NĐ70" = "minvoice1/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md" },
+            { "Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70" = "minvoice1/huong-dan/them-CKS.md" },
+            { "Thay đổi địa chỉ doanh nghiệp trên hóa đơn" = "minvoice1/huong-dan/thay-doi-dia-chi-tren-hoa-don.md" },
+            { "Hướng dẫn sử dụng phiếu đề nghị thu tiền" = "minvoice1/huong-dan/huong-dan-su-dung-phieu-de-nghi-thu-tien.md" },
+            { "Xuất hóa đơn chiết khấu thương mại theo NĐ70" = "minvoice1/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md" },
+            { "Hướng dẫn đề nghị tạm dừng sử dụng hóa đơn điện tử" = "minvoice1/huong-dan/huong-dan-de-nghi-tam-dung-su-dung-hoa-don-dien-tu.md" }
+        ]},
+
+        { "Các chứng năng hay sử dụng" = [
+            { "Tải hàng loạt hoá đơn PDF và XML" = "minvoice1/huong-dan/in-hang-loat.md" },
+            { "Chỉnh thập phân" = "minvoice1/huong-dan/chinh-thap-phan.md" },
+            { "Cập nhật ký hiệu" = "minvoice1/huong-dan/cap-nhat-ky-hieu.md" },
+            { "Sửa tay tiền thuế và tổng tiền" = "minvoice1/huong-dan/sua-tien-bang-tay.md" },
+            { "Tạo hóa đơn bằng file excel" = "minvoice1/huong-dan/nhap-excel-hang-loat.md" },
+            { "Nhập file excel chi tiết" = "minvoice1/huong-dan/nhap-excel-chi-tiet.md" },
+            { "Thêm mới tài khoản" = "minvoice1/huong-dan/them-user.md" },
+            { "Lấy lại mật khẩu" = "minvoice1/huong-dan/lay-mat-khau.md" }
+        ]},
+
+        { "Các lỗi thường gặp khi sử dụng phần mềm" = [
+            { "Gửi mail báo \"Xác thực không hợp lệ\"" = "minvoice1/loi-thuong-gap/gui-mail-loi.md" },
+            { "Tổng hợp các lỗi truyền nhận thông điệp CQT" = "minvoice1/loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md" }
+        ]},
+
+        { "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót" = [
+            { "Lập biên bản hóa đơn sai sót" = "minvoice1/xu-ly-sai-sot/lap-bien-ban-hoa-don.md" },
+            { "Hướng dẫn thao tác ký biên bản người mua" = "minvoice1/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md" },
+            { "Thay thế hóa đơn" = "minvoice1/xu-ly-sai-sot/thay-the.md" },
+            { "Điều chỉnh hóa đơn" = "minvoice1/xu-ly-sai-sot/dieu-chinh.md" },
+
+            { "Các trường hợp điều chỉnh hoá đơn" = [
+                { "Điều chỉnh tăng đơn giá hàng hóa" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md" },
+                { "Điều chỉnh tăng số lượng hàng hóa" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa.md" },
+                { "Điều chỉnh tăng thuế suất" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat.md" },
+                { "Điều chỉnh tăng thành tiền" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md" },
+                { "Điều chỉnh giảm đơn giá hàng hóa" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa.md" },
+                { "Điều chỉnh giảm số lượng hàng hóa" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa.md" },
+                { "Điều chỉnh giảm thuế suất" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat.md" },
+                { "Điều chỉnh giảm thành tiền" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md" },
+                { "Điều chỉnh tên hàng hóa" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa.md" },
+                { "Điều chỉnh mã số thuế người mua hàng" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang.md" },
+                { "Điều chỉnh đơn vị tính của hàng hóa" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa.md" },
+                { "Điều chỉnh hình thức thanh toán" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan.md" }
+            ]},
+
+            { "Điều chỉnh hoá đơn về 0 (Tương đương huỷ hoá đơn)" = "minvoice1/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md" },
+            { "Thông báo 04/SS-HDDT sai sót theo NĐ70" = "minvoice1/xu-ly-sai-sot/lap-04ss.md" }
+        ]},
+
+        { "Danh mục và báo cáo" = [
+            { "Báo cáo chi tiết" = "minvoice1/danh-muc-bao-cao/bao-cao-chi-tiet.md" },
+            { "Báo cáo tổng hợp" = "minvoice1/danh-muc-bao-cao/bao-cao-tong-hop.md" },
+            { "Báo cáo bảng kê bán ra PL01" = "minvoice1/danh-muc-bao-cao/bao-cao-pl01.md" },
+            { "Danh mục khách hàng" = "minvoice1/danh-muc-bao-cao/danh-muc-khach-hang.md" }
+            
+        ]},
+
+        { "API Document" = "https://wiki.minvoice.com.vn/s/2b6b1609-e648-4e47-89f1-d1127055b220" },
+        { "Lịch sử chỉnh sửa 🕑" = "minvoice1/lich-su-chinh-sua.md" }
+  ]},
+{ "M-invoice 2.0" = [
+        { "Tổng quan" = "minvoice2/tong-quan.md" },
+
+        { "Hướng dẫn sử dụng" = [
+            "minvoice2/huong-dan/dang-nhap.md",
+            "minvoice2/huong-dan/dashboard.md",
+            "minvoice2/huong-dan/chinh-sua-mau-hoa-don.md",
+
+            { "Các trường hợp chỉnh mẫu hoá đơn" = [
+                "minvoice2/chinh-sua-mau-hoa-don/huong-dan-them-logo-len-mau-hoa-don.md",
+                "minvoice2/chinh-sua-mau-hoa-don/huong-dan-them-khung-vien-mau-hoa-don.md",
+                "minvoice2/chinh-sua-mau-hoa-don/huong-dan-them-hinh-nen-len-mau-hoa-don.md",
+                "minvoice2/chinh-sua-mau-hoa-don/huong-dan-bat-tat-che-do-song-ngu.md",
+                "minvoice2/chinh-sua-mau-hoa-don/huong-dan-chinh-font-chu-co-chu-va-can-le-mau-hoa-don.md"
+            ]},
+
+            { "Hướng dẫn lập và phát hành hóa đơn (Thêm, sửa, xoá ,sao chép)" = "minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md" },
+            "minvoice2/huong-dan/plugin.md",
+            "minvoice2/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md",
+            "minvoice2/huong-dan/them-cks-moi.md",
+            "minvoice2/huong-dan/thay-doi-dia-chi-tren-hoa-don.md",
+            "minvoice2/huong-dan/chuyen-doi-so-dinh-danh-ca-nhan-thay-the-ma-so-thue.md",
+            "minvoice2/huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe.md",
+            "minvoice2/huong-dan/huong-dan-su-dung-hoa-don-mua-ban-xe-so-khung-so-may.md",
+            "minvoice2/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md",
+            "minvoice2/huong-dan/huong-dan-de-nghi-tam-dung-su-dung-hoa-don-dien-tu.md"
+        ]},
+
+        { "Các chứng năng hay sử dụng" = [
+            "minvoice2/huong-dan/in-hang-loat.md",
+            "minvoice2/huong-dan/cap-nhat-ky-hieu.md",
+            "minvoice2/huong-dan/huong-dan-tao-ky-hieu-moi-theo-loai-hoa-don-su-dung.md",
+            "minvoice2/huong-dan/chinh-thap-phan.md",
+            "minvoice2/huong-dan/gui-mail.md",
+            "minvoice2/huong-dan/ky-hang-loat.md",
+
+            { "Nhập excel hàng loạt hóa đơn và chi tiết dòng hàng" = [
+                "minvoice2/huong-dan/nhap-excel-hang-loat.md",
+                "minvoice2/huong-dan/nhap-excel-chi-tiet.md"
+            ]},
+
+            "minvoice2/huong-dan/chuyen-ky-hieu.md",
+            "minvoice2/huong-dan/keo-bien-nd70.md",
+            "minvoice2/huong-dan/lay-macqt.md",
+            "minvoice2/huong-dan/khoi-phuc-trang-thai-hoa-don.md",
+            "minvoice2/huong-dan/them-nguoi-dung.md",
+            "minvoice2/huong-dan/phan-quyen.md",
+            "minvoice2/huong-dan/lay-mat-khau-dang-nhap.md",
+            "minvoice2/huong-dan/cau-hinh-email-rieng-de-gui-hoa-don.md",
+            "minvoice2/huong-dan/huong-dan-in-chuyen-doi-hoa-don.md"
+        ]},
+
+        { "Các câu hỏi và lỗi thường gặp khi sử dụng phần mềm" = [
+            { "Các câu hỏi thường gặp" = "minvoice2/cac-cau-hoi-thuong-gap/cau-hoi-thuong-gap-ve-hoa-don-dien-tu.md" },
+
+            { "Các lỗi thường gặp" = [
+                { "Các lỗi ký hoá đơn thường gặp" = [
+                    "minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-chua-cai-dat-cong-cu-plugin-de-ky-hoa-don.md",
+                    "minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/ban-da-huy-bo-thao-tac-ky.md",
+                    "minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/huong-dan-xu-ly-loi-ky-bien-ban-bao-loi-vui-long-nang-cap-phien-ban-plugin-ky.md",
+                    "minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/loi-ky-hoa-don-chua-cai-dat-plugin-tren-trinh-duyet-chrome.md",
+                    "minvoice2/cac-loi-thuong-gap/cac-loi-ky-hoa-don-thuong-gap/loi-ky-ma-so-thue-cua-chung-thu-so-khac-ma-so-thue-tren-phan-mem.md"
+                ]},
+
+                "minvoice2/cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md",
+                "minvoice2/cac-loi-thuong-gap/sua-loi-so-dong-bi-sang-trang-khi-chua-het-trang.md",
+                "minvoice2/cac-loi-thuong-gap/loi-so-serialNumber-chung-thu-so-da-ton-tai-tren-phan-mem.md",
+                "minvoice2/cac-loi-thuong-gap/loi-the-json-value-could-not-be-converted-to-system.string.md"
+            ]}
+        ]},
+
+        { "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót" = [
+            { "Lập biên bản hóa đơn sai sót" = "minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md" },
+            { "Hướng dẫn thao tác ký biên bản người mua" = "minvoice2/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md" },
+            "minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md",
+
+            { "Các trường hợp điều chỉnh hoá đơn" = [
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa.md",
+                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan.md"
+            ]},
+
+            { "Điều chỉnh hoá đơn về 0 (Tương đương hủy hóa đơn)" = "minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md" },
+            "minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md",
+            "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md",
+            "minvoice2/xu-ly-sai-sot/giai-trinh-mau04ss.md",
+            "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-hoa-don-o-nam-cu.md"
+        ]},
+
+        { "Danh mục và báo cáo" = [
+            "minvoice2/danh-muc-bao-cao/bao-cao-tong-hop.md",
+            "minvoice2/danh-muc-bao-cao/bao-cao-chi-tiet.md",
+            "minvoice2/danh-muc-bao-cao/bao-cao-bang-ke-ban-ra-pl01.md",
+            "minvoice2/danh-muc-bao-cao/danh-muc-hang-hoa.md",
+            "minvoice2/danh-muc-bao-cao/danh-muc-khach-hang.md",
+            "minvoice2/danh-muc-bao-cao/danh-muc-don-vi-tinh.md",
+            "minvoice2/danh-muc-bao-cao/danh-muc-thay-doi-thue-suat.md"
+        ]},
+
+        { "Xăng dầu ⛽" = [
+            "minvoice2/xang-dau/huong-dan-xang-dau.md",
+            "minvoice2/xang-dau/ket-xuat-bao-cao-tru-bom.md",
+            "minvoice2/xang-dau/cap-nhat-giam-thue-gtgt-xang.md",
+            "minvoice2/xang-dau/huong-dan-doi-ten-mat-hang-xang-dau.md"
+        ]},
+
+        { "API Document" = "https://wiki.minvoice.com.vn/s/ebefcf08-59ff-49ce-806e-3ce03cda2d2b" },
+        { "Lịch sử chỉnh sửa 🕑" = "minvoice2/lich-su-chinh-sua.md" }
+]},
+
+{ "Chứng từ TNCN" = [
+        { "Tổng quan" = "chung-tu/tong-quan.md" },
+
+        { "Hướng dẫn sử dụng" = [
+            { "Các điểm mới về chứng từ khấu trừ thuế TNCN theo Nghị định 70/2025/NĐ-CP" = "chung-tu/diem-moi.md" },
+            { "Việc cần làm để chuyển đổi đáp ứng Nghị định 70/2025/NĐ-CP" = "chung-tu/viec-can-lam.md" },
+            { "Đăng nhập" = "chung-tu/dang-nhap.md" },
+            "chung-tu/plugin.md",
+            "chung-tu/them-cks-moi.md",
+            "chung-tu/tao-ky-hieu.md",
+            "chung-tu/lap-va-phat-hanh-chung-tu.md",
+            "chung-tu/them-nguoi-dung.md",
+            "chung-tu/phan-quyen.md"
+        ]},
+
+        { "Các chức năng hay sử dụng" = [
+            "chung-tu/cap-nhat-ky-hieu.md",
+            "chung-tu/tai-hang-loat.md",
+            "chung-tu/nhap-excel-hang-loat.md",
+            "chung-tu/gui-mail.md"
+        ]},
+
+        { "Xử lý sai sót Chứng từ điện tử" = [
+            "chung-tu/thay-the-chung-tu.md",
+            "chung-tu/dieu-chinh-chung-tu.md",
+            "chung-tu/giai-trinh-mau04ss.md",
+            "chung-tu/dieu-chinh-va-thay-the-chung-tu-tren-he-thong-khac.md"
+        ]},
+
+        { "Danh mục và báo cáo" = [
+            "chung-tu/danh-muc-khach-hang.md",
+            "chung-tu/bao-cao-tong-hop.md"
+        ]}
+]},
+
+{ "mSMI" = [
+        { "Tổng quan" = "msmi/tong-quan.md" },
+        { "Hướng dẫn sử dụng" = [
+            { "Đăng nhập" = "msmi/dang-nhap.md" },
+            "msmi/huong-dan-cai-dat-plugin-msmi.md",
+            { "Dashboard mSMI" = "msmi/dashboard.md" },
+            "msmi/huong-dan-them-tai-khoan-ket-noi-voi-thue.md",
+            { "Tra cứu hóa đơn và tải về lưu trữ" = "msmi/tra-cuu-va-tai-hoa-don.md" },
+            { "Kiểm tra tình trạng Mã số thuế" = "msmi/kiem-tra-mst.md" },
+            "msmi/dong-bo-chi-tiet-hoa-don.md",
+            { "Đồng bộ thông báo sai sót 04/SS" = "msmi/dong-bo-04ss.md" },
+            { "Đồng bộ hoá đơn qua email" = "msmi/huong-dan-dong-bo-hoa-don-qua-email.md" }
+        ]},
+
+        { "Các lỗi thường gặp khi sử dụng phần mềm" = [
+            { "Tài khoản HDDT mất kết nối" = "msmi/dang-nhap-lai.md" },
+            { "Lấy lại mật khẩu trang Hoadondientu" = "msmi/lay-mat-khau-hddt.md" }
+        ]},
+
+        { "Danh mục và báo cáo" = [
+            { "Bảng kê bán ra - mua vào" = "msmi/bang-ke.md" },
+            { "Báo cáo nhận vào PMKT" = "msmi/bao-cao-pmkt.md" },
+            { "Tờ khai thuế 01GTGT" = "msmi/to-khai-thue01.md" }
+        ]}
+]},
+
+{ "mBHXH" = [
+        { "Tổng quan" = "mbhxh/tong-quan.md" },
+        { "Hướng dẫn sử dụng" = [
+            { "Đăng nhập" = "mbhxh/dang-nhap.md" },
+            "mbhxh/dashboard.md",
+            "mbhxh/dang-ky-tai-khoan.md",
+            "mbhxh/dang-ky-xin-cap-ma.md",
+            "mbhxh/them-ma-don-vi.md",
+            "mbhxh/nhap-excel.md",
+            "mbhxh/thay-doi-thong-tin.md",
+            "mbhxh/cap-nhat-thong-tin-nld-theo-ma-don-vi.md",
+            "mbhxh/cap-nhat-thong-tin-nld.md",
+            "mbhxh/dang-ky-ivan-cho-don-vi-co-ma.md"
+        ]},
+
+        { "Các lỗi thường gặp khi sử dụng phần mềm" = [
+            "mbhxh/cac-loi-thuong-gap/loi-oe001-don-vi-chua-dang-ky.md",
+            "mbhxh/cac-loi-thuong-gap/loi-oe006-ce007-don-vi-da-dang-ky.md",
+            "mbhxh/cac-loi-thuong-gap/loi-se006-don-vi-khong-thuoc-ivan-hien-tai.md",
+            "mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts.md",
+            "mbhxh/cac-loi-thuong-gap/loi-cau-truc-xml-file-ho-so-chua-dung-voi-file-hosogddtxsd.md",
+            "mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-d03-ts.md",
+            "mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-d02-ts.md",
+            "mbhxh/cac-loi-thuong-gap/loi-gui-ho-so-bi-tu-choi-bao-cau-truc-xml-file-to-khai-chua-dung-voi-file-tk1-ts-dsthanhvien.md",
+            "mbhxh/cac-loi-thuong-gap/loi-sai-ma-thu-tuc.md",
+            "mbhxh/cac-loi-thuong-gap/loi-se004-ma-co-quan-bao-hiem-khong-khop-voi-co-quan-bao-hiem-quan-ly-don-vi.md",
+            "mbhxh/cac-loi-thuong-gap/loi-mst-khong-duoc-dang-ky-qua-1-ma-don-vi.md",
+            "mbhxh/cac-loi-thuong-gap/loi-truong-ID-lien-ket-giua-D02-TS-va-TK1-TS-phai-la-duy-nhat.md",
+            "mbhxh/cac-loi-thuong-gap/loi-The-SoLuongFile-element-is-invalid-The-value-8-is-invalid-according-to-its-datatype-Short.md",
+            "mbhxh/cac-loi-thuong-gap/loi-Thong-tin-chu-ky-so-cua-don-vi-khong-dung-voi-thong-tin-da-dang-ky.md",
+            "mbhxh/cac-loi-thuong-gap/loi-sai-ma-tinh-huyen-xa-benh-vien-khai-sinh-hoac-dia-chi.md",
+            "mbhxh/cac-loi-thuong-gap/loi-SE003-Thong-tin-ma-so-thue-ma-don-vi-khong-chinh-xac.md",
+            "mbhxh/cac-loi-thuong-gap/loi-Ma-to-khai-khong-de-trong.md",
+            "mbhxh/cac-loi-thuong-gap/loi-Gui-ho-so-bao-loi-SE999-loi-xu-ly-tren-service-BHXH.md",
+            "mbhxh/cac-loi-thuong-gap/loi-SE005-Thong-tin-ma-don-vi-khong-chinh-xac.md"
+        ]},
+
+        { "Nghiệp vụ bảo hiểm xã hội" = [
+            "mbhxh/ho-so-bao-tang.md",
+            "mbhxh/ho-so-bao-giam.md",
+            "mbhxh/dieu-chinh-muc-dong.md",
+            "mbhxh/che-do-om-dau.md",
+            "mbhxh/che-do-thai-san.md",
+            "mbhxh/che-do-duong-suc.md",
+            "mbhxh/ho-so-608-cap-lai-so-bhxh-do-thay-doi-thong-tin.md",
+            "mbhxh/ho-so-607-cap-lai-so-bhxh-khong-thay-doi-thong-tin.md",
+            "mbhxh/ho-so-604-dang-ky-thay-doi-thong-tin-don-vi.md",
+            "mbhxh/ho-so-601-truy-dong.md"
+        ]}
+]},
+
+{ "mSeller" = [
+        { "Hướng dẫn sử dụng trên máy POS 📱" = [
+            { "Kết nối phần mềm hoá đơn" = "mseller/may-pos/ket-noi-phan-mem-hoa-don.md" },
+            "mseller/may-pos/danh-sach-khach-hang.md",
+            "mseller/may-pos/danh-sach-hang-hoa.md",
+            "mseller/may-pos/xuat-hoa-don.md",
+            "mseller/may-pos/huong-dan-in.md",
+            "mseller/may-pos/sua-xoa-giao-dich.md",
+            "mseller/may-pos/danh-sach-hoa-don.md"
+        ]},
+
+        { "Hướng dẫn sử dụng trên máy tính 💻" = [
+            "mseller/may-tinh/dang-nhap-trang-chu.md",
+            "mseller/may-tinh/loai-hinh-doanh-nghiep.md",
+            "mseller/may-tinh/danh-muc-khach-hang.md",
+            "mseller/may-tinh/danh-muc-hang-hoa.md",
+            "mseller/may-tinh/quan-ly-don-hang.md",
+            "mseller/may-tinh/bao-cao-chi-tiet.md"
+        ]}
+]},
+
+{ "m2Sale" = [
+        { "Hướng dẫn sử dụng trên máy POS 📱" = [
+            { "Kết nối phần mềm hoá đơn" = "mseller/may-pos/ket-noi-phan-mem-hoa-don.md" },
+            "mseller/may-pos/danh-sach-khach-hang.md",
+            "mseller/may-pos/danh-sach-hang-hoa.md",
+            "mseller/may-pos/xuat-hoa-don.md",
+            "mseller/may-pos/huong-dan-in.md",
+            "mseller/may-pos/sua-xoa-giao-dich.md",
+            "mseller/may-pos/danh-sach-hoa-don.md"
+        ]},
+
+        { "Hướng dẫn sử dụng trên máy tính 💻" = [
+            "mseller/may-tinh/dang-nhap-trang-chu.md",
+            "mseller/may-tinh/loai-hinh-doanh-nghiep.md",
+            "mseller/may-tinh/danh-muc-khach-hang.md",
+            "mseller/may-tinh/danh-muc-hang-hoa.md",
+            "mseller/may-tinh/quan-ly-don-hang.md",
+            "mseller/may-tinh/bao-cao-chi-tiet.md"
+        ]}
+]},
+
+{ "Chữ ký số" = [
+        { "Công cụ & phần mềm cần thiết cho Dịch vụ công - Thuế – Hải quan" = "chu-ky-so/phan-mem.md" },
+
+        { "Dịch vụ công" = [
+            "chu-ky-so/dich-vu-cong/huong-dan-cac-nghiep-vu-tren-dich-vu-cong.md",
+            "chu-ky-so/dich-vu-cong/huong-dan-cai-dat-cau-hinh-ky-so-tren-cong-dich-vu-cong.md",
+            "chu-ky-so/dich-vu-cong/dang-ky-tai-khoan-tren-trang-cong-dich-vu-cong-cho-doanh-nghiep-moi.md",
+            "chu-ky-so/dich-vu-cong/huong-dan-dang-nhap-tren-trang-cong-dich-vu-cong-thue-dien-tu.md",
+            "chu-ky-so/dich-vu-cong/huong-dan-nop-to-khai-thue-dien-tu-tren-dich-vu-cong.md",
+            "chu-ky-so/dich-vu-cong/huong-dan-nop-to-khai-bo-sung-tren-cong-dich-vu-cong.md",
+            "chu-ky-so/dich-vu-cong/huong-dan-nop-tien-thue-tren-dich-vu-cong.md",
+            "chu-ky-so/dich-vu-cong/huong-dan-tra-cuu-da-nop-luu-tam-tren-cong-dich-vu-cong-thue-dien-tu.md"
+        ]},
+
+        { "Chữ ký số IntrustCA" = [
+            "chu-ky-so/chu-ky-so-intrustca/them-cks-intrustca-vao-phan-mem-hoa-don.md",
+            "chu-ky-so/chu-ky-so-intrustca/thay-doi-cks-intrustca-tren-thue-dien-tu.md",
+            "chu-ky-so/chu-ky-so-intrustca/huong-dan-ky-so-tren-web-intrustca.md",
+            "chu-ky-so/chu-ky-so-intrustca/huong-dan-ky-so-tren-app-intrustca.md"
+        ]},
+
+        { "Chữ ký số ICA" = [
+            "chu-ky-so/chu-ky-so-ica/cai-dat-ica.md",
+            "chu-ky-so/chu-ky-so-ica/thay-doi-cks-usb-tren-thue-dien-tu.md"
+        ]},
+
+        { "Ký điện tử" = [
+            "chu-ky-so/ky-dien-tu/huong-dan-ky-so-tren-file-pdf-foxit-reader.md"
+        ]}
+]},
+
+{ "Tài liệu" = [
+        { "Tài liệu kỹ thuật 🖥️" = [
+            "tai-lieu/huong-dan-dinh-danh-to-chuc.md",
+            "tai-lieu/tai-lieu-ky-thuat/huong-dan-dang-ky-tai-khoan-giao-dich-thue-dien-tu-cho-ho-kinh-doanh.md"
+        ]},
+
+        { "Tài liệu kinh doanh 💼" = [
+            "tai-lieu/tai-lieu-kinh-doanh.md"
+        ]},
+
+        { "New-invoice" = [
+            "tai-lieu/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md",
+            "tai-lieu/new-invoice/thay-doi-dia-chi-tren-hoa-don.md",
+            "tai-lieu/new-invoice/chuyen-doi-minvoice.md"
+        ]}
+]}
+
+
+  
+]
+
+
+
+# With the "extra_css" option you can add your own CSS styling to customize
+# your Zensical project according to your needs. You can add any number of
+# CSS files.
+#
+# The path provided should be relative to the "docs_dir".
+#
+# Read more: https://zensical.org/docs/customization/#additional-css
+#
+extra_css = [
+  "assets/stylesheets/glightbox.min.css",
+  "assets/stylesheets/custom.css",
+  "assets/stylesheets/card.css",
+  "assets/stylesheets/cards.css",
+  "assets/stylesheets/home.css",
+  "assets/stylesheets/nav-parent.css",
+
+  #"assets/stylesheets/card.css",
+  #"assets/stylesheets/nav.css",
+  #"assets/stylesheets/icon.css",
+  #"assets/stylesheets/typewriter.css",
+]
+# With the `extra_javascript` option you can add your own JavaScript to your
+# project to customize the behavior according to your needs.
+#
+# The path provided should be relative to the "docs_dir".
+#
+# Read more: https://zensical.org/docs/customization/#additional-javascript
+extra_javascript = [
+  "assets/javascripts/glightbox.min.js",
+  "assets/javascripts/auto-glightbox.js",
+  "assets/javascripts/cards.js",
+  "assets/javascripts/home.js",
+  "assets/javascripts/nav-parent.js",
+
+
+]
+# ----------------------------------------------------------------------------
+# Section for configuring theme options
+# ----------------------------------------------------------------------------
+
+repo_url = "https://minvoice.vn/"
+repo_name = "M-invoice"
+
+[project.theme]
+
+
+# change this to "classic" to use the traditional Material for MkDocs look.
+#variant = "classic"
+
+# Zensical allows you to override specific blocks, partials, or whole
+# templates as well as to define your own templates. To do this, uncomment
+# the custom_dir setting below and set it to a directory in which you
+# keep your template overrides.
+#
+# Read more:
+# - https://zensical.org/docs/customization/#extending-the-theme
+#
+#custom_dir = "overrides"
+
+# With the "favicon" option you can set your own image to use as the icon
+# browsers will use in the browser title bar or tab bar. The path provided
+# must be relative to the "docs_dir".
+#
+# Read more:
+# - https://zensical.org/docs/setup/logo-and-icons/#favicon
+# - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
+#
+favicon = "assets/icons/favicon-v2.png"
+
+# Zensical supports more than 60 different languages. This means that the
+# labels and tooltips that Zensical's templates produce are translated.
+# The "language" option allows you to set the language used. This language
+# is also indicated in the HTML head element to help with accessibility
+# and guide search engines and translation tools.
+#
+# The default language is "en" (English). It is possible to create
+# sites with multiple languages and configure a language selector. See
+# the documentation for details.
+#
+# Read more:
+# - https://zensical.org/docs/setup/language/
+#
+language = "vi"
+logo = "assets/minvoice_horizontal.png"
+# Zensical provides a number of feature toggles that change the behavior
+# of the documentation site.
+
+features = [
+   "navigation.instant.preview",
+    # Zensical includes an announcement bar. This feature allows users to
+    # dismiss it when they have read the announcement.
+    # https://zensical.org/docs/setup/header/#announcement-bar
+    "announce.dismiss",
+
+    # If you have a repository configured and turn on this feature, Zensical
+    # will generate an edit button for the page. This works for common
+    # repository hosting services.
+    # https://zensical.org/docs/setup/repository/#content-actions
+    #"content.action.edit",
+
+    # If you have a repository configured and turn on this feature, Zensical
+    # will generate a button that allows the user to view the Markdown
+    # code for the current page.
+    # https://zensical.org/docs/setup/repository/#content-actions
+    #"content.action.view",
+
+    # Code annotations allow you to add an icon with a tooltip to your
+    # code blocks to provide explanations at crucial points.
+    # https://zensical.org/docs/authoring/code-blocks/#code-annotations
+    "content.code.annotate",
+    "navigation.tabs",
+    #"navigation.tabs.sticky",
+
+    # This feature turns on a button in code blocks that allow users to
+    # copy the content to their clipboard without first selecting it.
+    # https://zensical.org/docs/authoring/code-blocks/#code-copy-button
+    "content.code.copy",
+
+    # Code blocks can include a button to allow for the selection of line
+    # ranges by the user.
+    # https://zensical.org/docs/authoring/code-blocks/#code-selection-button
+    "content.code.select",
+
+    # Zensical can render footnotes as inline tooltips, so the user can read
+    # the footnote without leaving the context of the document.
+    # https://zensical.org/docs/authoring/footnotes/#footnote-tooltips
+    "content.footnote.tooltips",
+
+    # If you have many content tabs that have the same titles (e.g., "Python",
+    # "JavaScript", "Cobol"), this feature causes all of them to switch to
+    # at the same time when the user chooses their language in one.
+    # https://zensical.org/docs/authoring/content-tabs/#linked-content-tabs
+    "content.tabs.link",
+
+    # With this feature enabled users can add tooltips to links that will be
+    # displayed when the mouse pointer hovers the link.
+    # https://zensical.org/docs/authoring/tooltips/#improved-tooltips
+    "content.tooltips",
+
+    # With this feature enabled, Zensical will automatically hide parts
+    # of the header when the user scrolls past a certain point.
+    # https://zensical.org/docs/setup/header/#automatic-hiding
+    # "header.autohide",
+
+    # Turn on this feature to expand all collapsible sections in the
+    # navigation sidebar by default.
+    # https://zensical.org/docs/setup/navigation/#navigation-expansion
+    # "navigation.expand",
+
+    # This feature turns on navigation elements in the footer that allow the
+    # user to navigate to a next or previous page.
+    # https://zensical.org/docs/setup/footer/#navigation
+    "navigation.footer",
+
+    # When section index pages are enabled, documents can be directly attached
+    # to sections, which is particularly useful for providing overview pages.
+    # https://zensical.org/docs/setup/navigation/#section-index-pages
+    "navigation.indexes",
+
+    # When instant navigation is enabled, clicks on all internal links will be
+    # intercepted and dispatched via XHR without fully reloading the page.
+    # https://zensical.org/docs/setup/navigation/#instant-navigation
+    "navigation.instant",
+
+    # With instant prefetching, your site will start to fetch a page once the
+    # user hovers over a link. This will reduce the perceived loading time
+    # for the user.
+    # https://zensical.org/docs/setup/navigation/#instant-prefetching
+    "navigation.instant.prefetch",
+
+    # In order to provide a better user experience on slow connections when
+    # using instant navigation, a progress indicator can be enabled.
+    # https://zensical.org/docs/setup/navigation/#progress-indicator
+    "navigation.instant.progress",
+
+    # When navigation paths are activated, a breadcrumb navigation is rendered
+    # above the title of each page
+    # https://zensical.org/docs/setup/navigation/#navigation-path
+    "navigation.path",
+
+    # When pruning is enabled, only the visible navigation items are included
+    # in the rendered HTML, reducing the size of the built site by 33% or more.
+    # https://zensical.org/docs/setup/navigation/#navigation-pruning
+    #"navigation.prune",
+
+    # When sections are enabled, top-level sections are rendered as groups in
+    # the sidebar for viewports above 1220px, but remain as-is on mobile.
+    # https://zensical.org/docs/setup/navigation/#navigation-sections
+    "navigation.sections",
+
+    # When tabs are enabled, top-level sections are rendered in a menu layer
+    # below the header for viewports above 1220px, but remain as-is on mobile.
+    # https://zensical.org/docs/setup/navigation/#navigation-tabs
+    #"navigation.tabs",
+
+    # When sticky tabs are enabled, navigation tabs will lock below the header
+    # and always remain visible when scrolling down.
+    # https://zensical.org/docs/setup/navigation/#sticky-navigation-tabs
+    #"navigation.tabs.sticky",
+
+    # A back-to-top button can be shown when the user, after scrolling down,
+    # starts to scroll up again.
+    # https://zensical.org/docs/setup/navigation/#back-to-top-button
+    "navigation.top",
+
+    # When anchor tracking is enabled, the URL in the address bar is
+    # automatically updated with the active anchor as highlighted in the table
+    # of contents.
+    # https://zensical.org/docs/setup/navigation/#anchor-tracking
+    "navigation.tracking",
+
+    # When search highlighting is enabled and a user clicks on a search result,
+    # Zensical will highlight all occurrences after following the link.
+    # https://zensical.org/docs/setup/search/#search-highlighting
+    "search.highlight",
+
+    # When anchor following for the table of contents is enabled, the sidebar
+    # is automatically scrolled so that the active anchor is always visible.
+    # https://zensical.org/docs/setup/navigation/#anchor-following
+    # "toc.follow",
+
+    # When navigation integration for the table of contents is enabled, it is
+    # always rendered as part of the navigation sidebar on the left.
+    # https://zensical.org/docs/setup/navigation/#navigation-integration
+    #"toc.integrate",
+    
+]
+
+# ----------------------------------------------------------------------------
+# In the "palette" subsection you can configure options for the color scheme.
+# You can configure different color # schemes, e.g., to turn on dark mode,
+# that the user can switch between. Each color scheme can be further
+# customized.
+#
+# Read more:
+# - https://zensical.org/docs/setup/colors/
+# ----------------------------------------------------------------------------
+
+[[project.theme.palette]]
+scheme = "default"
+primary = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Chuyển sang Dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+primary = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Chuyển sang Light mode"
+
+# ----------------------------------------------------------------------------
+# In the "font" subsection you can configure the fonts used. By default, fonts
+# are loaded from Google Fonts, giving you a wide range of choices from a set
+# of suitably licensed fonts. There are options for a normal text font and for
+# a monospaced font used in code blocks.
+# ----------------------------------------------------------------------------
+#[project.theme.font]
+#text = "Inter"
+#code = "Jetbrains Mono"
+
+# ----------------------------------------------------------------------------
+# You can configure your own logo to be shown in the header using the "logo"
+# option in the "icons" subsection. The logo can be a path to a file in your
+# "docs_dir" or it can be a path to an icon.
+#
+# Likewise, you can customize the logo used for the repository section of the
+# header. Zensical derives the default logo for this from the repository URL.
+# See below...
+#
+# There are other icons you can customize. See the documentation for details.
+#
+# Read more:
+# - https://zensical.org/docs/setup/logo-and-icons
+# - https://zensical.org/docs/authoring/icons-emojis/#search
+# ----------------------------------------------------------------------------
+[project.theme.icon]
+#logo = "assets/icons/logo-invoice.png"
+repo = "fontawesome/solid/globe"
+# ----------------------------------------------------------------------------
+# The "extra" section contains miscellaneous settings.
+# ----------------------------------------------------------------------------
+[project.extra.status]
+nhat = "New"
+
+[project.extra.tags]
+HuongDan2.0 = "Hướng dẫn 2.0"
+HuongDan1.0 = "Hướng dẫn 1.0"
+
+
+
+
+[[project.extra.social]]
+icon = "fontawesome/solid/globe"
+link = "https://minvoice.vn"
+name = "Trang chủ M-invoice"

@@ -1,0 +1,133 @@
+:root > * {
+  --md-primary-fg-color:        #f53423;  /* màu chính */
+  --md-primary-fg-color--light: #f75a4d;  /* hover / active */
+  --md-primary-fg-color--dark:  #c5281b;  /* đậm hơn */
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #f75a4d;
+  --md-primary-fg-color--light: #f98a80;
+  --md-primary-fg-color--dark:  #f53423;
+}
+
+/* Desktop / Tablet */
+.md-header__button.md-logo img {
+  height: 55px;
+  width: auto;
+}
+
+/* Desktop & tablet */
+@media (min-width: 1024px) {
+  .md-grid {
+    max-width: 1580px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+  }
+
+}
+
+@media screen and (min-width: 76.25em) {
+
+  /* Sidebar container */
+  .md-sidebar--primary {
+    width: 18rem;       /* ~256px – vừa mắt */
+    left: -18rem;
+  }
+
+  /* Danh sách menu (text nằm ở đây) */
+  .md-nav--primary .md-nav__list {
+    width: 17.5rem;     /* chừa padding */
+  }
+}
+
+
+.last-updated {
+  text-align: right;
+  font-size: 0.75em;
+  color: #777;
+  margin-top: 2em;
+  font-style: italic;
+}
+
+.md-status.md-status--nhat {
+  background: #fdeaea;          /* đỏ rất nhạt */
+  border-radius: 999px;
+  padding: 0.1rem 0.5rem;
+}
+
+.md-status.md-status--nhat::before {
+  content: "New";
+  color: #d32f2f;               /* đỏ trầm, không chói */
+  font-size: 0.55rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.md-status.md-status--nhat::after {
+  display: none !important;
+}
+/* 
+.md-footer {
+  background-color: #363793 !important;
+  color: #ffffff !important;
+}
+
+.md-header {
+  background-color: #363793 !important;
+  color: #ffffff !important;
+}
+
+.md-tabs {
+  background-color: #363793 !important;
+  color: #ffffff !important;
+}
+
+/* Nếu là link trong header / tabs */
+/* .md-header a,
+.md-tabs a,
+.md-footer a {
+  color: #ffffff !important;
+} */
+
+
+/* Chữ "Tìm kiếm" */
+/* .md-search__button {
+  color: #ffffff !important;
+} */
+
+/* Icon kính lúp */
+/* .md-search__icon {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+} */
+
+/* Nếu icon là svg */
+/* .md-search__icon svg {
+  fill: #ffffff !important;
+  color: #ffffff !important;
+} */
+
+/* .md-search__button::before {
+    background-color: #ffffff !important;
+}  */
+
+
+/* Ẩn riêng dòng “Made with Zensical” */
+.md-copyright > a {
+    display: none !important;
+}
+
+.md-copyright > a::before {
+    display: none !important;
+}
+
+.md-copyright {
+    font-size: 0;
+}
+
+.md-copyright__highlight {
+    font-size: initial;
+        color: #ffffff !important;
+}
+

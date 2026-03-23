@@ -1,0 +1,114 @@
+---
+title: Nhập excel hàng loạt hóa đơn
+description: Chức năng nhập Excel hàng loạt hóa đơn giúp tải lên nhiều hóa đơn cùng lúc, Nhập khẩu excel hàng loạt
+
+icon: fontawesome/solid/file-excel
+---
+
+# **Nhập excel hàng loạt hóa đơn**
+
+## **Hướng dẫn nhập excel hàng loạt hoá đơn**
+
+???+ Note "Mục đích"
+
+    - Thay vì nhập từng hóa đơn thủ công, người dùng có thể chuẩn bị dữ liệu sẵn trong file Excel và nhập tất cả cùng lúc.
+
+    - Đặc biệt hữu ích với các doanh nghiệp có khối lượng hóa đơn lớn.
+
+    - Khi dữ liệu được chuẩn bị và kiểm tra trong Excel trước, việc nhập vào phần mềm sẽ chính xác hơn so với nhập tay.
+
+    - Người dùng có thể sử dụng các công cụ kiểm tra trong Excel (ví dụ: công thức, điều kiện định dạng) để đảm bảo dữ liệu hợp lệ trước khi upload.
+
+???+ Warning "Lưu ý"
+
+    1. Số hóa đơn nhận vào từ file excel sẽ là số hóa đơn kế tiếp trên ký hiệu mà quý khách đã chọn trên phần mềm hóa đơn
+
+    2. Trong mẫu excel được tải về tên sheet để nguyên không được thay đổi
+
+**Thao tác cài đặt và thực hiện như sau**
+
+<iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/CQvhcHjlVMw?si=PzSYCP-afV1R5C_e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+???+ Tip "Mẹo"
+
+    Quý khách lên xem video hướng dẫn nhập excel hang loạt để dễ hinh dung hơn
+
+**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
+
+### **Bước 1: Ở giao diện lập hóa đơn chọn mục Chức năng >> Nhận excel**
+
+![Hình 1](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_1.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 2: Sau đó tiến hành tải file mẫu excel về**
+
+![Hình 2](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_2.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 3: Nhập thông tin khách hàng tại excel**
+
+![Hình 3](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_3.png "Hãy bấm vào để xem rõ hơn")
+
+!!! warning "Lưu ý"
+
+    - **Ký hiệu:** NSD nhập đúng ký hiệu đang sử dụng và nhập như hình ảnh.
+    - **Số đơn hàng:** NSD nhập 00000n.
+    Nếu NSD muốn dòng hàng trên Excel vào chung 1 tờ hóa đơn thì NSD nhập chung 1 số đơn hàng tại các dòng đó.
+    Nếu NSD muốn nhận nhiều hóa đơn thì NSD nhập số đơn hàng khác nhau tại mỗi dòng.
+    - **Ngày hóa đơn:** NSD để đúng định dạng `'dd/MM/yyyy`.
+    Nếu nhập sai sẽ báo lỗi và không nhận được.
+
+### **Bước 4: Điền đầy đủ thông tin tại chi tiết**
+
+!!! warning "Lưu ý"
+
+    + Tính chất: NSD bắt buộc phải Nhập tính chất của dòng hàng.
+    Với
+
+    `1` là Hàng hóa dịch vụ
+
+    `2` là Khuyến Mại
+
+    `3` là Chiết khấu thương mại
+
+    `4` là Ghi chú, diễn giải.
+
+    `5` là Hàng hóa đặc trưng (được quy định tại [Hàng hóa đặc trưng](https://hdsd.minvoice.com.vn/minvoice2/huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe/))
+
+
+    Bắt buộc phải nhập
+
+    + Số thứ tự: NSD nhập số thứ tự tương ứng với dòng hàng để tránh khi nhận bị nhảy dòng không đúng
+
+    + Phần trăm thuế: NSD nhập đúng phần trăm thuế là 5,10,7,8, -1 tương  với không chịu thuế (KCT) và -2 tương ứng với không kê khai(KKKNT)
+
+???+ Bug "Các lỗi thường gặp khi nhập excel lên phần mềm"
+
+    ### Các lỗi thường gặp khi nhập excel lên phần mềm
+
+    ???+ Note "1. Ngày hóa đơn để sai định dạng"
+
+        Định đạng đúng phải là 'dd/MM/yyyy, ví dụ: '19/01/2026
+
+        ![Hình 3](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_6.png "Hãy bấm vào để xem rõ hơn")
+
+
+    ???+ Note "2. Thuế suất để sai định dạng"
+
+        Định dạng đúng là số không điền %, Anh/Chị chỉ cần nhập số
+
+        Ví dụ: Thuế suất là 8% -> Anh chị điền 8
+
+        ![Hình 3](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_7.png "Hãy bấm vào để xem rõ hơn")
+
+    ???+ Note "3. Trường hợp các trường hợp trên đã đúng nhưng khi nhập lên vẫn sai"
+
+        Anh chị hãy tải mẫu mới nhất từ phần mềm và nhập lại
+
+        ![Hình 2](../../assets/images/invoice2/2.0_nhap-excel-hang-loat_2.png "Hãy bấm vào để xem rõ hơn")
+
+???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
+
+    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
+
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
+
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>

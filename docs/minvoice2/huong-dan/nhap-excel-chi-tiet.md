@@ -1,0 +1,61 @@
+---
+title: Nhập excel chi tiết dòng hàng trên 1 hóa đơn
+description: "Hướng dẫn thêm nhanh nhiều hàng hóa dịch vụ vào cùng 1 hóa đơn bằng file Excel, tự động tính tổng tiền, giảm sai sót và tiết kiệm thời gian nhập liệu cho kế toán."
+icon: fontawesome/solid/file-excel
+---
+
+# **Nhập excel chi tiết dòng hàng trên 1 hóa đơn**
+
+## **Hướng dẫn nhập excel chi tiết nhiều hàng hóa vào 1 hoá đơn**
+
+???+ Note "Mục đích"
+
+    Chức năng này cho phép người dùng thêm nhanh nhiều hàng hóa vào cùng 1 hóa đơn thông qua file Excel.
+
+    - Giúp nhập liệu số lượng lớn hàng hóa mà không cần gõ từng dòng.
+
+    - Tiết kiệm thời gian cho kế toán, đặc biệt khi hóa đơn có nhiều mặt hàng.
+
+    - Giảm sai sót về đơn giá, số lượng, thành tiền nhờ dữ liệu được chuẩn hóa trong Excel.
+
+???+ Warning "Lưu ý"
+
+    Bạn có thể nhận excel chi tiết vào được cả các hóa đơn gốc, thay thế, điều chỉnh ở trạng thái chờ ký, và toàn bộ dữ liệu trước đó sẽ thay thế hoàn toàn bằng giá trị trong file excel
+
+**Thao tác cài đặt và thực hiện như sau**
+
+<iframe style="width: 43rem; height: 380px" src="https://www.youtube.com/embed/2BcxuQ1hWbY?si=pCdz31XtA089jPMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+???+ Tip "Mẹo"
+
+    Quý khách lên xem video hướng dẫn nhập excel hang loạt để dễ hinh dung hơn
+
+**Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
+
+### **Bước 1: Ở giao diện trang chủ chọn HOÁ ĐƠN ĐẦU RA nhấn Thêm để bắt đầu lập hóa đơn mới**
+
+![Hình 1](../../assets/images/invoice2/2.0_nhap-excel-chi-tiet_1.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 2: Điền đầy đủ thông tin người mua sau đó nhấn nhận excel chi tiết**
+
+![Hình 2](../../assets/images/invoice2/2.0_nhap-excel-chi-tiet_2.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 3: Chọn tải file mẫu**
+
+![Hình 3](../../assets/images/invoice2/2.0_nhap-excel-chi-tiet_5.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 4: Điền đầy đủ thông tin cần thiết vào file excel sau đó nhấn lưu lại**
+
+![Hình 4](../../assets/images/invoice2/2.0_nhap-excel-chi-tiet_3.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 5: Quay lại phần mềm nhấn Choose File để tải file mẫu lên, sau đó nhận Nhận File**
+
+![Hình 4](../../assets/images/invoice2/2.0_nhap-excel-chi-tiet_4.png "Hãy bấm vào để xem rõ hơn")
+
+???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
+
+    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
+
+![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
+
+<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>
