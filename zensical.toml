@@ -74,7 +74,7 @@ nav = [
             { "Lấy lại mật khẩu" = "minvoice1/huong-dan/lay-mat-khau.md" }
         ]},
 
-        { "Các lỗi thường gặp khi sử dụng phần mềm" = [
+        { "Các câu hỏi và lỗi thường gặp" = [
             { "Gửi mail báo \"Xác thực không hợp lệ\"" = "minvoice1/loi-thuong-gap/gui-mail-loi.md" },
             { "Tổng hợp các lỗi truyền nhận thông điệp CQT" = "minvoice1/loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md" }
         ]},
@@ -167,7 +167,7 @@ nav = [
             "minvoice2/huong-dan/huong-dan-in-chuyen-doi-hoa-don.md"
         ]},
 
-        { "Các câu hỏi và lỗi thường gặp khi sử dụng phần mềm" = [
+        { "Các câu hỏi và lỗi thường gặp" = [
             { "Các câu hỏi thường gặp" = "minvoice2/cac-cau-hoi-thuong-gap/cau-hoi-thuong-gap-ve-hoa-don-dien-tu.md" },
 
             { "Các lỗi thường gặp" = [
@@ -367,26 +367,26 @@ nav = [
         ]}
 ]},
 
-{ "m2Sale" = [
-        { "Hướng dẫn sử dụng trên máy POS 📱" = [
-            { "Kết nối phần mềm hoá đơn" = "mseller/may-pos/ket-noi-phan-mem-hoa-don.md" },
-            "mseller/may-pos/danh-sach-khach-hang.md",
-            "mseller/may-pos/danh-sach-hang-hoa.md",
-            "mseller/may-pos/xuat-hoa-don.md",
-            "mseller/may-pos/huong-dan-in.md",
-            "mseller/may-pos/sua-xoa-giao-dich.md",
-            "mseller/may-pos/danh-sach-hoa-don.md"
-        ]},
+# { "m2Sale" = [
+#         { "Hướng dẫn sử dụng trên máy POS 📱" = [
+#             { "Kết nối phần mềm hoá đơn" = "mseller/may-pos/ket-noi-phan-mem-hoa-don.md" },
+#             "mseller/may-pos/danh-sach-khach-hang.md",
+#             "mseller/may-pos/danh-sach-hang-hoa.md",
+#             "mseller/may-pos/xuat-hoa-don.md",
+#             "mseller/may-pos/huong-dan-in.md",
+#             "mseller/may-pos/sua-xoa-giao-dich.md",
+#             "mseller/may-pos/danh-sach-hoa-don.md"
+#         ]},
 
-        { "Hướng dẫn sử dụng trên máy tính 💻" = [
-            "mseller/may-tinh/dang-nhap-trang-chu.md",
-            "mseller/may-tinh/loai-hinh-doanh-nghiep.md",
-            "mseller/may-tinh/danh-muc-khach-hang.md",
-            "mseller/may-tinh/danh-muc-hang-hoa.md",
-            "mseller/may-tinh/quan-ly-don-hang.md",
-            "mseller/may-tinh/bao-cao-chi-tiet.md"
-        ]}
-]},
+#         { "Hướng dẫn sử dụng trên máy tính 💻" = [
+#             "mseller/may-tinh/dang-nhap-trang-chu.md",
+#             "mseller/may-tinh/loai-hinh-doanh-nghiep.md",
+#             "mseller/may-tinh/danh-muc-khach-hang.md",
+#             "mseller/may-tinh/danh-muc-hang-hoa.md",
+#             "mseller/may-tinh/quan-ly-don-hang.md",
+#             "mseller/may-tinh/bao-cao-chi-tiet.md"
+#         ]}
+# ]},
 
 { "Chữ ký số" = [
         { "Công cụ & phần mềm cần thiết cho Dịch vụ công - Thuế – Hải quan" = "chu-ky-so/phan-mem.md" },
@@ -584,7 +584,7 @@ features = [
     # With this feature enabled, Zensical will automatically hide parts
     # of the header when the user scrolls past a certain point.
     # https://zensical.org/docs/setup/header/#automatic-hiding
-    # "header.autohide",
+    #"header.autohide",
 
     # Turn on this feature to expand all collapsible sections in the
     # navigation sidebar by default.
@@ -625,12 +625,12 @@ features = [
     # When pruning is enabled, only the visible navigation items are included
     # in the rendered HTML, reducing the size of the built site by 33% or more.
     # https://zensical.org/docs/setup/navigation/#navigation-pruning
-    #"navigation.prune",
+    "navigation.prune",
 
     # When sections are enabled, top-level sections are rendered as groups in
     # the sidebar for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-sections
-    "navigation.sections",
+    #"navigation.sections",
 
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
@@ -661,7 +661,7 @@ features = [
     # When anchor following for the table of contents is enabled, the sidebar
     # is automatically scrolled so that the active anchor is always visible.
     # https://zensical.org/docs/setup/navigation/#anchor-following
-    # "toc.follow",
+    "toc.follow",
 
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.

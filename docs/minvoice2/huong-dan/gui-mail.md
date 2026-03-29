@@ -38,7 +38,8 @@ icon: lucide/mails
 ### **Cấu hình email tự động (tùy chọn)**
 
 **Gửi email tự động:** trường hợp anh muốn gửi mail tự động sau khi ký. Anh/Chị truy cập mục `Hệ thống - Khai báo tham số hệ thống` tìm mã `TU_DONG_GUI_EMAIL` sửa thành `C`
-Lưu ý: để gửi được mail tự động anh chị cần phải điền sẵn mail người mua ở hóa đơn.
+
+**Lưu ý:** để gửi được mail tự động anh chị cần phải điền sẵn mail người mua ở hóa đơn.
 
 ![Hình 4](../../assets/images/invoice2/2.0_gui-mail_5.png "Hãy bấm vào để xem rõ hơn")
 
@@ -48,4 +49,4 @@ Lưu ý: để gửi được mail tự động anh chị cần phải điền s
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Mar 27, 2026</strong> by <strong>nhatth</strong></div>

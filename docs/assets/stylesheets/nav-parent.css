@@ -48,3 +48,37 @@
   color: #f53423 !important;
   font-weight: 600 !important;
 }
+
+
+/* ============================================================
+   DARK MODE
+   ============================================================ */
+[data-md-color-scheme="slate"] .md-nav__item--nested > .md-nav__link,
+[data-md-color-scheme="slate"] .md-nav__item--nested > label.md-nav__link {
+  color: #e8e8f2 !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__item--nested > .md-nav__link:hover,
+[data-md-color-scheme="slate"] .md-nav__item--nested > label.md-nav__link:hover {
+  color: #f53423 !important;
+  background: rgba(245,52,35,.1) !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__item--nested.md-nav__item--active > .md-nav__link,
+[data-md-color-scheme="slate"] .md-nav__item--nested.md-nav__item--active > label.md-nav__link {
+  color: #f53423 !important;
+  background: transparent !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__item--nested .md-nav__item:not(.md-nav__item--nested) > .md-nav__link {
+  color: #9090b0 !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__item--nested .md-nav__item:not(.md-nav__item--nested) > .md-nav__link:hover {
+  color: #f53423 !important;
+  background: rgba(245,52,35,.1) !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__item--nested .md-nav__item--active:not(.md-nav__item--nested) > .md-nav__link {
+  color: #f53423 !important;
+}

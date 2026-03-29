@@ -9,6 +9,29 @@
   --md-primary-fg-color--dark:  #f53423;
 }
 
+.md-nav__link[href*="wiki.minvoice.com.vn"] .md-ellipsis,
+.md-nav__link[href*="tong-quan"] .md-ellipsis,
+.md-nav__link[href*="lich-su-chinh-sua"] .md-ellipsis {
+    color: #000000;
+    font-weight: 700;
+}
+
+.md-nav__link--active[href*="wiki.minvoice.com.vn"] .md-ellipsis,
+.md-nav__link[href*="tong-quan"] .md-ellipsis,
+.md-nav__link--active[href*="lich-su-chinh-sua"] .md-ellipsis {
+    color: unset;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link[href*="wiki.minvoice.com.vn"] .md-ellipsis,
+[data-md-color-scheme="slate"] .md-nav__link[href*="lich-su-chinh-sua"] .md-ellipsis {
+    color: #e8e8f2 !important;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link--active[href*="wiki.minvoice.com.vn"] .md-ellipsis,
+[data-md-color-scheme="slate"] .md-nav__link--active[href*="lich-su-chinh-sua"] .md-ellipsis {
+    color: #f53423 !important;
+}
+
 /* Desktop / Tablet */
 .md-header__button.md-logo img {
   height: 55px;

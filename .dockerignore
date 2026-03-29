@@ -1,0 +1,33 @@
+# Git
+.git
+.github
+
+# Python
+.venv
+__pycache__
+*.pyc
+*.pyo
+
+# Cache
+.cache
+
+# Node (nếu có)
+node_modules
+
+# Build output
+site
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db

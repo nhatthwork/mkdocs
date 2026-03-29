@@ -422,3 +422,69 @@
 #chude {
   scroll-margin-top: 80px; /* điều chỉnh theo chiều cao header của bạn */
 }
+
+
+/* Thêm vào cuối home.css */
+[data-md-color-scheme="slate"] .hp {
+  --ink: #e8e8f2;
+  --ink2: #b0b0cc;
+  --ink3: #7070a0;
+  --surf: #1e1e2e;
+  --bg: #151525;
+  --line: #2a2a3e;
+  --line2: #3a3a55;
+  --blue-lt: rgba(56,59,150,.2);
+  --blue-bd: rgba(56,59,150,.3);
+  --red-lt: rgba(245,52,35,.15);
+  --teal-lt: rgba(11,122,98,.2);
+  --green-lt: rgba(42,106,30,.2);
+  --amber-lt: rgba(158,92,8,.2);
+  --sh: 0 2px 8px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.25);
+  --shh: 0 8px 28px rgba(0,0,0,.4), 0 20px 50px rgba(0,0,0,.35);
+}
+
+[data-md-color-scheme="slate"] .hp-hero {
+  background: #1a1a2e;
+}
+
+[data-md-color-scheme="slate"] .hp-hero-mesh {
+  background:
+    radial-gradient(ellipse 800px 500px at 100% 50%, rgba(56,59,150,.15) 0%, transparent 65%),
+    radial-gradient(ellipse 600px 400px at 0% 100%, rgba(245,52,35,.1) 0%, transparent 60%),
+    linear-gradient(135deg, #1a1a2e 0%, #151525 100%);
+}
+
+[data-md-color-scheme="slate"] .hp-stat,
+[data-md-color-scheme="slate"] .hp-card,
+[data-md-color-scheme="slate"] .hp-ov-card,
+[data-md-color-scheme="slate"] .hp-link-card {
+  background: #1e1e2e;
+  border-color: #2a2a3e;
+}
+
+[data-md-color-scheme="slate"] .hp-notice {
+  background: rgba(56,59,150,.15);
+  border-color: rgba(56,59,150,.25);
+}
+
+[data-md-color-scheme="slate"] .hp-invoice-section {
+  background: linear-gradient(135deg, #1a1a2e 0%, #151525 50%, #1e1510 100%);
+}
+
+[data-md-color-scheme="slate"] .hp-invoice-badge {
+  background: rgba(245,52,35,.15);
+  border-color: rgba(245,52,35,.25);
+}
+
+[data-md-color-scheme="slate"] .hp-tip {
+  background: linear-gradient(135deg, rgba(42,106,30,.15), rgba(42,106,30,.1));
+  border-color: rgba(42,106,30,.25);
+}
+
+[data-md-color-scheme="slate"] .hp-modal-box {
+  background: #1e1e2e;
+}
+
+[data-md-color-scheme="slate"] .hp-modal-img {
+  filter: brightness(.9);
+}

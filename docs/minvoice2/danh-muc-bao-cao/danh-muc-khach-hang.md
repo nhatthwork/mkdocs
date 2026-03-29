@@ -1,5 +1,6 @@
 ---
 icon: lucide/users-round
+status: nhat
 ---
 # **Danh mục khách hàng**
 

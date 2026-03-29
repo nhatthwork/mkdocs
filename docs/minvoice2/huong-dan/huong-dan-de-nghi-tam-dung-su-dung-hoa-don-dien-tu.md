@@ -1,5 +1,6 @@
 ---
 icon: lucide/file-x
+status: nhat
 ---
 
 # **Hướng dẫn đề nghị tạm ngừng sử dụng hóa đơn điện tử**
