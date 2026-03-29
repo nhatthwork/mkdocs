@@ -134,7 +134,7 @@
 /* Typewriter */
 (function(){
   var texts = [
-    "Phần mềm hóa đơn điện tử M-invoice",
+    "Phần mềm hóa đơn điện tử M-Invoice",
     "Quản lý rủi ro hóa đơn - mSMI",
     "Chứng từ khấu trừ thuế TNCN - mTNCN",
     "Bảo hiểm xã hội điện tử - mBHXH",

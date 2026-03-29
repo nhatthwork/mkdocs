@@ -12,7 +12,7 @@ title: Home
 <div>
 <div class="hp-tag"><div class="hp-tag-pulse"></div>Tài liệu chính thức &nbsp;·&nbsp; Cập nhật 2026</div>
 <h1 class="hp-h1">Hướng dẫn sử dụng<span class="hp-h1-brand" id="hp-typewriter"></span></h1>
-<p class="hp-hero-desc">Hướng dẫn chi tiết cho tất cả sản phẩm trong hệ sinh thái M-invoice giúp doanh nghiệp và hộ kinh doanh triển khai nhanh, vận hành đúng quy định.</p>
+<p class="hp-hero-desc">Hướng dẫn chi tiết cho tất cả sản phẩm trong hệ sinh thái M-Invoice giúp doanh nghiệp và hộ kinh doanh triển khai nhanh, vận hành đúng quy định.</p>
 <div class="hp-ctas">
 <a href="javascript:void(0)" data-scroll="lo-trinh" class="hp-cta hp-cta-primary"><svg width="15" height="15" fill="none" viewBox="0 0 15 15"><path d="M7.5 1.5l1.8 5H14L9.8 9.5l1.5 4.8-3.8-2.6L3.7 14.3l1.5-4.8L1 6.5h4.7z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>Bắt đầu ngay</a>
 <a href="javascript:void(0)" data-scroll="chude" class="hp-cta hp-cta-outline">Xem tất cả chủ đề →</a>
@@ -38,8 +38,8 @@ title: Home
 <p class="hp-sec-title">Chủ đề phổ biến</p>
 <div class="hp-tabs-wrap">
 <div class="hp-tabs-nav">
-<button class="hp-tab on" data-tab="invoice2">M-invoice 2.0</button>
-<button class="hp-tab" data-tab="invoice1">M-invoice 1.0</button>
+<button class="hp-tab on" data-tab="invoice2">M-Invoice 2.0</button>
+<button class="hp-tab" data-tab="invoice1">M-Invoice 1.0</button>
 <button class="hp-tab" data-tab="dvc">Dịch vụ công</button>
 <button class="hp-tab" data-tab="msmi">Đồng bộ hóa đơn mSMI</button>
 <button class="hp-tab" data-tab="mbhxh">Nghiệp vụ bảo hiểm xã hội mBHXH</button>
