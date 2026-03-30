@@ -476,7 +476,6 @@ extra_javascript = [
   "assets/javascripts/cards.js",
   "assets/javascripts/home.js",
   "assets/javascripts/nav-parent.js",
-  "assets/javascripts/ga.js",
 ]
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
@@ -484,6 +483,25 @@ extra_javascript = [
 
 repo_url = "https://minvoice.vn/"
 repo_name = "M-invoice"
+
+[project.extra.analytics]
+provider = "google"
+property = "G-BP3PGCQR26"
+
+[project.extra.analytics.feedback]
+title = "Was this page helpful?"
+
+[[project.extra.analytics.feedback.ratings]]
+icon = "material/emoticon-happy-outline"
+name = "This page was helpful"
+data = 1
+note = "Thanks for your feedback!"
+
+[[project.extra.analytics.feedback.ratings]]
+icon = "material/emoticon-sad-outline"
+name = "This page could be improved"
+data = 0
+note = "Help us improve!"
 
 [project.theme]
 
