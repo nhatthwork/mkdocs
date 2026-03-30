@@ -477,9 +477,6 @@ extra_javascript = [
   "assets/javascripts/home.js",
   "assets/javascripts/nav-parent.js",
   "assets/javascripts/ga.js",
-
-
-
 ]
 # ----------------------------------------------------------------------------
 # Section for configuring theme options
