@@ -1,3 +1,9 @@
+---
+icon: lucide/hexagon
+tags:
+  - invoice2
+---
+
 # **Hướng dẫn thêm logo trên mẫu hóa đơn**
 
 ???+ Note "Mục đích"

@@ -2,7 +2,8 @@
 hide:
   - toc
 icon: lucide/circle-question-mark
-
+tags:
+  - invoice2
 ---
 
 <!--

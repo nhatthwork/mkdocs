@@ -745,8 +745,8 @@ repo = "fontawesome/solid/globe"
 nhat = "New"
 
 [project.extra.tags]
-HuongDan2.0 = "Hướng dẫn 2.0"
-HuongDan1.0 = "Hướng dẫn 1.0"
+invoice2 = "Hướng dẫn 2.0"
+invoice1 = "Hướng dẫn 1.0"
 
 
 

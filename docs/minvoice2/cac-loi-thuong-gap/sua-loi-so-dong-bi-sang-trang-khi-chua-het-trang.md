@@ -2,6 +2,8 @@
 title: Sửa lỗi số dòng bị sang trang khi chưa hết trang
 description: "Chỉnh lại số dòng trên một hóa đơn, hóa đơn chưa hết trang đã sang trang"
 icon: fontawesome/solid/bug
+tags:
+  - invoice2
 ---
 
 # **Sửa lỗi số dòng bị sang trang khi chưa hết trang**

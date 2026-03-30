@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/bug
+tags:
+  - invoice2
 ---
 # **Lỗi kết nối không nhận được phản hồi từ CQT**
 

@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/bug
+tags:
+  - invoice2
 ---
 # **Lỗi "Mã số thuế của chứng thư số khác mã số thuế trên phần mềm"**
 

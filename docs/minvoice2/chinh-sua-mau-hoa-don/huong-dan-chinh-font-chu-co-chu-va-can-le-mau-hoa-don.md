@@ -1,3 +1,8 @@
+---
+icon: lucide/palette
+tags:
+  - invoice2
+---
 # **Hướng dẫn tùy chỉnh chữ, màu sắc và căn lề**
 
 ???+ Note "Mục đích"

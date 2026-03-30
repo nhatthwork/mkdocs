@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/bug
+tags:
+  - invoice2
 ---
 # **Lỗi "Bạn đã huỷ bỏ thao tác ký"**
 

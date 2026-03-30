@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/bug
+tags:
+  - invoice2
 ---
 # **Lỗi "Chưa cài đặt plugin mặc dù đã cài trên trình duyệt (Google chrome, Microsoft edge, cốc cốc)"**
 

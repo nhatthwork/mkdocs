@@ -1,3 +1,8 @@
+---
+icon: lucide/image
+tags:
+  - invoice2
+---
 # **Hướng dẫn tải hình nền lên mẫu**
 
 ???+ Note "Mục đích"

@@ -1,3 +1,8 @@
+---
+icon: lucide/layers
+tags:
+  - invoice2
+---
 # **Hướng dẫn bật tắt chế độ song ngữ**
 
 ???+ Note "Mục đích"

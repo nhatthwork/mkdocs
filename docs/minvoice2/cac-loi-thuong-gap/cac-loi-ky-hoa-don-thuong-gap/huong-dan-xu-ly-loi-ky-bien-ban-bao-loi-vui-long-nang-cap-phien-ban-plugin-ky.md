@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/bug
+tags:
+  - invoice2
 ---
 # **Lỗi "Vui lòng nâng cấp phiên bản Plugin ký"**
 

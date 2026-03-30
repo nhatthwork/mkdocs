@@ -1,3 +1,8 @@
+---
+icon: lucide/square
+tags:
+  - invoice2
+---
 # **Hướng dẫn thêm khung viền lên mẫu hóa đơn**
 
 ???+ Note "Mục đích"

@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/bug
+tags:
+  - invoice2
 ---
 # **Lỗi "Bạn chưa cài đặt công cụ plugin để ký hoá đơn"**
 

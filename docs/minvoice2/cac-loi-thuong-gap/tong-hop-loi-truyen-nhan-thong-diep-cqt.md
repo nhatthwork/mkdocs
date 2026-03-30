@@ -1,7 +1,9 @@
 ---
+title: Tổng hợp lỗi truyền nhận thông điệp CQT
 hide:
   - toc
-
+tags:
+  - invoice2
 icon: fontawesome/solid/bug
 ---
 

@@ -1,7 +1,7 @@
 ---
 icon: lucide/gauge
 tags:
-  - HuongDan2.0
+  - invoice2
 ---
 
 # **Dashboard 2.0**

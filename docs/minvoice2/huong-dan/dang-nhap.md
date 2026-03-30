@@ -2,7 +2,7 @@
 title: Đăng nhập phần mềm M-invoice
 icon: lucide/log-in
 tags:
-  - HuongDan2.0
+  - invoice2
 ---
 
 # **Hướng dẫn đăng nhập vào phần mềm hóa đơn điện tử M-invoice**

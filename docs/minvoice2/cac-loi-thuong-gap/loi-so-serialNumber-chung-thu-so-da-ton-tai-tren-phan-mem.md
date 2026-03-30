@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/bug
+tags:
+  - invoice2
 ---
 # **Lỗi "Số serialNumber chứng thư số đã tồn tại trên phần mềm"**
 
