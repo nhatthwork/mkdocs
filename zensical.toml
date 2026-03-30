@@ -457,6 +457,7 @@ extra_css = [
   "assets/stylesheets/cards.css",
   "assets/stylesheets/home.css",
   "assets/stylesheets/nav-parent.css",
+  
 
   #"assets/stylesheets/card.css",
   #"assets/stylesheets/nav.css",
@@ -475,6 +476,8 @@ extra_javascript = [
   "assets/javascripts/cards.js",
   "assets/javascripts/home.js",
   "assets/javascripts/nav-parent.js",
+  "assets/javascripts/ga.js",
+
 
 
 ]
