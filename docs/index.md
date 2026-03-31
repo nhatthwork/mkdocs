@@ -233,7 +233,7 @@ Tải về
       <p style="font-size:16px;font-weight:800;color:var(--ink);margin:0 0 10px;letter-spacing:-.01em">Đăng ký để xem đầy đủ</p>
       <p style="font-size:13px;color:var(--ink2);line-height:1.7;margin:0 0 24px">Hãy đăng ký sử dụng hoá đơn điện tử M-invoice để xem đầy đủ các mẫu hoá đơn theo quy định mới nhất 2026.</p>
       <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap">
-        <a href="bat-dau/dang-ky-kich-hoat/" class="hp-cta hp-cta-primary" style="font-size:13px;padding:11px 24px">Đăng ký ngay</a>
+        <a href="https://minvoice.vn/" class="hp-cta hp-cta-primary" style="font-size:13px;padding:11px 24px">Đăng ký ngay</a>
       </div>
     </div>
   </div>

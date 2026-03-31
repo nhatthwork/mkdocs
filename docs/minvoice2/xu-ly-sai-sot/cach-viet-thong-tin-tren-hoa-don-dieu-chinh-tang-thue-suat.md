@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# **Cách viết thông tin trên hóa đơn điều chỉnh giảm thuế suất**
+# **Cách viết thông tin trên hóa đơn điều chỉnh tăng thuế suất**
 
 ???+ Warning "Lưu ý"
 
