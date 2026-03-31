@@ -1,5 +1,7 @@
 ---
 icon: lucide/ticket-check
+tags:
+  - invoice2
 ---
 
 # **Hướng dẫn hộ kinh doanh chuyển đổi số định danh cá nhân thay thế mã số thuế**

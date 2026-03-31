@@ -1,5 +1,7 @@
 ---
 icon: lucide/folder-down
+tags:
+  - invoice2
 ---
 
 # **Tải hàng loạt hóa đơn PDF và XML**

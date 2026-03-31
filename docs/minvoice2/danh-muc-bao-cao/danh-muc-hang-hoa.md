@@ -1,5 +1,7 @@
 ---
 icon: lucide/shopping-cart
+tags:
+  - invoice2
 ---
 # **Danh mục hàng hóa, dịch vụ**
 

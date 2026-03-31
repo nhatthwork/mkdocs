@@ -1,5 +1,7 @@
 ---
 icon: lucide/book-search
+tags:
+  - invoice2
 ---
 # **Báo cáo bảng kê bán ra PL01**
 

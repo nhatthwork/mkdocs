@@ -2,6 +2,8 @@
 title: Nhập excel chi tiết dòng hàng trên 1 hóa đơn
 description: "Hướng dẫn thêm nhanh nhiều hàng hóa dịch vụ vào cùng 1 hóa đơn bằng file Excel, tự động tính tổng tiền, giảm sai sót và tiết kiệm thời gian nhập liệu cho kế toán."
 icon: fontawesome/solid/file-excel
+tags:
+  - invoice2
 ---
 
 # **Nhập excel chi tiết dòng hàng trên 1 hóa đơn**

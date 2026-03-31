@@ -1,5 +1,7 @@
 ---
 icon: lucide/mails
+tags:
+  - invoice2
 ---
 # **Gửi Email**
 

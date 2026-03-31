@@ -1,5 +1,7 @@
 ---
 icon: lucide/motorbike
+tags:
+  - invoice2
 ---
 
 

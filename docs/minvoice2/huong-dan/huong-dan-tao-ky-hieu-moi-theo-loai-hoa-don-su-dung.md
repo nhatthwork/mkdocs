@@ -1,5 +1,7 @@
 ---
 icon: lucide/plus
+tags:
+  - invoice2
 ---
 
 # **Tạo ký hiệu mới theo loại hóa đơn sử dụng**

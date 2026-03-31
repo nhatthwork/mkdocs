@@ -1,5 +1,7 @@
 ---
 icon: lucide/scan-eye
+tags:
+  - invoice2
 ---
 # **Phân quyền**
 

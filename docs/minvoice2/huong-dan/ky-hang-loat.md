@@ -1,5 +1,7 @@
 ---
 icon: lucide/signature
+tags:
+  - invoice2
 ---
 # **Ký Hàng Loạt**
 

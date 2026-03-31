@@ -1,7 +1,8 @@
 ---
 title: Nhập excel hàng loạt hóa đơn
 description: Chức năng nhập Excel hàng loạt hóa đơn giúp tải lên nhiều hóa đơn cùng lúc, Nhập khẩu excel hàng loạt
-
+tags:
+  - invoice2
 icon: fontawesome/solid/file-excel
 ---
 

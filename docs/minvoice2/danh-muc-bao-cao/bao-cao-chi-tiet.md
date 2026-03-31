@@ -1,5 +1,7 @@
 ---
 icon: lucide/book-open-text
+tags:
+  - invoice2
 ---
 
 # **Báo cáo chi tiết hóa đơn**

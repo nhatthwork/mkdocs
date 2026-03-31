@@ -1,5 +1,7 @@
 ---
 icon: lucide/folder-sync
+tags:
+  - invoice2
 ---
 
 # **Chuyển hóa đơn từ ký hiệu này sang ký hiệu khác**

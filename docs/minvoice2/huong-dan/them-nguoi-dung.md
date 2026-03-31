@@ -1,5 +1,7 @@
 ---
 icon: lucide/user-plus
+tags:
+  - invoice2
 ---
 
 # **Thêm tài khoản người dùng**

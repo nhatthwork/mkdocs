@@ -1,5 +1,7 @@
 ---
 icon: lucide/printer
+tags:
+  - invoice2
 ---
 # **In chuyển đổi hóa đơn (hóa đơn giấy)**
 

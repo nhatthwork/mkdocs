@@ -2,6 +2,8 @@
 hide:
   - toc
 icon: fontawesome/solid/percent
+tags:
+  - invoice2
 ---
 
 # **Thay đổi thuế suất hàng loạt trong danh mục hàng hóa**

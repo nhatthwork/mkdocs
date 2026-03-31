@@ -1,5 +1,7 @@
 ---
 icon: lucide/download
+tags:
+  - invoice2
 ---
 
 # **Tải cộng cụ ký M-invoice plugin 2.0**

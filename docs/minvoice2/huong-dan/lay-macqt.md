@@ -1,5 +1,7 @@
 ---
 icon: lucide/book-down
+tags:
+  - invoice2
 ---
 # **Lấy mã cơ quan thuế**
 

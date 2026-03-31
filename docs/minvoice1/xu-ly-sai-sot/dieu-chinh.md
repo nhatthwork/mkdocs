@@ -88,33 +88,33 @@ icon: lucide/file-pen-line
 
 ## **1. Điều chỉnh tăng giá trị**
 
-[1.1. Điều chỉnh tăng đơn giá hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa#attribute-lists){ data-preview }
+[1.1. Điều chỉnh tăng đơn giá hàng hóa](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa#attribute-lists){ data-preview }
 
-[1.2. Điều chỉnh tăng số lượng hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa#attribute-lists){ data-preview }
+[1.2. Điều chỉnh tăng số lượng hàng hóa](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa#attribute-lists){ data-preview }
 
-[1.3. Điều chỉnh tăng thuế suất](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat#attribute-lists){ data-preview }
+[1.3. Điều chỉnh tăng thuế suất](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat#attribute-lists){ data-preview }
 
-[1.4. Điều chỉnh tăng thành tiền](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia#attribute-lists){ data-preview }
+[1.4. Điều chỉnh tăng thành tiền](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia#attribute-lists){ data-preview }
 
 ## **2. Điều chỉnh giảm giá trị**
 
-[2.1. Điều chỉnh giảm đơn giá hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa#attribute-lists){ data-preview }
+[2.1. Điều chỉnh giảm đơn giá hàng hóa](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa#attribute-lists){ data-preview }
 
-[2.2. Điều chỉnh giảm số lượng hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa#attribute-lists){ data-preview }
+[2.2. Điều chỉnh giảm số lượng hàng hóa](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa#attribute-lists){ data-preview }
 
-[2.3. Điều chỉnh giảm thuế suất](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat#attribute-lists){ data-preview }
+[2.3. Điều chỉnh giảm thuế suất](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat#attribute-lists){ data-preview }
 
-[2.4. Điều chỉnh giảm thành tiền](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia#attribute-lists){ data-preview }
+[2.4. Điều chỉnh giảm thành tiền](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia#attribute-lists){ data-preview }
 
 ## **3. Điều chỉnh thông tin không liên quan đến tiền**
 
-[3.1. Điều chỉnh tên hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa#attribute-lists){ data-preview }
+[3.1. Điều chỉnh tên hàng hóa](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa#attribute-lists){ data-preview }
 
-[3.2. Điều chỉnh mã số thuế người mua hàng](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang#attribute-lists){ data-preview }
+[3.2. Điều chỉnh mã số thuế người mua hàng](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang#attribute-lists){ data-preview }
 
-[3.3. Điều chỉnh đơn vị tính của hàng hóa](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa#attribute-lists){ data-preview }
+[3.3. Điều chỉnh đơn vị tính của hàng hóa](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa#attribute-lists){ data-preview }
 
-[3.4. Điều chỉnh hình thức thanh toán](../cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan#attribute-lists){ data-preview }
+[3.4. Điều chỉnh hình thức thanh toán](cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan#attribute-lists){ data-preview }
 
 ## Hướng dẫn lập biên bản hóa đơn điều chỉnh
 

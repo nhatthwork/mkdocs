@@ -1,5 +1,7 @@
 ---
 icon: lucide/archive-restore
+tags:
+  - invoice2
 ---
 # **Khôi phục trạng thái hóa đơn về hóa đơn gốc 'mới'**
 

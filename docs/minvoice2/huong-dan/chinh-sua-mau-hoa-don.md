@@ -1,5 +1,7 @@
 ---
 icon: lucide/layout-template
+tags:
+  - invoice2
 ---
 
 # **Chỉnh sửa mẫu hóa đơn**

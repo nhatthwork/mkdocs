@@ -1,5 +1,7 @@
 ---
 icon: lucide/ruler
+tags:
+  - invoice2
 ---
 # **Danh mục đơn vị tính**
 

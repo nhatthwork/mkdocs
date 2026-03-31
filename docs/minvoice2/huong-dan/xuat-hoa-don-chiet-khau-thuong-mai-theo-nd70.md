@@ -1,5 +1,7 @@
 ---
 icon: lucide/ticket-percent
+tags:
+  - invoice2
 ---
 # **Xuất Hóa đơn chiết khấu thương mại theo Nghị định 70/2025/NĐ-CP**
 

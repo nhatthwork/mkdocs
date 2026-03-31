@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/plus-minus
+tags:
+  - invoice2
 ---
 
 # **Thêm các trường mới theo NĐ70 ở trên mẫu hóa đơn**

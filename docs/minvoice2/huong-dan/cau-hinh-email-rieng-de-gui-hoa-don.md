@@ -1,5 +1,7 @@
 ---
 icon: lucide/mail-plus
+tags:
+  - invoice2
 ---
 # **Cấu hình email riêng để gửi hóa đơn điện tử**
 

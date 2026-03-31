@@ -1,5 +1,7 @@
 ---
 icon: lucide/truck
+tags:
+  - invoice2
 ---
 
 # **Sử dụng loại hình doanh nghiệp là dịch vụ vận chuyển (biển số xe)**

@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+tags:
+  - invoice2
 ---
 
 # **Cách viết thông tin trên hóa đơn điều chỉnh đơn vị tính của hàng hóa**
