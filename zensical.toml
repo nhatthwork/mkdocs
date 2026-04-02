@@ -751,6 +751,7 @@ nhat = "New"
 [project.extra.tags]
 invoice2 = "Hướng dẫn 2.0"
 invoice1 = "Hướng dẫn 1.0"
+mbhxh = "Bảo hiểm xã hội"
 
 
 

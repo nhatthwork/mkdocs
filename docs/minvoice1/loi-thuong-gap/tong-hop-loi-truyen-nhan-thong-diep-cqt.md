@@ -2,7 +2,8 @@
 hide:
   - toc
 icon: fontawesome/solid/bug
-
+tags:
+  - invoice1
 ---
 
 **Chi tiết các bước hướng dẫn khắc phục các lỗi truyền nhận từ CQT**

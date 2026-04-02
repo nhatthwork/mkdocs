@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/address-card
+tags:
+  - invoice1
 ---
 # **Đăng ký / thay đổi tờ khai theo NĐ70**
 

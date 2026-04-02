@@ -1,5 +1,7 @@
 ---
 icon: lucide/calendar-sync
+tags:
+  - invoice1
 ---
 # **Cập nhật ký hiệu do thay đổi năm tài chính**
 

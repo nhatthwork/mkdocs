@@ -1,5 +1,7 @@
 ---
 icon: lucide/hand-coins
+tags:
+  - invoice1
 ---
 # **Sửa tay tiền thuế và tổng tiền**
 

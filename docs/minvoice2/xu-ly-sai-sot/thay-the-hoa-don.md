@@ -1,5 +1,7 @@
 ---
 icon: lucide/replace
+tags:
+  - invoice2
 ---
 # **Thay thế hoá đơn**
 

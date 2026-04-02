@@ -1,6 +1,5 @@
 ---
 icon: lucide/users-round
-status: nhat
 tags:
   - invoice2
 ---

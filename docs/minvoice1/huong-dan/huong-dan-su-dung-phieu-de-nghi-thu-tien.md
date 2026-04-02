@@ -1,5 +1,7 @@
 ---
 icon: lucide/notepad-text
+tags:
+  - invoice1
 ---
 # **Hướng dẫn sử dụng phiếu đề nghị thu tiền**
 

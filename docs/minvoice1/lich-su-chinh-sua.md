@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+tags:
+  - invoice1
 ---
 
 <style>

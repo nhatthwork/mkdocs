@@ -1,5 +1,7 @@
 ---
 icon: lucide/signature
+tags:
+  - invoice1
 ---
 # **Hướng dẫn thao tác ký biên bản người mua**
 

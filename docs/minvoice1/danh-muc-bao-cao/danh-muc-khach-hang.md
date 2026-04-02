@@ -1,5 +1,8 @@
 ---
 icon: lucide/users-round
+status: nhat
+tags:
+  - invoice1
 ---
 # **Danh mục khách hàng**
 

@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/file-excel
+tags:
+  - invoice1
 ---
 # **Hướng dẫn nhận excel chi tiết hóa đơn**
 

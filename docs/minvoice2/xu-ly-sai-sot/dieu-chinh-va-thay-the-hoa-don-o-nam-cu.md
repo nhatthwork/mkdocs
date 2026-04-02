@@ -1,5 +1,7 @@
 ---
 icon: lucide/pencil
+tags:
+  - invoice2
 ---
 # **Điều chỉnh / Thay thế hóa đơn ở năm cũ VD: hóa đơn bị sai ở năm 2025**
 

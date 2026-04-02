@@ -2,6 +2,8 @@
 title: Hướng dẫn lập biên bản hoá đơn
 description: "Lập biên bản hóa đơn, Lập biên bản hóa đơn điều chỉnh, Lập biên bản hóa đơn thay thế"
 icon: lucide/clipboard-plus
+tags:
+  - invoice2
 ---
 
 # **Hướng dẫn lập biên bản hoá đơn điều chỉnh thay thế**

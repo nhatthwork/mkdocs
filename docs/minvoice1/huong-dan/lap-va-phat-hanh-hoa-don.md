@@ -1,5 +1,7 @@
 ---
 icon: lucide/square-plus
+tags:
+  - invoice1
 ---
 
 # **Thêm sửa xoá, sao chép hoá đơn**

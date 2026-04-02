@@ -1,5 +1,7 @@
 ---
 icon: lucide/file-pen-line
+tags:
+  - invoice1
 ---
 # **Điều chỉnh hoá đơn**
 

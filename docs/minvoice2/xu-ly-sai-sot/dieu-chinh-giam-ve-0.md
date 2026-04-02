@@ -1,5 +1,7 @@
 ---
 icon: lucide/book-x
+tags:
+  - invoice2
 ---
 # **Điều chỉnh hoá đơn về 0**
 

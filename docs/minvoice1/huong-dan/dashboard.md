@@ -1,7 +1,7 @@
 ---
 icon: lucide/gauge
 tags:
-  - HuongDan1.0
+  - invoice1
 ---
 # **Trang chủ phần mềm**
 

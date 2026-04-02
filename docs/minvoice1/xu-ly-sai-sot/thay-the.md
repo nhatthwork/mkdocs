@@ -1,5 +1,7 @@
 ---
 icon: lucide/replace
+tags:
+  - invoice1
 ---
 # **Hướng dẫn thay thế hóa đơn theo NĐ123**
 

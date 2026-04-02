@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/bug
+tags:
+  - invoice1
 ---
 # **Gửi mail báo "Xác thực không hợp lệ"**
 

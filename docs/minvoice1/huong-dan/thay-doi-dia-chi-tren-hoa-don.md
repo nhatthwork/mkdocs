@@ -1,5 +1,7 @@
 ---
 icon: lucide/map-pin-house
+tags:
+  - invoice1
 ---
 # **Thay đổi địa chỉ doanh nghiệp trên hóa đơn**
 

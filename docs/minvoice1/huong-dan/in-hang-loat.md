@@ -1,5 +1,7 @@
 ---
 icon: lucide/folder-down
+tags:
+  - invoice1
 ---
 # **Hướng dẫn xem in hàng loạt bằng M-invoice Plugin**
 

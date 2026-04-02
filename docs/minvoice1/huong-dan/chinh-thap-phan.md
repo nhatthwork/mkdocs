@@ -1,5 +1,7 @@
 ---
 icon: lucide/braces
+tags:
+  - invoice1
 ---
 # **Chỉnh phần số thập phân của phần tiền**
 

@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/file-excel
+tags:
+  - invoice1
 ---
 
 # **HƯỚNG DẪN NHẬN EXCEL HÀNG LOẠT HÓA ĐƠN 78**

@@ -2,6 +2,8 @@
 title: Lập Thông báo xử lý sai sót (04/SS-HĐĐT)
 description: "Sai địa chỉ người mua, sai tên người mua, lập giải trình với CQT, lập thông báo 04ss, lập 04ss"
 icon: lucide/megaphone
+tags:
+  - invoice2
 ---
 
 # **Lập Thông báo xử lý sai sót (04/SS-HĐĐT)**
@@ -113,7 +115,27 @@ icon: lucide/megaphone
 
 ![Hình 5](../../assets/images/invoice2/2.0_giai-trinh_5.png "Hãy bấm vào để xem rõ hơn")
 
-==> Bấm lưu -> ký thông báo 04ss giải trình
+### **Bước 6 : Bấm lưu và ký thông báo 04ss**
+
+![Hình 5](../../assets/images/invoice2/2.0_giai-trinh_6.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 7 : Xem in PDF 04ss và thông báo PDF 04ss của Thuế**
+
+- Xem in PDF trên phần mềm
+
+![Hình 5](../../assets/images/invoice2/2.0_giai-trinh_7.png "Hãy bấm vào để xem rõ hơn")
+
+- Xem in PDF trực tiếp được trả về từ CQT
+
+![Hình 5](../../assets/images/invoice2/2.0_giai-trinh_8.png "Hãy bấm vào để xem rõ hơn")
+
+**Chọn đúng thông điệp 301**
+
+![Hình 5](../../assets/images/invoice2/2.0_giai-trinh_9.png "Hãy bấm vào để xem rõ hơn")
+
+### **Bước 8 : Gửi email hoặc tải xml thông báo 04ss**
+
+![Hình 5](../../assets/images/invoice2/2.0_giai-trinh_10.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
@@ -121,4 +143,4 @@ icon: lucide/megaphone
 
 ![Hình 8](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Nov 25, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Apr 02, 2026</strong> by <strong>NHATTH</strong></div>

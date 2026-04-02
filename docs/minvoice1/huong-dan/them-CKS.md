@@ -1,5 +1,7 @@
 ---
 icon: lucide/signature
+tags:
+  - invoice1
 ---
 
 # **Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70**

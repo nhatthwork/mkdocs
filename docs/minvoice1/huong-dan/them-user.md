@@ -1,5 +1,7 @@
 ---
 icon: lucide/user-plus
+tags:
+  - invoice1
 ---
 # **Thêm một tài khoản cho người sử dụng mới**
 

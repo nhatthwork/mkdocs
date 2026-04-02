@@ -1,5 +1,7 @@
 ---
 icon: lucide/book-open-check
+tags:
+  - invoice1
 ---
 # **Báo cáo tổng hợp hoá đơn theo HĐ70**
 

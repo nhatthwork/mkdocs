@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+tags:
+  - invoice1
 ---
 
 # **Cách viết thông tin trên hóa đơn điều chỉnh tên hàng hóa**

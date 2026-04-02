@@ -1,5 +1,7 @@
 ---
 icon: lucide/download
+tags:
+  - invoice1
 ---
 
 # **Cài Đặt plugin**

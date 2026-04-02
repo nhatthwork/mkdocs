@@ -3,6 +3,8 @@ hide:
   - toc
 title: Tổng quan
 icon: lucide/chart-no-axes-gantt
+tags:
+  - invoice2
 ---
 
 <div class="card-grid-3">

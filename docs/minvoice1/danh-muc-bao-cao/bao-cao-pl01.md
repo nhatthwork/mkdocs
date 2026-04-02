@@ -1,5 +1,7 @@
 ---
 icon: lucide/book-search
+tags:
+  - invoice1
 ---
 # **Báo cáo bảng kê bán ra PL01 hóa đơn NĐ70**
 

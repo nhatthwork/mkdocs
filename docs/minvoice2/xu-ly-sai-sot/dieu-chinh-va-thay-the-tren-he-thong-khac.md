@@ -1,5 +1,7 @@
 ---
 icon: lucide/pencil-ruler
+tags:
+  - invoice2
 ---
 # **Điều chỉnh / Thay thế hoá đơn trên hệ thống khác**
 

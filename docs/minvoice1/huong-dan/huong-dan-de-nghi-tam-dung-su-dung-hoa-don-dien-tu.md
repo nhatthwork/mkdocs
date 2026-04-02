@@ -1,6 +1,8 @@
 ---
 icon: lucide/file-x
 status: nhat
+tags:
+  - invoice1
 ---
 
 # **Hướng dẫn đề nghị tạm ngừng sử dụng hóa đơn điện tử**

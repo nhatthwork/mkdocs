@@ -1,5 +1,7 @@
 ---
 icon: lucide/lock-keyhole
+tags:
+  - invoice1
 ---
 # **Hướng dẫn lấy lại mật khẩu đăng nhập**
 

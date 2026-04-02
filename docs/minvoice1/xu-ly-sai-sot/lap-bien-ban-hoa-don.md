@@ -1,5 +1,7 @@
 ---
 icon: lucide/clipboard-plus
+tags:
+  - invoice1
 ---
 # **Hướng dẫn lập biên bản hoá đơn điều chỉnh thay thế**
 

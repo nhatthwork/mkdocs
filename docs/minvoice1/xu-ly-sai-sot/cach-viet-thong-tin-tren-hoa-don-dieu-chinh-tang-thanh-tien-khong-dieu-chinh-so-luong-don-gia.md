@@ -1,6 +1,8 @@
 ---
 hide:
   - toc
+tags:
+  - invoice1
 ---
 
 # **Điều chỉnh tăng thành tiền (không điều chỉnh số lượng, đơn giá)**

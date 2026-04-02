@@ -1,5 +1,7 @@
 ---
 icon: lucide/megaphone
+tags:
+  - invoice1
 ---
 # **Thông báo 04/SS-HDDT sai sót theo NĐ70**
 
