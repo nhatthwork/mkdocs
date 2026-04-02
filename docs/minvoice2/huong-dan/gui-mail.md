@@ -37,6 +37,26 @@ tags:
 
 ![Hình 4](../../assets/images/invoice2/2.0_gui-mail_4.png "Hãy bấm vào để xem rõ hơn")
 
+### Trường hợp không gửi được email
+
+**Đã gửi email nhưng khách hàng không nhận được**
+
+Tích chọn icon gửi email -> Kiểm tra lịch sử gửi email -> xem cột **trạng thái gửi** đã được gửi thành công hay chưa
+
+![Hình 4](../../assets/images/invoice2/2.0_gui-mail_6.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 4](../../assets/images/invoice2/2.0_gui-mail_7.png "Hãy bấm vào để xem rõ hơn")
+
+![Hình 4](../../assets/images/invoice2/2.0_gui-mail_8.png "Hãy bấm vào để xem rõ hơn")
+
+???+ success "Trường hợp **trạng thái gửi** là thành công nhưng khách hàng không nhận được"
+
+    Anh chị báo khách kiểm tra email trong mục SPAM / thư rác
+
+???+ Failure "Trường hợp **trạng thái gửi** là có lỗi hoặc không phải thành công"
+
+    Anh chị nhắn lên hỗ trợ để kỹ thuật kiểm tra
+
 ### **Cấu hình email tự động (tùy chọn)**
 
 **Gửi email tự động:** trường hợp anh muốn gửi mail tự động sau khi ký. Anh/Chị truy cập mục `Hệ thống - Khai báo tham số hệ thống` tìm mã `TU_DONG_GUI_EMAIL` sửa thành `C`
@@ -51,4 +71,4 @@ tags:
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Mar 27, 2026</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Apr 02, 2026</strong> by <strong>NHATTH</strong></div>
