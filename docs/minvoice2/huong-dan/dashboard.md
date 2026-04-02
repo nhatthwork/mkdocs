@@ -32,35 +32,35 @@ tags:
 
 ???+ Note "Số 1"
 
-    **Xem các hoá đơn "chờ ký" và "đang gửi" trong 1 tháng gần nhất**
+    ### **Xem các hoá đơn "chờ ký" và "đang gửi", "đã ký" trong 1 tháng gần nhất**
 
 ![Hình 2](../../assets/images/invoice2/2.0_dash_2.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Số 2"
 
-    **Quý khách hàng click vào sẽ ra danh sách hoá đơn**
+    ### **Quý khách hàng click vào sẽ ra danh sách hoá đơn**
 
 ???+ Note "Số 3"
 
-    **Số lượng hoá đơn khách hàng đã dùng và số lượng còn lại**
+    ### **Số lượng hoá đơn khách hàng đã dùng và số lượng còn lại**
 
 ![Hình 3](../../assets/images/invoice2/2.0_dash_3.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Số 4"
 
-    **Danh sách thông báo sai sót 04ss**
+    ### **Danh sách thông báo sai sót 04ss**
 
 ![Hình 4](../../assets/images/invoice2/2.0_dash_4.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Số 5"
 
-    **Bấm vào "lập hoá đơn" ở ký hiệu mới nhất để lập hoá đơn nhanh**
+    ### **Bấm vào "lập hoá đơn" ở ký hiệu mới nhất để lập hoá đơn nhanh**
 
 ![Hình 5](../../assets/images/invoice2/2.0_dash_5.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Số 6"
 
-    **Danh sách chữ ký số đang dùng và trạng thái của chữ ký số**
+    ### **Danh sách chữ ký số đang dùng và trạng thái của chữ ký số**
 
     Trường hợp anh chị muốn thay đổi cks khi vừa thêm mới hoặc gia hạn thì có thể bấm vào **thay đổi chứng thư số trên tờ khai** hoặc
     xem chi tiết ở đây [Hướng dẫn thêm cks mới](them-cks-moi.md#attribute-lists){ data-preview }
@@ -71,4 +71,4 @@ tags:
 
 ![Hình 8](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Feb 02, 2026</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Apr 02, 2026</strong> by <strong>NHATTH</strong></div>
