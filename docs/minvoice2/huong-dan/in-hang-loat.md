@@ -84,6 +84,10 @@ document.addEventListener('DOMContentLoaded', activateTabFromUrlFragment);
 
     **Bước 2: Tích chọn hoá đơn muốn tải hoặc chọn tất cả**
 
+    <span style="color:red; font-weight:bold;">
+    Tích chọn nhiều hóa đơn ở đây
+    </span>
+
     ![Hình 15](../../assets/images/invoice2/2.0_in-hang-loat_7.png "Hãy bấm vào để xem rõ hơn")
 
     ![Hình 2](../../assets/images/invoice2/2.0_in-hang-loat_2.png "Hãy bấm vào để xem rõ hơn")
