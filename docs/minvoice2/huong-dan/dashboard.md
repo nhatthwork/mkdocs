@@ -26,41 +26,43 @@ tags:
 
 ## **Tổng quát**
 
-![Hình 1](../../assets/images/invoice2/2.0_dash_1.png "Hãy bấm vào để xem rõ hơn")
-
-![Hình 6](../../assets/images/invoice2/2.0_dash_6.png "Hãy bấm vào để xem rõ hơn")
-
 ???+ Note "Số 1"
 
     ### **Xem các hoá đơn "chờ ký" và "đang gửi", "đã ký" trong 1 tháng gần nhất**
 
-![Hình 2](../../assets/images/invoice2/2.0_dash_2.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 2](../../assets/images/invoice2/2.0_dash_2.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 6](../../assets/images/invoice2/2.0_dash_6.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Số 2"
 
     ### **Quý khách hàng click vào sẽ ra danh sách hoá đơn**
 
+    ![Hình 6](../../assets/images/invoice2/2.0_dash_7.png "Hãy bấm vào để xem rõ hơn")
+
 ???+ Note "Số 3"
 
     ### **Số lượng hoá đơn khách hàng đã dùng và số lượng còn lại**
 
-![Hình 3](../../assets/images/invoice2/2.0_dash_3.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 6](../../assets/images/invoice2/2.0_dash_8.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Số 4"
 
     ### **Danh sách thông báo sai sót 04ss**
 
-![Hình 4](../../assets/images/invoice2/2.0_dash_4.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 3](../../assets/images/invoice2/2.0_dash_3.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Số 5"
 
     ### **Bấm vào "lập hoá đơn" ở ký hiệu mới nhất để lập hoá đơn nhanh**
 
-![Hình 5](../../assets/images/invoice2/2.0_dash_5.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 4](../../assets/images/invoice2/2.0_dash_4.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Note "Số 6"
 
     ### **Danh sách chữ ký số đang dùng và trạng thái của chữ ký số**
+
+    ![Hình 5](../../assets/images/invoice2/2.0_dash_5.png "Hãy bấm vào để xem rõ hơn")
 
     Trường hợp anh chị muốn thay đổi cks khi vừa thêm mới hoặc gia hạn thì có thể bấm vào **thay đổi chứng thư số trên tờ khai** hoặc
     xem chi tiết ở đây [Hướng dẫn thêm cks mới](them-cks-moi.md#attribute-lists){ data-preview }
