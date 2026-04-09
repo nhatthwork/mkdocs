@@ -350,6 +350,10 @@ nav = [
         ]}
 ]},
 
+{ "mContract" = [
+    "mcontract/test.md",
+]},
+
 { "mSeller" = [
         { "Hướng dẫn sử dụng trên máy POS 📱" = [
             { "Kết nối phần mềm hoá đơn" = "mseller/may-pos/ket-noi-phan-mem-hoa-don.md" },
