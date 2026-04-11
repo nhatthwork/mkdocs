@@ -350,8 +350,18 @@ nav = [
         ]}
 ]},
 
-{ "mContract" = [
+{ "meContract" = [
     "mecontract/huong-dan-dang-ky-dang-nhap.md",
+    "mecontract/quen-mat-khau.md",
+    "mecontract/chu-ky.md",
+    "mecontract/huong-dan-quan-ly-to-chuc.md",
+    "mecontract/them-khach-hang.md",
+    "mecontract/huong-dan-quy-trinh-ky-ket-hop-dong.md",
+    "mecontract/them-mau-hop-dong.md",
+    "mecontract/them-loai-tai-lieu.md",
+    "mecontract/quan-ly-nhan-vien.md",
+    "mecontract/ky-hang-loat.md",
+    "mecontract/tao-hop-dong-hang-loat.md",
 ]},
 
 { "mSeller" = [
