@@ -55,4 +55,4 @@ Sau khi cập nhật mật khẩu thành công, người dùng quay lại màn h
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-<div class="last-updated">Last updated on <strong>Apr 09, 2026</strong> by <strong>NHATTH</strong></div>
+<div class="last-updated">Last updated on <strong>Apr 11, 2026</strong> by <strong>NHATTH</strong></div>
