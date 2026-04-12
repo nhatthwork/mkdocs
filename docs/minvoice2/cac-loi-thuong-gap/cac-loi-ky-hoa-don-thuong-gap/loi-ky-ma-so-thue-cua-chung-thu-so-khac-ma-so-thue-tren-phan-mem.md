@@ -15,7 +15,7 @@ tags:
 
 ### Bước 1: Gỡ plugin cũ ra khỏi máy hiện tại và cài đặt bản mới theo hướng dẫn sau đây
 
-[Hướng dẫn gỡ plugin và cài lại](../huong-dan-xu-ly-loi-ky-bien-ban-bao-loi-vui-long-nang-cap-phien-ban-plugin-ky/#buoc-1-go-bo-phien-ban-hien-tai){ data-preview }
+[Hướng dẫn gỡ plugin và cài lại](huong-dan-xu-ly-loi-ky-bien-ban-bao-loi-vui-long-nang-cap-phien-ban-plugin-ky/#buoc-1-go-bo-phien-ban-hien-tai)
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

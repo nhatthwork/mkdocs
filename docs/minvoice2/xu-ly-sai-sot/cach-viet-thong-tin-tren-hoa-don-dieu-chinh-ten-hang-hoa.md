@@ -32,9 +32,9 @@ Hóa đơn điều chỉnh tên hàng hóa hiển thị thông tin điều chỉ
 
     Theo Nghị định 70/2025/NĐ-CP, việc lập Biên bản là bắt buộc trong các trường hợp làm nghiệp vụ điêu chỉnh/thay thế.
 
-    Anh/Chị lập biên bản sau khi điều chỉnh theo hướng dẫn lập biên bản [tại đây.](../lap-bien-ban-hoa-don#attribute-lists){ data-preview }
+    Anh/Chị lập biên bản sau khi điều chỉnh theo hướng dẫn lập biên bản [tại đây.](lap-bien-ban-hoa-don)
 
-Xem thêm các trường hợp khác [tại đây.](../dieu-chinh-hoa-don#attribute-lists){ data-preview }
+Xem thêm các trường hợp khác [tại đây.](dieu-chinh-hoa-don)
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 

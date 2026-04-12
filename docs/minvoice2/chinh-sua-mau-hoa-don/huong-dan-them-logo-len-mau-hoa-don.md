@@ -54,7 +54,7 @@ tags:
 
 ![Hình 1](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-5.png "Hãy bấm vào để xem rõ hơn")
 
-Xem thêm các trường hợp chỉnh mẫu khác [tại đây.](../../huong-dan/chinh-sua-mau-hoa-don#attribute-lists){ data-preview }
+Xem thêm các trường hợp chỉnh mẫu khác [tại đây.](../huong-dan/chinh-sua-mau-hoa-don#attribute-lists){ data-preview }
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
