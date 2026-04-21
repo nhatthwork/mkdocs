@@ -18,7 +18,7 @@ RUN zensical build
 
 # Layer 5: convert ảnh song song
 RUN find /docs/site -type f \( -name "*.png" -o -name "*.jpg" -o -name "*.jpeg" \) \
-    | xargs -P$(nproc) -I{} sh -c \
+    | xargs -P4 -I{} sh -c \
       'cwebp -q 80 "$1" -o "${1%.*}.webp" 2>/dev/null && rm "$1"' _ {}
 
 RUN find /docs/site -name "*.html" \
