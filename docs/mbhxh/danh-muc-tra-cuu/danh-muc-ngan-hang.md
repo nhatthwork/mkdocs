@@ -298,7 +298,7 @@ function renderTable() {
   // Header row
   const trHead = document.createElement('tr');
   trHead.className = 'tbl-head-row';
-  ['STT', 'Mã ngân hàng', 'Tên ngân hàng'].forEach(h => {
+  ['Mã ngân hàng', 'Tên ngân hàng'].forEach(h => {
     const th = document.createElement('th');
     th.textContent = h;
     trHead.appendChild(th);
@@ -307,7 +307,7 @@ function renderTable() {
   // Filter row
   const trFilter = document.createElement('tr');
   trFilter.className = 'tbl-filter-row';
-  ['Lọc STT...', 'Lọc mã...', 'Lọc tên ngân hàng...'].forEach(placeholder => {
+  ['Lọc mã...', 'Lọc tên ngân hàng...'].forEach(placeholder => {
     const td = document.createElement('td');
     const input = document.createElement('input');
     input.placeholder = placeholder;
@@ -343,10 +343,9 @@ function applyFilter() {
   let count = 0;
 
   rawRows.forEach(row => {
-    const stt  = (row[0] || '').toString();
-    const ma   = (row[1] || '').toString();
-    const ten  = (row[2] || '').toString();
-    const cells = [stt, ma, ten];
+    const ma   = (row[0] || '').toString();
+    const ten  = (row[1] || '').toString();
+    const cells = [ma, ten];
 
     const matchCol = cells.every((cell, i) => !filters[i] || cell.toLowerCase().includes(filters[i]));
     const matchGlobal = !globalKw || cells.some(c => c.toLowerCase().includes(globalKw));
@@ -355,22 +354,16 @@ function applyFilter() {
       count++;
       const tr = document.createElement('tr');
 
-      // STT
-      const tdStt = document.createElement('td');
-      tdStt.className = 'col-stt';
-      tdStt.innerHTML = highlightMatch(stt, [filters[0], globalKw]);
-      tr.appendChild(tdStt);
-
       // Mã ngân hàng
       const tdMa = document.createElement('td');
       tdMa.className = 'col-ma';
-      tdMa.innerHTML = highlightMatch(ma, [filters[1], globalKw]);
+      tdMa.innerHTML = highlightMatch(ma, [filters[0], globalKw]);
       tr.appendChild(tdMa);
 
       // Tên ngân hàng
       const tdTen = document.createElement('td');
       tdTen.className = 'col-ten';
-      tdTen.innerHTML = highlightMatch(ten, [filters[2], globalKw]);
+      tdTen.innerHTML = highlightMatch(ten, [filters[1], globalKw]);
       tr.appendChild(tdTen);
 
       tbody.appendChild(tr);
@@ -380,7 +373,7 @@ function applyFilter() {
   if (count === 0) {
     const tr = document.createElement('tr');
     const td = document.createElement('td');
-    td.colSpan = 3;
+    td.colSpan = 2;
     td.innerHTML = `<div class="tbl-empty"><div class="tbl-empty-icon">🔎</div>Không tìm thấy kết quả phù hợp.</div>`;
     tr.appendChild(td);
     tbody.appendChild(tr);
