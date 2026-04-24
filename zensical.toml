@@ -348,6 +348,9 @@ nav = [
             "mbhxh/ho-so-604-dang-ky-thay-doi-thong-tin-don-vi.md",
             "mbhxh/ho-so-601-truy-dong.md",
             "mbhxh/ho-so-613-cap-doi-the-bhyt-do-thay-doi-thong-tin.md",
+        ]},
+        { "Danh mục và tra cứu" = [
+            "mbhxh/danh-muc-tra-cuu/danh-muc-ngan-hang.md",
         ]}
 ]},
 
@@ -762,6 +765,7 @@ repo = "fontawesome/solid/globe"
 # ----------------------------------------------------------------------------
 [project.extra.status]
 nhat = "New"
+edit = "Edit"
 
 [project.extra.tags]
 invoice2 = "Hướng dẫn 2.0"

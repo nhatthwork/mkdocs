@@ -2,6 +2,7 @@
 title: Thay đổi hoặc thêm chữ ký số (CKS) mới vào phần mềm M-invoice theo NĐ70
 description: Hướng dẫn thay đổi hoặc thêm chữ ký số (CKS) mới vào phần mềm hóa đơn điện tử M-invoice theo NĐ70, bao gồm cách đăng ký sử dụng hóa đơn, xác thực sinh trắc học trên eTax Mobile, nộp tờ khai thay đổi hóa đơn và cập nhật chữ ký số doanh nghiệp.
 icon: lucide/signature
+status: edit
 tags:
   - invoice2
 ---
@@ -123,6 +124,31 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 ### **Bước 4 : Sau khi hoàn thành, các bạn chọn tờ khai mình vừa lập chọn Ký và gửi CQT**
 
 ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_7.png "Hãy bấm vào để xem rõ hơn")
+
+??? Abstract "Các trạng thái của tờ khai"
+
+    ### **Các trạng thái của tờ khai**
+    ???+ info "Tiếp nhận"
+        
+        Đối với tờ khai đang ở trạng thái “tiếp nhận” ,anh chị vui lòng đợi trong vòng 24-48 giờ để thuế họ gửi mail về mail anh chị đăng ký trong tờ khai, sau khi tờ khai chuyển về trạng thái “chấp nhận” ,anh chị có thể tiếp tục xuất hóa đơn bình thường
+
+        ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_16.png "Hãy bấm vào để xem rõ hơn")
+
+    ???+ success "Chấp nhận"
+
+        Đối với tờ khai sau khi nộp được “chấp nhận” luôn và nhận được mail chấp nhận của thuế, anh chị có thể tiếp tục xuất hóa đơn bình thường 
+
+        ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_17.png "Hãy bấm vào để xem rõ hơn")
+
+    ???+ Failure "Không tiếp nhận"
+
+        Đối với tờ khai sau khi nộp báo “Không tiếp nhận” anh chị bấm vào chữ “không tiếp nhận” để kiểm tra kết quả của thuế gửi về để xử lý sau đó lập lại tờ khai mới
+
+        [Tra cứu các phản hồi không tiếp nhận từ CQT](../cac-loi-thuong-gap/tong-hop-loi-truyen-nhan-thong-diep-cqt.md)
+
+        ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_18.png "Hãy bấm vào để xem rõ hơn")
+
+        ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_19.png "Hãy bấm vào để xem rõ hơn")
 
 ??? Info "Bước 5: Xác thực OTP tờ khai trên app eTax mobile - (Trường hợp tờ khai được chấp nhận luôn xin bỏ qua bước này)"
 

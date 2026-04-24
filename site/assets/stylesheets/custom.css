@@ -91,6 +91,24 @@
   display: none !important;
 }
 
+.md-status.md-status--edit {
+  background: #e3f2fd;          /* xanh rất nhạt */
+  border-radius: 999px;
+  padding: 0.1rem 0.5rem;
+}
+
+.md-status.md-status--edit::before {
+  content: "Edit";
+  color: #1976d2;               /* xanh đậm vừa phải */
+  font-size: 0.55rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.md-status.md-status--edit::after {
+  display: none !important;
+}
+
 .md-footer {
   background-color: #363793 !important;
   color: #ffffff !important;
