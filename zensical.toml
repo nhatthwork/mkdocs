@@ -299,6 +299,7 @@ nav = [
         { "Tổng quan" = "mbhxh/tong-quan.md" },
         { "Hướng dẫn sử dụng" = [
             { "Đăng nhập" = "mbhxh/dang-nhap.md" },
+            "mbhxh/cai-plugin.md",
             "mbhxh/dashboard.md",
             "mbhxh/dang-ky-tai-khoan.md",
             "mbhxh/dang-ky-xin-cap-ma.md",
