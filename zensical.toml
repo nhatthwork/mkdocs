@@ -307,7 +307,8 @@ nav = [
             "mbhxh/thay-doi-thong-tin.md",
             "mbhxh/cap-nhat-thong-tin-nld-theo-ma-don-vi.md",
             "mbhxh/cap-nhat-thong-tin-nld.md",
-            "mbhxh/dang-ky-ivan-cho-don-vi-co-ma.md"
+            "mbhxh/dang-ky-ivan-cho-don-vi-co-ma.md",
+            "mbhxh/cai-plugin.md"
         ]},
 
         { "Các lỗi thường gặp khi sử dụng phần mềm" = [
