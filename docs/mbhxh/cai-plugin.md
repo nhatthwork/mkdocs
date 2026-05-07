@@ -1,7 +1,10 @@
 # **Hướng dẫn cài plugin**
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> b1000da92955a103468faf86ed655b8c12a1d933
 ## **Hướng dẫn cài plugin**
 
 ### Bước 1: Kiểm tra plugin đã được tải và cài đặt trên máy hay chưa 
@@ -29,3 +32,14 @@ Khi hiện lỗi chưa tải plugin
 ### Anh chị mở trình duyệt và kiểm tra quyền truy cập mạng cục bộ
 
 ![Hình6](../assets/images/mBHXH/cai-plugin-6.png)
+<<<<<<< HEAD
+=======
+
+!!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
+
+    Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 2)
+
+![Hình 8](../../assets/images/mBHXH/hotro.png)
+
+<div class="last-updated">Last updated on <strong>May 05, 2026</strong> by <strong>MANHDD</strong></div>
+>>>>>>> b1000da92955a103468faf86ed655b8c12a1d933
