@@ -10,31 +10,30 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ## **Tổng quát**
 
-![Hình 1](../../assets/images/mBHXH/dashboard_1.png)
+![Hình 1](../assets/images/mBHXH/dashboard_1.png)
 
 **Số 1: Xem các danh sách người lao động**
 
-![Hình 2](../../assets/images/mBHXH/dashboard_2.png)
+![Hình 2](../assets/images/mBHXH/dashboard_2.png)
 
 **Số 2: Danh sách hồ sơ giao dịch điện tử**
 
-![Hình 3](../../assets/images/mBHXH/dashboard_3.png)
+![Hình 3](../assets/images/mBHXH/dashboard_3.png)
 
 **Số 3: Lập tờ khai các nghiệp vụ bảo hiểm nhanh**
 
-![Hình 4](../../assets/images/mBHXH/dashboard_4.png)
+![Hình 4](../assets/images/mBHXH/dashboard_4.png)
 
 **Số 4: Thông tin cks vào thay đổi nhanh cks trên tờ khai**
+![Hình 5](../assets/images/mBHXH/dashboard_5.png)
 
-**Số 5: Thông tin gói sử dụng mà quý khách hàng đã mua**
+**Số 5: Thông tin hạn sử dụng bản quyền phần mềm**
 
+![Hình 6](../assets/images/mBHXH/dashboard_6.png)
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 2)
 
-![Hình 8](../../assets/images/invoice2/hotro.png)
+![Hình 8](../assets/images/mBHXH/hotro.png)
 
-
-
-
-<div class="last-updated">Last updated on <strong>Mar 27, 2025</strong> by <strong>Trinh Hoai Nhat</strong></div>
+<div class="last-updated">Last updated on <strong>May 07, 2026</strong> by <strong>MANHDD</strong></div>
