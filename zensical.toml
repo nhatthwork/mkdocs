@@ -453,6 +453,20 @@ nav = [
             "tai-lieu/tai-lieu-kinh-doanh.md"
         ]},
 
+        {"Tài liệu eTax-mobile" = [
+                "tai-lieu/etax-mobile/dang-nhap.md",
+                "tai-lieu/etax-mobile/to-khai-xac-thuc.md",
+                "tai-lieu/etax-mobile/huy-to-khai.md",
+                {"Tra cứu tờ khai" = [
+                    "tai-lieu/etax-mobile/tra-cuu-to-khai/tra-cuu-to-khai-da-tra-ket-qua.md",
+                    "tai-lieu/etax-mobile/tra-cuu-to-khai/tra-cuu-to-khai-chua-co-ket-qua.md",
+                    "tai-lieu/etax-mobile/tra-cuu-to-khai/tra-cuu-to-khai-giai-trinh-bo-xung.md",
+                    "tai-lieu/etax-mobile/tra-cuu-to-khai/truong-hop-chua-co-to-khai-dang-ky.md"
+                ]},
+                "tai-lieu/etax-mobile/tra-cuu-notify.md"
+
+            ]},
+
         { "New-invoice" = [
             "tai-lieu/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md",
             "tai-lieu/new-invoice/thay-doi-dia-chi-tren-hoa-don.md",

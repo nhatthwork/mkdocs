@@ -1,0 +1,2282 @@
+
+<!doctype html>
+<html lang="vi" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="M-Invoice User Guide - Electronic Invoice Software">
+      
+      
+        <meta name="author" content="NHATTH">
+      
+      
+      
+        <link rel="prev" href="../xuat-hoa-don/">
+      
+      
+        <link rel="next" href="../sua-xoa-giao-dich/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../../assets/icons/favicon-v2.png">
+      <meta name="generator" content="zensical-0.0.32">
+    
+    
+      
+        <title>Hướng dẫn in hóa đơn/đơn hàng - Hướng dẫn sử dụng</title>
+      
+    
+    
+      
+        
+      
+      <link rel="stylesheet" href="../../../assets/stylesheets/modern/main.53a7feaf.min.css">
+      
+        
+          
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/modern/palette.dfe2e883.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,500,500i,700,700i%7CJetBrains+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/glightbox.min.css">
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/custom.css">
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/card.css">
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/cards.css">
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/home.css">
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/nav-parent.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,a=__md_scope)=>JSON.parse(t.getItem(a.pathname+"."+e)),__md_set=(e,t,a=localStorage,_=__md_scope)=>{try{a.setItem(_.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-BP3PGCQR26"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-BP3PGCQR26",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-BP3PGCQR26",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer" aria-label="Thanh điều hướng"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#huong-dan-in-hoa-onon-hang" class="md-skip">
+          Bỏ qua
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Đầu trang">
+    <a href="../../.." title="Hướng dẫn sử dụng" class="md-header__button md-logo" aria-label="Hướng dẫn sử dụng" data-md-component="logo">
+      
+  <img src="../../../assets/minvoice_white_horizontal.png" alt="Hướng dẫn sử dụng">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer" aria-label="Thanh điều hướng">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-menu" viewBox="0 0 24 24"><path d="M4 5h16M4 12h16M4 19h16"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Hướng dẫn sử dụng
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Hướng dẫn in hóa đơn/đơn hàng
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Chuyển sang Dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Chuyển sang Dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="indigo"  aria-label="Chuyển sang Light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Chuyển sang Light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-moon" viewBox="0 0 24 24"><path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search" aria-label="Tìm kiếm">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-search" viewBox="0 0 24 24"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog" aria-label="Tìm kiếm">
+  <button type="button" class="md-search__button">
+    Tìm kiếm
+  </button>
+</div>
+      
+    
+    <div class="md-header__source">
+      
+        <a href="https://minvoice.vn/" title="Xem mã nguồn" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc.--><path fill="currentColor" d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    M-invoice
+  </div>
+</a>
+      
+    </div>
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../minvoice2/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop/" class="md-tabs__link">
+          
+  
+  Đơn vị tích hợp
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../minvoice1/tong-quan/" class="md-tabs__link">
+          
+  
+  M-invoice 1.0
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../minvoice2/tong-quan/" class="md-tabs__link">
+          
+  
+  M-invoice 2.0
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../chung-tu/tong-quan/" class="md-tabs__link">
+          
+  
+  Chứng từ TNCN
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../msmi/tong-quan/" class="md-tabs__link">
+          
+  
+  mSMI
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../mbhxh/tong-quan/" class="md-tabs__link">
+          
+  
+  mBHXH
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../mecontract/huong-dan-dang-ky-dang-nhap/" class="md-tabs__link">
+          
+  
+  meContract
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    
+    
+      
+  
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../ket-noi-phan-mem-hoa-don/" class="md-tabs__link">
+          
+  
+  mSeller
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../chu-ky-so/phan-mem/" class="md-tabs__link">
+          
+  
+  Chữ ký số
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../../tai-lieu/huong-dan-dinh-danh-to-chuc/" class="md-tabs__link">
+          
+  
+  Tài liệu
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Thanh điều hướng" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Hướng dẫn sử dụng" class="md-nav__button md-logo" aria-label="Hướng dẫn sử dụng" data-md-component="logo">
+      
+  <img src="../../../assets/minvoice_white_horizontal.png" alt="Hướng dẫn sử dụng">
+
+    </a>
+    Hướng dẫn sử dụng
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://minvoice.vn/" title="Xem mã nguồn" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc.--><path fill="currentColor" d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    M-invoice
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-home" viewBox="0 0 24 24"><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/><path d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../minvoice2/ds-don-vi-tich-hop/danh-sach-don-vi-tich-hop/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Đơn vị tích hợp
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../minvoice1/tong-quan/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    M-invoice 1.0
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../minvoice2/tong-quan/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    M-invoice 2.0
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../chung-tu/tong-quan/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chứng từ TNCN
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../msmi/tong-quan/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    mSMI
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../mbhxh/tong-quan/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    mBHXH
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../mecontract/huong-dan-dang-ky-dang-nhap/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    meContract
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    mSeller
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    mSeller
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_9_1" id="__nav_9_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hướng dẫn sử dụng trên máy POS 📱
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_9_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_9_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Hướng dẫn sử dụng trên máy POS 📱
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ket-noi-phan-mem-hoa-don/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Kết nối phần mềm hoá đơn
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../danh-sach-khach-hang/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thêm khách hàng
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../danh-sach-hang-hoa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thêm hàng hóa
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../xuat-hoa-don/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Thêm giao dịch và tạo hóa đơn
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hướng dẫn in hóa đơn/đơn hàng
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="././" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hướng dẫn in hóa đơn/đơn hàng
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#huong-dan-in-hoa-onon-hang_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hướng dẫn in hóa đơn/đơn hàng
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-in-on-hang-va-hoa-on-moi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. In đơn hàng và hóa đơn mới
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1. In đơn hàng và hóa đơn mới">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#buoc-1-ang-nhap-tai-khoan-mseller-bang-tai-khoan-a-uoc-cap" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 1: Đăng nhập tài khoản mSeller bằng tài khoản đã được cấp
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-2-tao-on-hang-moi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 2: Tạo đơn hàng mới
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-3-an-in-on-hang-e-may-inmay-pos-in-on-hang" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 3: Ấn “In đơn hàng” để máy in/máy pos in đơn hàng.
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-4-an-in-hoa-on-e-chuyen-sang-man-in-hoa-on-sau-o-an-nut-in-hoa-on-e-may-inmay-pos-in-hoa-on-va-hoan-thanh-viec-in-on-hangin-hoa-on-moi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 4: Ấn “In hóa đơn” để chuyến sang màn in hóa đơn. Sau đó ấn nút “In hóa đơn” để máy in/máy pos in hóa đơn và hoàn thành việc in đơn hàng/in hóa đơn mới.
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-in-on-hang-tu-danh-sach-on-hang" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. In đơn hàng từ danh sách đơn hàng
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. In đơn hàng từ danh sách đơn hàng">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#buoc-1-vao-phan-giao-dich-duoi-thanh-cong-cu" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 1: Vào phần Giao dịch dưới thanh công cụ
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-2-in-on-hang" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 2: In đơn hàng
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-in-hoa-on-tu-danh-sach-hoa-on" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. In hóa đơn từ danh sách hóa đơn
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. In hóa đơn từ danh sách hóa đơn">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#buoc-1-vao-phan-danh-sach-hoa-on" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 1: Vào phần Danh sách hóa đơn
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-2-chon-hoa-on-can-in-va-in-hoa-on" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 2: Chọn hóa đơn cần in và in hóa đơn
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../sua-xoa-giao-dich/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sửa xoá giao dịch
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../danh-sach-hoa-don/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Danh sách hóa đơn ký gửi CQT
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../may-tinh/dang-nhap-trang-chu/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Hướng dẫn sử dụng trên máy tính 💻
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    <a href="../../../chu-ky-so/phan-mem/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Chữ ký số
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+      
+        
+        
+      
+    
+    <li class="md-nav__item md-nav__item--pruned md-nav__item--nested">
+      
+        
+  
+  
+  
+    
+  
+  
+  
+    <a href="../../../tai-lieu/huong-dan-dinh-danh-to-chuc/" class="md-nav__link">
+      
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Tài liệu
+  
+
+    
+  </span>
+  
+  
+
+      
+        <span class="md-nav__icon md-icon"></span>
+      
+    </a>
+  
+
+  
+
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  
+                    
+                    
+                    
+                      
+                    
+                    
+                      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+                      <div class="md-sidebar-button__wrapper">
+                        <label class="md-sidebar-button" for="__toc"></label>
+                      </div>
+                    
+                  
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Mục lục">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Mục lục
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#huong-dan-in-hoa-onon-hang_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Hướng dẫn in hóa đơn/đơn hàng
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-in-on-hang-va-hoa-on-moi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        1. In đơn hàng và hóa đơn mới
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1. In đơn hàng và hóa đơn mới">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#buoc-1-ang-nhap-tai-khoan-mseller-bang-tai-khoan-a-uoc-cap" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 1: Đăng nhập tài khoản mSeller bằng tài khoản đã được cấp
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-2-tao-on-hang-moi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 2: Tạo đơn hàng mới
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-3-an-in-on-hang-e-may-inmay-pos-in-on-hang" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 3: Ấn “In đơn hàng” để máy in/máy pos in đơn hàng.
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-4-an-in-hoa-on-e-chuyen-sang-man-in-hoa-on-sau-o-an-nut-in-hoa-on-e-may-inmay-pos-in-hoa-on-va-hoan-thanh-viec-in-on-hangin-hoa-on-moi" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 4: Ấn “In hóa đơn” để chuyến sang màn in hóa đơn. Sau đó ấn nút “In hóa đơn” để máy in/máy pos in hóa đơn và hoàn thành việc in đơn hàng/in hóa đơn mới.
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-in-on-hang-tu-danh-sach-on-hang" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        2. In đơn hàng từ danh sách đơn hàng
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. In đơn hàng từ danh sách đơn hàng">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#buoc-1-vao-phan-giao-dich-duoi-thanh-cong-cu" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 1: Vào phần Giao dịch dưới thanh công cụ
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-2-in-on-hang" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 2: In đơn hàng
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-in-hoa-on-tu-danh-sach-hoa-on" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        3. In hóa đơn từ danh sách hóa đơn
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. In hóa đơn từ danh sách hóa đơn">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#buoc-1-vao-phan-danh-sach-hoa-on" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 1: Vào phần Danh sách hóa đơn
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#buoc-2-chon-hoa-on-can-in-va-in-hoa-on" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bước 2: Chọn hóa đơn cần in và in hóa đơn
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="Thanh điều hướng" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Home
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../ket-noi-phan-mem-hoa-don/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    mSeller
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../ket-noi-phan-mem-hoa-don/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Hướng dẫn sử dụng trên máy POS 📱
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+<h1 id="huong-dan-in-hoa-onon-hang"><strong>Hướng dẫn in hóa đơn/đơn hàng</strong><a class="headerlink" href="#huong-dan-in-hoa-onon-hang" title="Permanent link">&para;</a></h1>
+<p>Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm bán hàng M-invoice vô cùng mạch lạc và dễ hiểu.</p>
+<h2 id="huong-dan-in-hoa-onon-hang_1"><strong>Hướng dẫn in hóa đơn/đơn hàng</strong><a class="headerlink" href="#huong-dan-in-hoa-onon-hang_1" title="Permanent link">&para;</a></h2>
+<p><strong>Thao tác cài đặt và thực hiện như sau</strong></p>
+<h2 id="1-in-on-hang-va-hoa-on-moi"><strong>1. In đơn hàng và hóa đơn mới</strong><a class="headerlink" href="#1-in-on-hang-va-hoa-on-moi" title="Permanent link">&para;</a></h2>
+<h3 id="buoc-1-ang-nhap-tai-khoan-mseller-bang-tai-khoan-a-uoc-cap"><strong>Bước 1: Đăng nhập tài khoản mSeller bằng tài khoản đã được cấp</strong><a class="headerlink" href="#buoc-1-ang-nhap-tai-khoan-mseller-bang-tai-khoan-a-uoc-cap" title="Permanent link">&para;</a></h3>
+<p><img alt="Hình 1" src="../../../assets/images/mSeller/ket-noi-hoa-don-1.png" style="height:650px" /></p>
+<h3 id="buoc-2-tao-on-hang-moi"><strong>Bước 2: Tạo đơn hàng mới</strong><a class="headerlink" href="#buoc-2-tao-on-hang-moi" title="Permanent link">&para;</a></h3>
+<p>Ấn vào dấu “+” ở thanh công cụ để bắt đầu:</p>
+<ul>
+<li>
+<p>Chọn hàng hóa mong muốn</p>
+</li>
+<li>
+<p>Chọn phương thức thanh toán và nhập các thông tin khác trên hóa đơn</p>
+</li>
+<li>
+<p>Chọn có xuất hóa đơn hay không</p>
+</li>
+<li>
+<p>Ấn thanh toán để hoàn thành tạo mới đơn hàng</p>
+</li>
+</ul>
+<p><img alt="Hình 2" src="../../../assets/images/mSeller/huong-dan-in-1.png" style="height:500px" />
+<img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-2.png" style="height:500px" />
+<img alt="Hình 2" src="../../../assets/images/mSeller/huong-dan-in-3.png" style="height:500px" />
+<img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-4.png" style="height:500px" /></p>
+<h3 id="buoc-3-an-in-on-hang-e-may-inmay-pos-in-on-hang"><strong>Bước 3: Ấn “In đơn hàng” để máy in/máy pos in đơn hàng.</strong><a class="headerlink" href="#buoc-3-an-in-on-hang-e-may-inmay-pos-in-on-hang" title="Permanent link">&para;</a></h3>
+<h3 id="buoc-4-an-in-hoa-on-e-chuyen-sang-man-in-hoa-on-sau-o-an-nut-in-hoa-on-e-may-inmay-pos-in-hoa-on-va-hoan-thanh-viec-in-on-hangin-hoa-on-moi"><strong>Bước 4: Ấn “In hóa đơn” để chuyến sang màn in hóa đơn. Sau đó ấn nút “In hóa đơn” để máy in/máy pos in hóa đơn và hoàn thành việc in đơn hàng/in hóa đơn mới.</strong><a class="headerlink" href="#buoc-4-an-in-hoa-on-e-chuyen-sang-man-in-hoa-on-sau-o-an-nut-in-hoa-on-e-may-inmay-pos-in-hoa-on-va-hoan-thanh-viec-in-on-hangin-hoa-on-moi" title="Permanent link">&para;</a></h3>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-5.png" style="height:500px" /></p>
+<h2 id="2-in-on-hang-tu-danh-sach-on-hang"><strong>2. In đơn hàng từ danh sách đơn hàng</strong><a class="headerlink" href="#2-in-on-hang-tu-danh-sach-on-hang" title="Permanent link">&para;</a></h2>
+<h3 id="buoc-1-vao-phan-giao-dich-duoi-thanh-cong-cu"><strong>Bước 1: Vào phần Giao dịch dưới thanh công cụ</strong><a class="headerlink" href="#buoc-1-vao-phan-giao-dich-duoi-thanh-cong-cu" title="Permanent link">&para;</a></h3>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-14.png" style="height:500px" /></p>
+<h3 id="buoc-2-in-on-hang"><strong>Bước 2: In đơn hàng</strong><a class="headerlink" href="#buoc-2-in-on-hang" title="Permanent link">&para;</a></h3>
+<p><strong>Cách 1: in trực tiếp</strong></p>
+<ul>
+<li>
+<p>Gạt đơn hàng cần in từ phải sang trái để hiển thị các hành động với đơn hàng</p>
+</li>
+<li>
+<p>Chọn in đơn hàng để hiển thị bản in của đơn hàng</p>
+</li>
+</ul>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-6.png" style="height:500px" /></p>
+<ul>
+<li>Chọn “In đơn hàng” để hoàn thành in đơn hàng</li>
+</ul>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-8.png" style="height:500px" /></p>
+<p><strong>Cách 2: Chọn và click vào đơn hàng cần in để hiển thị chi tiết đơn hàng</strong></p>
+<ul>
+<li>
+<p>Sau khi hiển thị chi tiết đơn hàng ấn vào icon máy in để hiển thị bản in đơn hàng</p>
+</li>
+<li>
+<p>Chọn In đơn hàng để máy in/máy pos in đơn hàng</p>
+</li>
+</ul>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-7.png" style="height:500px" /></p>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-8.png" style="height:500px" /></p>
+<h2 id="3-in-hoa-on-tu-danh-sach-hoa-on"><strong>3. In hóa đơn từ danh sách hóa đơn</strong><a class="headerlink" href="#3-in-hoa-on-tu-danh-sach-hoa-on" title="Permanent link">&para;</a></h2>
+<h3 id="buoc-1-vao-phan-danh-sach-hoa-on"><strong>Bước 1: Vào phần Danh sách hóa đơn</strong><a class="headerlink" href="#buoc-1-vao-phan-danh-sach-hoa-on" title="Permanent link">&para;</a></h3>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-9.png" style="height:500px" /></p>
+<h3 id="buoc-2-chon-hoa-on-can-in-va-in-hoa-on"><strong>Bước 2: Chọn hóa đơn cần in và in hóa đơn</strong><a class="headerlink" href="#buoc-2-chon-hoa-on-can-in-va-in-hoa-on" title="Permanent link">&para;</a></h3>
+<p><strong>Cách 1: in trực tiếp</strong></p>
+<ul>
+<li>
+<p>Gạt hóa đơn cần in từ phải sang trái để hiển thị các hành động với hóa đơn</p>
+</li>
+<li>
+<p>Chọn in hóa đơn để hiển thị bản in của hóa đơn</p>
+</li>
+</ul>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-10.png" style="height:500px" /></p>
+<ul>
+<li>Chọn “In hóa đơn” để hoàn thành in hóa đơn</li>
+</ul>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-11.png" style="height:500px" /></p>
+<p><strong>Cách 2: Chọn và click vào hóa đơn cần in để hiển thị chi tiết hóa đơn</strong></p>
+<ul>
+<li>
+<p>Sau khi hiển thị chi tiết hóa đơn ấn vào nút “Xem in” để hiển thị bản in hóa đơn</p>
+</li>
+<li>
+<p>Chọn In hóa đơn để máy in/máy pos in hóa đơn</p>
+</li>
+</ul>
+<p><img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-12.png" style="height:500px" />
+<img alt="Hình 3" src="../../../assets/images/mSeller/huong-dan-in-13.png" style="height:500px" /></p>
+<details class="info" open="open">
+<summary>Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice</summary>
+<p>Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)</p>
+</details>
+<p><img alt="Hình 9" src="../../../assets/images/invoice2/hotro.png" /></p>
+<div class="last-updated">Last updated on <strong>Jun 17, 2025</strong> by <strong>nhatth</strong></div>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  <form class="md-feedback" name="feedback" hidden>
+    <fieldset>
+      <legend class="md-feedback__title">
+        Was this page helpful?
+      </legend>
+      <div class="md-feedback__inner">
+        <div class="md-feedback__list">
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page was helpful" data-md-value="1">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 12a8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8m2 0a10 10 0 0 1-10 10A10 10 0 0 1 2 12 10 10 0 0 1 12 2a10 10 0 0 1 10 10M10 9.5c0 .8-.7 1.5-1.5 1.5S7 10.3 7 9.5 7.7 8 8.5 8s1.5.7 1.5 1.5m7 0c0 .8-.7 1.5-1.5 1.5S14 10.3 14 9.5 14.7 8 15.5 8s1.5.7 1.5 1.5m-5 7.73c-1.75 0-3.29-.73-4.19-1.81L9.23 14c.45.72 1.52 1.23 2.77 1.23s2.32-.51 2.77-1.23l1.42 1.42c-.9 1.08-2.44 1.81-4.19 1.81"/></svg>
+            </button>
+          
+            <button class="md-feedback__icon md-icon" type="submit" title="This page could be improved" data-md-value="0">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 12a8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8 8 8 0 0 0 8-8m2 0a10 10 0 0 1-10 10A10 10 0 0 1 2 12 10 10 0 0 1 12 2a10 10 0 0 1 10 10m-6.5-4c.8 0 1.5.7 1.5 1.5s-.7 1.5-1.5 1.5-1.5-.7-1.5-1.5.7-1.5 1.5-1.5M10 9.5c0 .8-.7 1.5-1.5 1.5S7 10.3 7 9.5 7.7 8 8.5 8s1.5.7 1.5 1.5m2 4.5c1.75 0 3.29.72 4.19 1.81l-1.42 1.42C14.32 16.5 13.25 16 12 16s-2.32.5-2.77 1.23l-1.42-1.42C8.71 14.72 10.25 14 12 14"/></svg>
+            </button>
+          
+        </div>
+        <div class="md-feedback__note">
+          
+            <div data-md-value="1" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              Thanks for your feedback!
+            </div>
+          
+            <div data-md-value="0" hidden>
+              
+              
+                
+              
+              
+              
+                
+                
+              
+              Help us improve!
+            </div>
+          
+        </div>
+      </div>
+    </fieldset>
+  </form>
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-circle-arrow-up" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m16 12-4-4-4 4M12 16V8"/></svg>
+  Trở lại mục lục
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Chân trang" >
+        
+          
+          <a href="../xuat-hoa-don/" class="md-footer__link md-footer__link--prev" aria-label="Trước: Thêm giao dịch và tạo hóa đơn">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-arrow-left" viewBox="0 0 24 24"><path d="m12 19-7-7 7-7M19 12H5"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Trước
+              </span>
+              <div class="md-ellipsis">
+                Thêm giao dịch và tạo hóa đơn
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../sua-xoa-giao-dich/" class="md-footer__link md-footer__link--next" aria-label="Sau: Sửa xoá giao dịch">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Sau
+              </span>
+              <div class="md-ellipsis">
+                Sửa xoá giao dịch
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-arrow-right" viewBox="0 0 24 24"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2026 M-invoice
+
+    </div>
+  
+  
+    Made with
+    <a href="https://zensical.org/" target="_blank" rel="noopener">
+      Zensical
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://minvoice.vn" target="_blank" rel="noopener" title="Trang chủ M-invoice" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 7.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc.--><path fill="currentColor" d="M351.9 280H161c2.9 64.5 17.2 123.9 37.5 167.4 11.4 24.5 23.7 41.8 35.1 52.4 11.2 10.5 18.9 12.2 22.9 12.2s11.7-1.7 22.9-12.2c11.4-10.6 23.7-28 35.1-52.4 20.3-43.5 34.6-102.9 37.5-167.4zm-191-48h190.9c-2.8-64.5-17.1-123.9-37.4-167.4-11.4-24.4-23.7-41.8-35.1-52.4C268.1 1.7 260.4 0 256.4 0s-11.7 1.7-22.9 12.2c-11.4 10.6-23.7 28-35.1 52.4-20.3 43.5-34.6 102.9-37.5 167.4m-48 0c3.5-85.6 25.6-165.1 57.9-217.3C78.7 47.3 10.9 131.2 1.5 232zM1.5 280c9.4 100.8 77.2 184.7 169.3 217.3-32.3-52.2-54.4-131.7-57.9-217.3zm398.4 0c-3.5 85.6-25.6 165.1-57.9 217.3 92.1-32.7 159.9-116.5 169.3-217.3zm111.4-48C501.9 131.2 434.1 47.3 342 14.7c32.3 52.2 54.4 131.7 57.9 217.3z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+      <div class="md-progress" data-md-component="progress" role="progressbar"></div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate":null,"base":"../../..","features":["navigation.instant.preview","announce.dismiss","content.code.annotate","navigation.tabs","content.code.copy","content.code.select","content.footnote.tooltips","content.tabs.link","content.tooltips","navigation.footer","navigation.indexes","navigation.instant","navigation.instant.prefetch","navigation.instant.progress","navigation.path","navigation.prune","navigation.top","navigation.tracking","search.highlight","toc.follow"],"search":"../../../assets/javascripts/workers/search.e2d2d235.min.js","tags":{"invoice1":"Hướng dẫn 1.0","invoice2":"Hướng dẫn 2.0","mbhxh":"Bảo hiểm xã hội"},"translations":{"clipboard.copied":"Đã sao chép","clipboard.copy":"Sao chép vào bộ nhớ tạm","search.result.more.one":"1 từ khác trong trang","search.result.more.other":"# từ khác trong trang","search.result.none":"Không tìm thấy tài liệu liên quan","search.result.one":"1 tài liệu liên quan","search.result.other":"# tài liệu liên quan","search.result.placeholder":"Nhập để bắt đầu tìm kiếm","search.result.term.missing":"Không","select.version":"Chọn phiên bản"},"version":null}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.91a19a9e.min.js"></script>
+      
+        <script src="../../../assets/javascripts/glightbox.min.js"></script>
+      
+        <script src="../../../assets/javascripts/auto-glightbox.js"></script>
+      
+        <script src="../../../assets/javascripts/cards.js"></script>
+      
+        <script src="../../../assets/javascripts/home.js"></script>
+      
+        <script src="../../../assets/javascripts/nav-parent.js"></script>
+      
+    
+  </body>
+</html>
