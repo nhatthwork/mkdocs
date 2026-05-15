@@ -130,7 +130,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
     ### **Các trạng thái của tờ khai**
     ???+ info "Tiếp nhận"
         
-        Đối với tờ khai đang ở trạng thái “tiếp nhận” ,anh chị vui lòng đợi trong vòng 24-48 giờ để thuế họ gửi mail về mail anh chị đăng ký trong tờ khai, sau khi tờ khai chuyển về trạng thái “chấp nhận” ,anh chị có thể tiếp tục xuất hóa đơn bình thường
+        Đối với tờ khai đang ở trạng thái “tiếp nhận” ,anh chị truy cập etaxmobile bằng thông tin người đại diện để xác thực OTP, cụ thể anh chị xem chi tiết tại **Bước 5** dưới đây
 
         ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_16.png "Hãy bấm vào để xem rõ hơn")
 
@@ -150,9 +150,22 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
         ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_19.png "Hãy bấm vào để xem rõ hơn")
 
-??? Info "Bước 5: Xác thực OTP tờ khai trên app eTax mobile - (Trường hợp tờ khai được chấp nhận luôn xin bỏ qua bước này)"
+??? Info "Bước 5: Xác thực OTP tờ khai trên app eTax mobile"
 
-    ### **Bước 5: Xác thực OTP tờ khai trên app eTax mobile - (Trường hợp tờ khai được chấp nhận luôn xin bỏ qua bước này)**
+    ### **Bước 5: Xác thực OTP tờ khai trên app eTax mobile**
+
+    ???+ warning "Lưu ý"
+
+        Từ đêm ngày 14/05/2026, các trường hợp sau sẽ yêu cầu xác thực sinh trắc học đối với Người đại diện pháp luật khi thực hiện trên hệ thống eTax:
+
+          • Đăng ký mới sử dụng hóa đơn điện tử
+
+          • Thay đổi thông tin đăng ký sử dụng HĐĐT có liên quan đến Người đại diện pháp luật, bao gồm:
+
+            + Họ và tên
+            + Số CCCD
+            + Ngày sinh
+        Đối với các thay đổi thông tin khác không liên quan đến Người đại diện pháp luật, hệ thống sẽ thực hiện xác thực bằng mã OTP gửi đến tài khoản đăng ký.
 
     **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
 
@@ -290,4 +303,4 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 12](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jan 19, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>May 15, 2026</strong> by <strong>NHATTH</strong></div>
