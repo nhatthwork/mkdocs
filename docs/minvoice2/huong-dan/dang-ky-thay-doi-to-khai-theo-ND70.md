@@ -27,7 +27,7 @@ tags:
 
 ## **Hướng dẫn đăng ký thay đổi tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
 
-<iframe style="width: 43rem; height: 480px" src="https://www.youtube.com/embed/JZ8b6bfL0aM?si=ZFdY86boSQE4UjMt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="width: 43rem; height: 480px" src="https://www.youtube.com/embed/kVF3jEqVuL4?si=r_zEZwqZLEq_6dlx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Hướng dẫn sử dụng bằng hình ảnh nếu Quý khách không xem được video**
 
