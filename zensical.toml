@@ -220,7 +220,8 @@ nav = [
             "minvoice2/danh-muc-bao-cao/danh-muc-hang-hoa.md",
             "minvoice2/danh-muc-bao-cao/danh-muc-khach-hang.md",
             "minvoice2/danh-muc-bao-cao/danh-muc-don-vi-tinh.md",
-            "minvoice2/danh-muc-bao-cao/danh-muc-thay-doi-thue-suat.md"
+            "minvoice2/danh-muc-bao-cao/danh-muc-thay-doi-thue-suat.md",
+            "minvoice2/danh-muc-bao-cao/demo.md"
         ]},
 
         { "Xăng dầu ⛽" = [
