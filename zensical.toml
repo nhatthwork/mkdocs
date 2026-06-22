@@ -189,28 +189,28 @@ nav = [
         { "Nghiệp vụ hoá đơn điện tử - Xử lý sai sót" = [
             { "Lập biên bản hóa đơn sai sót" = "minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md" },
             { "Hướng dẫn thao tác ký biên bản người mua" = "minvoice2/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md" },
-            "minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md",
+            { "Điều chỉnh hóa Đơn" = "minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md" },
+            { "Thay thế hóa Đơn" = "minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md" },
+            { "Thay thế và điều chỉnh hóa Đơn trên hệ thống khác" = "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md" },
+            { "Thay thế hóa đơn ở năm cũ" = "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-hoa-don-o-nam-cu.md" },
 
             { "Các trường hợp điều chỉnh hoá đơn" = [
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa.md",
-                "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan.md"
+                { "Điều chỉnh tăng đơn giá hàng hóa" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md" },
+                { "Điều chỉnh tăng số lượng hàng hóa" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa.md" },
+                { "Điều chỉnh tăng thuế suất" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thue-suat.md" },
+                { "Điều chỉnh tăng thành tiền" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md" },
+                { "Điều chỉnh giảm đơn giá hàng hóa" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-don-gia-hang-hoa.md" },
+                { "Điều chỉnh giảm số lượng hàng hóa" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-so-luong-hang-hoa.md" },
+                { "Điều chỉnh giảm thuế suất" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thue-suat.md" },
+                { "Điều chỉnh giảm thành tiền" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-giam-thanh-tien-khong-dieu-chinh-so-luong-don-gia.md" },
+                { "Điều chỉnh tên hàng hóa" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ten-hang-hoa.md" },
+                { "Điều chỉnh mã số thuế người mua hàng" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-ma-so-thue-nguoi-mua-hang.md" },
+                { "Điều chỉnh đơn vị tính của hàng hóa" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-don-vi-tinh-cua-hang-hoa.md" },
+                { "Điều chỉnh hình thức thanh toán" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-hinh-thuc-thanh-toan.md" }
             ]},
 
             { "Điều chỉnh hoá đơn về 0 (Tương đương hủy hóa đơn)" = "minvoice2/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md" },
-            "minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md",
-            "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md",
             "minvoice2/xu-ly-sai-sot/giai-trinh-mau04ss.md",
-            "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-hoa-don-o-nam-cu.md"
         ]},
 
         { "Danh mục và báo cáo" = [
