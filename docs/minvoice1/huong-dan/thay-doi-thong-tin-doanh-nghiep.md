@@ -69,6 +69,8 @@
 
         **Tờ khai đăng ký/ thay đổi sẽ thường được bên thuế chấp nhận sau 1 ngày - 5 ngày làm việc**
 
+
+
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)

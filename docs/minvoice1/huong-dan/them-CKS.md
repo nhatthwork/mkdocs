@@ -119,16 +119,31 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ![Hình 1](../../assets/images/invoice1/1.0_dang-ky-nd70_10.png "Hãy bấm vào để xem rõ hơn")
 
-??? Info "Bước 6: Xác thực OTP tờ khai trên app eTax mobile - (Trường hợp tờ khai được chấp nhận luôn xin bỏ qua bước này)"
+### **Bước 6 :  Xác thực tờ khai đăng ký/ thay đổi**
 
-    ### **Bước 6: Xác thực OTP tờ khai trên app eTax mobile - (Trường hợp tờ khai được chấp nhận luôn xin bỏ qua bước này)**
+!!! warning Lưu ý
+
+    Từ đêm ngày 14/05/2026, các trường hợp sau sẽ yêu cầu xác thực sinh trắc học đối với Người đại diện pháp luật khi thực hiện trên hệ thống eTax:
+
+      • Đăng ký mới sử dụng hóa đơn điện tử
+
+      • Thay đổi thông tin đăng ký sử dụng HĐĐT có liên quan đến Người đại diện pháp luật, bao gồm:
+
+          + Họ và tên
+          + Số CCCD
+          + Ngày sinh
+    Đối với các thay đổi thông tin khác không liên quan đến Người đại diện pháp luật, hệ thống sẽ thực hiện xác thực bằng mã OTP gửi đến tài khoản đăng ký.
+
+
+??? abstract "Cách 1: Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế"
+    
 
     **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
 
     <div style="border: 1px solid #ccc; padding: 16px 22px; border-radius: 8px; background-color: #fdfdfd; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
-      <strong style="font-size: 16px; color: #1a237e;">📌 Tóm tắt trình tự thực hiện đăng ký sử dụng hóa đơn</strong>
+    <strong style="font-size: 16px; color: #1a237e;">📌 Tóm tắt trình tự thực hiện đăng ký sử dụng hóa đơn</strong>
 
-      <ol style="padding-left: 20px; margin-top: 10px;">
+    <ol style="padding-left: 20px; margin-top: 10px;">
     <li style="margin-bottom: 10px;">
       <strong>Gửi tờ khai đăng ký sử dụng hóa đơn mẫu 01/ĐKSD-HDDT</strong><br>
       (qua tổ chức dịch vụ hóa đơn điện tử)<br>
@@ -160,7 +175,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
     </ol>
     </div>
 
-    ![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_8.png "Hãy bấm vào để xem rõ hơn")
 
     ???+ note "Nội dung"
 
@@ -189,9 +204,9 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
       ❌ <em style="color: #c62828;">Việc này không thể ủy quyền.</em>
     </li>
 
-      </ol>
+    </ol>
 
-    <p style="margin-top: 14px; background-color: #fff3e0; padding: 10px 14px; border-left: 4px solid #fb8c00; border-radius: 4px;">
+      <p style="margin-top: 14px; background-color: #fff3e0; padding: 10px 14px; border-left: 4px solid #fb8c00; border-radius: 4px;">
     <strong>🔎 Lưu ý:</strong>  
     Những <strong>công ty mới thành lập</strong> bắt buộc phải làm định danh thì mới được sử dụng hóa đơn.<br>
     Các <strong>công ty đang sử dụng hóa đơn điện tử</strong> cũng cần thực hiện lại các bước trên nếu:  
@@ -199,7 +214,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
     - Thay đổi tên hoặc địa chỉ doanh nghiệp  
     </p>
 
-      <p style="margin-top: 12px; color: #2e7d32;"><strong>✅ Kết luận:</strong> 100% Giám đốc cần chuẩn bị sẵn 2 ứng dụng:</p>
+    <p style="margin-top: 12px; color: #2e7d32;"><strong>✅ Kết luận:</strong> 100% Giám đốc cần chuẩn bị sẵn 2 ứng dụng:</p>
     <ul style="margin-top: 6px; padding-left: 20px;">
     <li><strong>VNeID</strong> – để định danh điện tử</li>
     <li><strong>eTaxMobile</strong> – để xác nhận tờ khai với cơ quan thuế</li>
@@ -211,31 +226,84 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
     **1. Cơ quan thuế gửi email thông báo việc tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử cần xác thực OTP trong vòng 01 ngày làm việc.**
 
-    ![Hình 6](../../assets/images/invoice1/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_9.png "Hãy bấm vào để xem rõ hơn")
 
     **2. Đăng nhập app etax mobile**
 
-    ![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_10.png){: style="height:650px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_10.png "Hãy bấm vào để xem rõ hơn"){: style="height:650px"}
 
     **3. Chọn mục Hóa đơn điện tử.**
 
-    ![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_11.png){: style="height:650px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_11.png "Hãy bấm vào để xem rõ hơn"){: style="height:650px"}
 
     **4. Nhấn vào mục Tờ khai chờ xác thực.**
 
-    ![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_12.png){: style="height:650px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_12.png "Hãy bấm vào để xem rõ hơn"){: style="height:650px"}
 
     **5. Thực hiện xác thực.**
 
-    ![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_13.png){: style="height:650px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_13.png "Hãy bấm vào để xem rõ hơn"){: style="height:650px"}
 
     **Sau khi thực hiện xong bước xác thực OTP, tức tờ khai đã được xử lý đến mục tích xanh sau đây trên quy trình tờ khai. Đơn vị chờ Cơ quan thuế phản hồi các thông điệp tiếp theo.**
 
-    ![Hình 1](../../assets/images/invoice1/1.0_to-khai-nd70_14.png){: style="width:780px"}
+    ![Hình 1](../../assets/images/invoice2/2.0_to-khai-nd70_14.png "Hãy bấm vào để xem rõ hơn"){: style="width:780px"}
 
     **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
 
-    ![Hình 6](../../assets/images/invoice1/1.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
+    ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
+
+??? abstract "Cách 2: Xác thực Khuôn mặt tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế"
+
+    **Bước 1:**Người đại diện đăng nhập vào eTax moblie. Tìm **"Danh sách nhóm dịch vụ"** chọn **"Hóa đơn điện tử"**
+
+    <figure markdown="span">
+        ![Hình 1](../../assets/images/tai-lieu/etax-mobile/etax-mobile-4.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+    **Bước 2:** Chọn **"Tờ khai chờ xác thực"**
+
+    <figure markdown="span">
+        ![Hình 2](../../assets/images/tai-lieu/etax-mobile/etax-mobile-19.jpg "Hãy bấm vào để xem rõ hơn"){width="275"}
+    </figure>
+
+    **Bước 3:** Khi đó hệ thống sẽ hiển thị tờ khai chờ xác thực mà người dùng vừa làm. Người đại diện bấm chọn **"Sinh trắc học"**
+    <figure markdown="span">
+      ![Hình 3](../../assets/images/tai-lieu/etax-mobile/etax-mobile-14.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+    **Bước 4:** Ứng dụng yêu cầu kết nối với ứng dụng VNeID. Người đại diện bấm **Xác nhận chia sẻ**
+
+    <figure markdown="span">
+        ![Hình 4](../../assets/images/tai-lieu/etax-mobile/etax-mobile-9.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+    !!! warning
+
+        **Tài khoản VNeID của người đại diện đã định danh mức 2**
+
+    **Bước 5:** Nhập **passcode** => Hệ thống sẽ thông báo chia sẻ thông tin thành công
+
+    <figure markdown="span">
+        ![Hình 5](../../assets/images/tai-lieu/etax-mobile/etax-mobile-10.png "Hãy bấm vào để xem rõ hơn"){align="left", width=275}
+        ![Hình 6](../../assets/images/tai-lieu/etax-mobile/etax-mobile-11.png "Hãy bấm vào để xem rõ hơn"){align="right", width=275}
+    </figure>
+
+    **Bước 6:** Người đại diện thực hiện xác thực gương mặt theo hướng dẫn của ứng dụng
+
+    <figure markdown="span">
+        ![Hình 7](../../assets/images/tai-lieu/etax-mobile/etax-mobile-12.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+    **Bước 7:** Xác thực thành công
+
+    <figure markdown="span">
+        ![Hình 7](../../assets/images/tai-lieu/etax-mobile/etax-mobile-16.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+ 
+**Về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
+
+![Hình 6](../../assets/images/invoice1/1.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Danger "Chú ý"
 

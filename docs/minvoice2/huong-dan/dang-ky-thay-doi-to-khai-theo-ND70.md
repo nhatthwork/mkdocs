@@ -23,6 +23,7 @@ tags:
   Nếu sau <strong>24h</strong> mà NNT <strong>không xác thực</strong> hoặc xác thực <strong>không thành công</strong>, <span style="color:red;"><strong>tờ khai sẽ bị hủy</strong></span>.</p>
 
   <p><strong>👉 Để tránh gián đoạn</strong> trong quá trình sử dụng hóa đơn điện tử, NNT cần <strong>chủ động xác thực ngay sau khi gửi tờ khai!</strong></p>
+  
 </div>
 
 ## **Hướng dẫn đăng ký thay đổi tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
@@ -129,7 +130,7 @@ Các Anh/Chị vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay
 
 ??? Abstract "Các trạng thái của tờ khai"
 
-    ### **Các trạng thái của tờ khai**
+    **Các trạng thái của tờ khai**
     ???+ info "Tiếp nhận"
         
         Đối với tờ khai đang ở trạng thái “tiếp nhận” ,anh chị truy cập etaxmobile bằng thông tin người đại diện để xác thực OTP, cụ thể anh chị xem chi tiết tại **Bước 5** dưới đây
@@ -152,22 +153,23 @@ Các Anh/Chị vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay
 
         ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_19.png "Hãy bấm vào để xem rõ hơn")
 
-??? abstract "Bước 5 : Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế"
-    
-    ### **Bước 5 : Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế**
+### **Bước 5 :  Xác thực tờ khai đăng ký/ thay đổi**
 
-    ???+ warning "Lưu ý"
+!!! warning Lưu ý
 
-        Từ đêm ngày 14/05/2026, các trường hợp sau sẽ yêu cầu xác thực sinh trắc học đối với Người đại diện pháp luật khi thực hiện trên hệ thống eTax:
+    Từ đêm ngày 14/05/2026, các trường hợp sau sẽ yêu cầu xác thực sinh trắc học đối với Người đại diện pháp luật khi thực hiện trên hệ thống eTax:
 
-          • Đăng ký mới sử dụng hóa đơn điện tử
+      • Đăng ký mới sử dụng hóa đơn điện tử
 
-          • Thay đổi thông tin đăng ký sử dụng HĐĐT có liên quan đến Người đại diện pháp luật, bao gồm:
+      • Thay đổi thông tin đăng ký sử dụng HĐĐT có liên quan đến Người đại diện pháp luật, bao gồm:
 
-            + Họ và tên
-            + Số CCCD
-            + Ngày sinh
-        Đối với các thay đổi thông tin khác không liên quan đến Người đại diện pháp luật, hệ thống sẽ thực hiện xác thực bằng mã OTP gửi đến tài khoản đăng ký.
+          + Họ và tên
+          + Số CCCD
+          + Ngày sinh
+    Đối với các thay đổi thông tin khác không liên quan đến Người đại diện pháp luật, hệ thống sẽ thực hiện xác thực bằng mã OTP gửi đến tài khoản đăng ký.
+
+
+??? abstract "Cách 1: Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế"
 
     **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
 
@@ -282,6 +284,59 @@ Các Anh/Chị vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay
     **6. Quay về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
 
     ![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
+
+??? abstract "Cách 2: Xác thực Khuôn mặt tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế"
+
+    **Bước 1:**Người đại diện đăng nhập vào eTax moblie. Tìm **"Danh sách nhóm dịch vụ"** chọn **"Hóa đơn điện tử"**
+
+    <figure markdown="span">
+        ![Hình 1](../../assets/images/tai-lieu/etax-mobile/etax-mobile-4.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+    **Bước 2:** Chọn **"Tờ khai chờ xác thực"**
+
+    <figure markdown="span">
+        ![Hình 2](../../assets/images/tai-lieu/etax-mobile/etax-mobile-19.jpg "Hãy bấm vào để xem rõ hơn"){width="275"}
+    </figure>
+
+    **Bước 3:** Khi đó hệ thống sẽ hiển thị tờ khai chờ xác thực mà người dùng vừa làm. Người đại diện bấm chọn **"Sinh trắc học"**
+    <figure markdown="span">
+      ![Hình 3](../../assets/images/tai-lieu/etax-mobile/etax-mobile-14.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+    **Bước 4:** Ứng dụng yêu cầu kết nối với ứng dụng VNeID. Người đại diện bấm **Xác nhận chia sẻ**
+
+    <figure markdown="span">
+        ![Hình 4](../../assets/images/tai-lieu/etax-mobile/etax-mobile-9.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+    !!! warning
+
+        **Tài khoản VNeID của người đại diện đã định danh mức 2**
+
+    **Bước 5:** Nhập **passcode** => Hệ thống sẽ thông báo chia sẻ thông tin thành công
+
+    <figure markdown="span">
+        ![Hình 5](../../assets/images/tai-lieu/etax-mobile/etax-mobile-10.png "Hãy bấm vào để xem rõ hơn"){align="left", width=275}
+        ![Hình 6](../../assets/images/tai-lieu/etax-mobile/etax-mobile-11.png "Hãy bấm vào để xem rõ hơn"){align="right", width=275}
+    </figure>
+
+    **Bước 6:** Người đại diện thực hiện xác thực gương mặt theo hướng dẫn của ứng dụng
+
+    <figure markdown="span">
+        ![Hình 7](../../assets/images/tai-lieu/etax-mobile/etax-mobile-12.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+    **Bước 7:** Xác thực thành công
+
+    <figure markdown="span">
+        ![Hình 7](../../assets/images/tai-lieu/etax-mobile/etax-mobile-16.png "Hãy bấm vào để xem rõ hơn")
+    </figure>
+
+**Về phần mềm hóa đơn điện tử M-invoice để kiểm tra tờ khai tại cột Phản hồi CQT trên danh sách tờ khai.**
+
+![Hình 6](../../assets/images/invoice2/2.0_to-khai-nd70_15.png "Hãy bấm vào để xem rõ hơn")
+  
 
 ???+ Danger "Chú ý"
 
