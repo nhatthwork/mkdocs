@@ -1,10 +1,10 @@
 ---
-icon: lucide/log-in
+icon: lucide/check-check
 tags:
 
 ---
 
-# **Hướng dẫn xem tình hình sử dụng số lượng hóa đơn**
+# **Hướng dẫn kiểm tra tình trạng sử dụng số lượng hóa đơn mSMI**
 
 <script>
 function activateTabFromUrlFragment() {
@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', activateTabFromUrlFragment);
 
     Ở ngoài trang Dashboard, người dùng sẽ thấy phần thông tin bản quyền
     <figure markdown="span">
-      ![Hình1](../../assets/images/mSMI/ban-quyen-01.png)
+      ![Hình1](../../assets/images/mSMI/ban-quyen_1.png)
     </figure>
 
     
@@ -77,13 +77,13 @@ document.addEventListener('DOMContentLoaded', activateTabFromUrlFragment);
     **Bước 1**: Chọn **báo cáo** ở ngoài trang Dashboard => Chọn **Tình hình sử dụng**
 
     <figure markdown="span">
-    ![Hình2](../../assets/images/mSMI/ban-quyen-02.png)
+    ![Hình2](../../assets/images/mSMI/ban-quyen_2.png)
     </figure>
 
     **Bước 2**: Người dùng sẽ thấy biểu đồ tình hình sử dụng thể hiện số lượng **Đã sử dung** và số lượng **Còn lại**
 
     <figure markdown="span">
-    ![Hình3](../../assets/images/mSMI/ban-quyen-03.png)
+    ![Hình3](../../assets/images/mSMI/ban-quyen_3.png)
     </figure>
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"

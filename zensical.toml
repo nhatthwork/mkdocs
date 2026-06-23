@@ -281,7 +281,7 @@ nav = [
             "msmi/dong-bo-chi-tiet-hoa-don.md",
             { "Đồng bộ thông báo sai sót 04/SS" = "msmi/dong-bo-04ss.md" },
             { "Đồng bộ hoá đơn qua email" = "msmi/huong-dan-dong-bo-hoa-don-qua-email.md" },
-            { "Kiểm tra tình trạng số lượng hóa đơn" = "msmi/kiem-tra-so-luong-ban-quyen.md" }
+            { "Kiểm tra tình trạng số lượng hóa đơn mSMI" = "msmi/kiem-tra-so-luong-ban-quyen.md" }
         ]},
 
         { "Các lỗi thường gặp khi sử dụng phần mềm" = [
