@@ -190,9 +190,9 @@ nav = [
             { "Lập biên bản hóa đơn sai sót" = "minvoice2/xu-ly-sai-sot/lap-bien-ban-hoa-don.md" },
             { "Hướng dẫn thao tác ký biên bản người mua" = "minvoice2/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md" },
             { "Điều chỉnh hóa Đơn" = "minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md" },
-            { "Thay thế hóa Đơn" = "minvoice2/xu-ly-sai-sot/dieu-chinh-hoa-don.md" },
+            { "Thay thế hóa Đơn" = "minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md" },
             { "Thay thế và điều chỉnh hóa Đơn trên hệ thống khác" = "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md" },
-            { "Thay thế hóa đơn ở năm cũ" = "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-hoa-don-o-nam-cu.md" },
+            { "Điều chỉnh / Thay thế hóa đơn ở năm cũ VD: hóa đơn bị sai ở năm 2025" = "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-hoa-don-o-nam-cu.md" },
 
             { "Các trường hợp điều chỉnh hoá đơn" = [
                 { "Điều chỉnh tăng đơn giá hàng hóa" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md" },
@@ -280,7 +280,8 @@ nav = [
             { "Kiểm tra tình trạng Mã số thuế" = "msmi/kiem-tra-mst.md" },
             "msmi/dong-bo-chi-tiet-hoa-don.md",
             { "Đồng bộ thông báo sai sót 04/SS" = "msmi/dong-bo-04ss.md" },
-            { "Đồng bộ hoá đơn qua email" = "msmi/huong-dan-dong-bo-hoa-don-qua-email.md" }
+            { "Đồng bộ hoá đơn qua email" = "msmi/huong-dan-dong-bo-hoa-don-qua-email.md" },
+            { "Kiểm tra tình trạng số lượng hóa đơn" = "msmi/kiem-tra-so-luong-ban-quyen.md" }
         ]},
 
         { "Các lỗi thường gặp khi sử dụng phần mềm" = [
