@@ -93,6 +93,8 @@ document.addEventListener('DOMContentLoaded', activateTabFromUrlFragment);
 ![Hình 4](../../assets/images/mSMI/msmi_footer.png "Hãy bấm vào để xem rõ hơn")
 
 
-<div class="last-updated">Last updated on <strong>May, 2026</strong> by <strong>manhdd</strong></div>
+<div class="last-updated">
+  Last updated on <strong>June, 2026</strong> by <strong>datvt</strong>
+</div>
 
     
