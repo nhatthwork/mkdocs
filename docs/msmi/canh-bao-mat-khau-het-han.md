@@ -26,7 +26,7 @@ Khi mật khẩu kết nối tới cơ quan thuế của người dùng **hết 
 
 ![Hình 3](../../assets/images/mSMI/nhap-mat-khau-thue.png "Hãy bấm vào để xem rõ hơn")
 
-???+ Abstract "Nội dung"
+???+ Abstract "Quên mật khẩu đăng nhập"
 
     Trong trường hợp anh/chị quên mật khẩu của trang **https://hoadondientu.gdt.gov.vn/**, anh/chị lấy lại theo hướng dẫn sau: **https://hdsd.minvoice.com.vn/msmi/lay-mat-khau-hddt/**
 
@@ -55,6 +55,6 @@ Khi bấm đăng nhập, anh/chị chờ một chút để phần mềm có th�
 
     Có bất kỳ vướng mắc nào trong quá trình sử dụng hãy liên hệ với M-Invoice tại mục Hỗ trợ kỹ thuật góc phải bên dưới màn hình hoặc gọi tổng đài kỹ thuật của M-Invoice (1900.955.557 Nhánh 1)
 
-![Hình 5](../../assets/images/mSMI/msmi_footer.png "Hãy bấm vào để xem rõ hơn")
+![Hình 8](../../assets/images/mSMI/msmi_footer.png "Hãy bấm vào để xem rõ hơn")
 
 <div class="last-updated">Last updated on <strong>July 11, 2026</strong> by <strong>Datvt</strong></div>
