@@ -38,7 +38,7 @@ Khi mật khẩu kết nối tới cơ quan thuế của người dùng **hết 
 
 #### Bước 2: Đăng xuất tài khoản có cảnh báo hết hạn 
 
-![Hình 5](../../assets/images/mSMI/dang-xuat-tk-ket-noi.png "Hãy bấm vào để xem rõ hơn")
+![Hình 5](../../assets/images/mSMI/dang-xuat-tk-ket-boi "Hãy bấm vào để xem rõ hơn")
 
 #### Bước 3: Bấm **đăng nhập lại**
 
