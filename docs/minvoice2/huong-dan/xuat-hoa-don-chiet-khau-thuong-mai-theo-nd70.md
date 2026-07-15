@@ -3,7 +3,7 @@ icon: lucide/ticket-percent
 tags:
   - invoice2
 ---
-# **Xuất Hóa đơn chiết khấu thương mại theo Nghị định 70/2025/NĐ-CP**
+# **Xuất Hóa đơn chiết khấu thương mại theo Nghị Định 254/2026/NĐ-CP**
 
 ???+ Note "Căn cứ"
 
@@ -17,7 +17,7 @@ tags:
 
         (Tính chất dòng hàng là Hàng hóa dịch vụ, Tổng tiền là số dương)
 
-## **Hướng dẫn xuất Hóa đơn chiết khấu thương mại theo Nghị định 70/2025/NĐ-CP**
+## **Hướng dẫn xuất Hóa đơn chiết khấu thương mại theo Nghị Định 254/2026/NĐ-CP**
 
 **Hướng dẫn video**
 

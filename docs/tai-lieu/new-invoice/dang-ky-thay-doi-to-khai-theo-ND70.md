@@ -1,8 +1,8 @@
-# **Đăng ký / thay đổi tờ khai theo NĐ70**
+# **Đăng ký / thay đổi tờ khai theo NĐ 254/2026/NĐ-CP**
 
 <div style="font-size:14px; color:#b00020; background-color:#fff3f3; padding:12px; border-left:4px solid #b00020; border-radius:6px;">
   <p><strong>🚨 Quan trọng:</strong> <br>
-  Bắt buộc xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử từ <strong>Nghị định 70/2025/NĐ-CP</strong></p>
+  Bắt buộc xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử từ <strong>Nghị định 254/2026/NĐ-CP</strong></p>
 
   <p>Từ <strong>ngày 01/07/2025</strong>, người nộp thuế (NNT) khi đăng ký hoặc thay đổi thông tin sử dụng hóa đơn điện tử sẽ <strong>bắt buộc phải xác thực sinh trắc học</strong> trên ứng dụng <strong>eTax Mobile</strong>.</p>
 

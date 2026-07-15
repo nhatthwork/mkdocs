@@ -7,15 +7,15 @@ tags:
   - invoice2
 ---
 
-# **Thay đổi chữ ký số (CKS) hoặc thêm chữ ký số (CKS) mới vào phần mềm theo NĐ70**
+# **Thay đổi chữ ký số (CKS) hoặc thêm chữ ký số (CKS) mới vào phần mềm theo NĐ 254/2026/NĐ-CP**
 
-## **Hướng dẫn Thay đổi CKS hoặc thêm CKS mới vào phần mềm và nộp tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
+## **Hướng dẫn Thay đổi CKS hoặc thêm CKS mới vào phần mềm và nộp tờ khai theo NĐ 254/2026/NĐ-CP đáp ứng xác thực sinh trắc học của Cục Thuế**
 
 <iframe style="width: 50rem; height: 480px" src="https://www.youtube.com/embed/10tfqMP7Zec?si=rL1BMWD5zb82nF6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ???+ warning "Lưu ý: cần phải làm xác thực sinh trắc học sau khi nộp tờ khai thay đổi với CQT"
 
-    **Từ Nghị định 70/2025/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** <span style="color:red;"><strong>(trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)</strong></span>
+    **Từ NĐ 254/2026/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** <span style="color:red;"><strong>(trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)</strong></span>
 
     <p><strong>❌ Lưu ý:</strong><br>
     Nếu sau <strong>24h</strong> mà NNT <strong>không xác thực</strong> hoặc xác thực <strong>không thành công</strong>, <span style="color:red;"><strong>tờ khai sẽ bị hủy</strong></span>.</p>

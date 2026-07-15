@@ -113,7 +113,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 
 ??? abstract "Cách 1: Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế"
     
-    **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
+    **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO Nghị Định 254/2026/NĐ-CP**
 
     <div style="border: 1px solid #ccc; padding: 16px 22px; border-radius: 8px; background-color: #fdfdfd; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
     <strong style="font-size: 16px; color: #1a237e;">📌 Tóm tắt trình tự thực hiện đăng ký sử dụng hóa đơn</strong>

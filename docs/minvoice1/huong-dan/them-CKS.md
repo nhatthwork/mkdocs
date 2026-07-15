@@ -4,14 +4,14 @@ tags:
   - invoice1
 ---
 
-# **Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70**
+# **Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo Nghị Định 254/2026/NĐ-CP**
 
 
-## **Hướng dẫn Thay đổi CKS hoặc thêm CKS mới vào phần mềm và nộp tờ khai theo NĐ70 đáp ứng xác thực sinh trắc học của Cục Thuế**
+## **Hướng dẫn Thay đổi CKS hoặc thêm CKS mới vào phần mềm và nộp tờ khai theo Nghị Định 254/2026/NĐ-CP đáp ứng xác thực sinh trắc học của Cục Thuế**
 
 ???+ warning "Lưu ý: cần phải làm xác thực sinh trắc học sau khi nộp tờ khai thay đổi với CQT"
 
-    **Từ Nghị định 70/2025/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** <span style="color:red;"><strong>(trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)</strong></span>
+    **Từ Nghị Định 254/2026/NĐ-CP phải xác thực sinh trắc học khi đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử** <span style="color:red;"><strong>(trường hợp CQT duyệt trạng thái `Chấp nhận` luôn thì bỏ quả bước này)</strong></span>
 
     <p><strong>❌ Lưu ý:</strong><br>
     Nếu sau <strong>24h</strong> mà NNT <strong>không xác thực</strong> hoặc xác thực <strong>không thành công</strong>, <span style="color:red;"><strong>tờ khai sẽ bị hủy</strong></span>.</p>
@@ -138,7 +138,7 @@ Các bạn vào phần **Đăng ký phát hành >> Tờ khai đăng ký/thay đ�
 ??? abstract "Cách 1: Xác thực OTP tờ khai đăng ký/thay đổi thông tin sử dụng hóa đơn điện tử theo yêu cầu của Cơ quan thuế"
     
 
-    **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO NĐ70**
+    **QUY TRÌNH XỬ LÝ TỜ KHAI ĐĂNG KÝ THEO Nghị Định 254/2026/NĐ-CP**
 
     <div style="border: 1px solid #ccc; padding: 16px 22px; border-radius: 8px; background-color: #fdfdfd; color: #2d2d2d; font-family: 'Roboto', 'Arial', sans-serif; font-size: 14px; line-height: 1.7;">
     <strong style="font-size: 16px; color: #1a237e;">📌 Tóm tắt trình tự thực hiện đăng ký sử dụng hóa đơn</strong>

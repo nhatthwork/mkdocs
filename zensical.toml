@@ -55,11 +55,11 @@ nav = [
             { "Dashboard 1.0" = "minvoice1/huong-dan/dashboard.md" },
             { "Cài đặt plugin" = "minvoice1/huong-dan/cai-dat-plugin.md" },
             { "Hướng dẫn lập và phát hành hóa đơn (Thêm, sửa, xoá ,sao chép)" = "minvoice1/huong-dan/lap-va-phat-hanh-hoa-don.md" },
-            { "Đăng ký / thay đổi tờ khai theo NĐ70" = "minvoice1/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md" },
-            { "Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ70" = "minvoice1/huong-dan/them-CKS.md" },
+            { "Đăng ký / thay đổi tờ khai theo NĐ 254/2026/NĐ-CP" = "minvoice1/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md" },
+            { "Thay đổi CKS hoặc thêm CKS mới vào phần mềm theo NĐ 254/2026/NĐ-CP" = "minvoice1/huong-dan/them-CKS.md" },
             { "Thay đổi địa chỉ doanh nghiệp trên hóa đơn" = "minvoice1/huong-dan/thay-doi-dia-chi-tren-hoa-don.md" },
             { "Hướng dẫn sử dụng phiếu đề nghị thu tiền" = "minvoice1/huong-dan/huong-dan-su-dung-phieu-de-nghi-thu-tien.md" },
-            { "Xuất hóa đơn chiết khấu thương mại theo NĐ70" = "minvoice1/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md" },
+            { "Xuất hóa đơn chiết khấu thương mại theo NĐ 254/2026/NĐ-CP" = "minvoice1/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md" },
             { "Hướng dẫn đề nghị tạm dừng sử dụng hóa đơn điện tử" = "minvoice1/huong-dan/huong-dan-de-nghi-tam-dung-su-dung-hoa-don-dien-tu.md" }
         ]},
 
@@ -101,7 +101,7 @@ nav = [
             ]},
 
             { "Điều chỉnh hoá đơn về 0 (Tương đương huỷ hoá đơn)" = "minvoice1/xu-ly-sai-sot/dieu-chinh-giam-ve-0.md" },
-            { "Thông báo 04/SS-HDDT sai sót theo NĐ70" = "minvoice1/xu-ly-sai-sot/lap-04ss.md" }
+            { "Thông báo 04/SS-HDDT sai sót theo NĐ 254/2026/NĐ-CPNĐ70" = "minvoice1/xu-ly-sai-sot/lap-04ss.md" }
         ]},
 
         { "Danh mục và báo cáo" = [
@@ -133,13 +133,13 @@ nav = [
 
             { "Hướng dẫn lập và phát hành hóa đơn (Thêm, sửa, xoá ,sao chép)" = "minvoice2/huong-dan/lap-va-phat-hanh-hoa-don.md" },
             "minvoice2/huong-dan/plugin.md",
-            "minvoice2/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md",
-            "minvoice2/huong-dan/them-cks-moi.md",
+            { "Đăng ký/ thay đổi tờ khai theo Nghị định 254/2026/NĐ-CP" =  "minvoice2/huong-dan/dang-ky-thay-doi-to-khai-theo-ND70.md" },
+            { "Thay đổi chữ ký số (CKS) hoặc thêm chữ ký số (CKS) mới vào phần mềm theo Nghị Định 254/2026/NĐ-CP" =  "minvoice2/huong-dan/them-cks-moi.md"},
             "minvoice2/huong-dan/thay-doi-dia-chi-tren-hoa-don.md",
             "minvoice2/huong-dan/chuyen-doi-so-dinh-danh-ca-nhan-thay-the-ma-so-thue.md",
             "minvoice2/huong-dan/huong-dan-su-dung-loai-hinh-doanh-nghiep-dich-vu-van-chuyen-bien-so-xe.md",
             "minvoice2/huong-dan/huong-dan-su-dung-hoa-don-mua-ban-xe-so-khung-so-may.md",
-            "minvoice2/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md",
+            { "Xuất hóa đơn chiết khấu thương mại theo NĐ 254/2026/NĐ-CP" = "minvoice2/huong-dan/xuat-hoa-don-chiet-khau-thuong-mai-theo-nd70.md"},
             "minvoice2/huong-dan/huong-dan-de-nghi-tam-dung-su-dung-hoa-don-dien-tu.md"
         ]},
 
@@ -468,7 +468,7 @@ nav = [
             ]},
 
         { "New-invoice" = [
-            "tai-lieu/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md",
+         { "Đăng ký/ thay đổi tờ khai theo Nghị định 254/2026/NĐ-CP" = "tai-lieu/new-invoice/dang-ky-thay-doi-to-khai-theo-ND70.md" },
             "tai-lieu/new-invoice/thay-doi-dia-chi-tren-hoa-don.md",
             "tai-lieu/new-invoice/chuyen-doi-minvoice.md"
         ]}

@@ -8,7 +8,7 @@ tags:
 
 ???+ note "Mục đích"
 
-    M-invoice xin hướng dẫn quý anh chị tạo mẫu ký hiệu hóa đơn mới và bổ sung thông tin trên mẫu cho Đơn vị có nhu cầu thêm các thông tin theo Nghị định 70/2025/NĐ-CP như: **Mã đơn vị có quan hệ với ngân sách** (gọi tắt là **MĐVCQHVNS**), **Số căn cước công dân, Số hộ chiếu**.
+    M-invoice xin hướng dẫn quý anh chị tạo mẫu ký hiệu hóa đơn mới và bổ sung thông tin trên mẫu cho Đơn vị có nhu cầu thêm các thông tin theo NĐ 254/2026/NĐ-CP như: **Mã đơn vị có quan hệ với ngân sách** (gọi tắt là **MĐVCQHVNS**), **Số căn cước công dân, Số hộ chiếu**.
 
 ### Hướng dẫn video chi tiết
 
