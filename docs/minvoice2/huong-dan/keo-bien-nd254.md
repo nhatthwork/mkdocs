@@ -4,7 +4,7 @@ tags:
   - invoice2
 ---
 
-# **Thêm các trường mới theo NĐ70 ở trên mẫu hóa đơn**
+# **Thêm các trường mới theo NĐ254 ở trên mẫu hóa đơn**
 
 ???+ note "Mục đích"
 

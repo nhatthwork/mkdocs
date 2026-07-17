@@ -1,8 +1,8 @@
-## **Thông tin và các trường bổ sung theo NGHỊ ĐỊNH 70/2025/NĐ-CP (áp dụng từ ngày 01/06/2025)**
+## **Thông tin và các trường bổ sung theo NGHỊ ĐỊNH 254/2026/NĐ-CP (áp dụng từ ngày 01/06/2025)**
 
 ???+ Danger "📢 THÔNG BÁO VỀ VIỆC BỎ PHƯƠNG THỨC HỦY HÓA ĐƠN THEO NGHỊ ĐỊNH 70/2025/NĐ-CP"
 
-    Căn cứ theo quy định mới tại Nghị định số 70/2025/NĐ-CP sửa đổi, bổ sung Nghị định 123/2020/NĐ-CP về hóa đơn, chúng tôi xin thông báo:
+    Căn cứ theo quy định mới tại Nghị định số 254/2026/NĐ-CP sửa đổi, bổ sung Nghị định 123/2020/NĐ-CP về hóa đơn, chúng tôi xin thông báo:
 
     🔸 Từ thời điểm Nghị định có hiệu lực, phương thức "HUỶ HOÁ ĐƠN” chính thức bị bãi bỏ. Việc xử lý sai sót về hóa đơn sẽ được thực hiện thông qua hình thức “ĐIỀU CHỈNH” (API `api/InvoiceApi78/DieuChinh`) hoặc “THAY THẾ” (API `api/InvoiceApi78/ThayThe`) hóa đơn theo đúng quy định hiện hành.
 
