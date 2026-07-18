@@ -37,7 +37,7 @@ tags:
          z-index: 0;">
 </div>
 
-# **Câu hỏi thường gặp về Hóa đơn điện tử theo Nghị định 70/2025/NĐ-CP**
+# **Câu hỏi thường gặp về Hóa đơn điện tử theo Nghị định 254/2026/NĐ-CP và Thông tư 91/2026/TT-BTC**
 
 ???+ note "Nội dung"
 

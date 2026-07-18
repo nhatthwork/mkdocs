@@ -11,7 +11,7 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ???+ Note "Mục đích"
 
-    Theo khoản 2 Điều 1 Nghị định 141/2026/NĐ-CP (có hiệu lực từ 20/05/2026): rường hợp hộ kinh doanh, cá nhân kinh doanh có nhiều địa điểm kinh doanh thì sử dụng mã số thuế của hộ kinh doanh, cá nhân kinh doanh cho tất cả các cửa hàng và phải ghi rõ mã địa điểm kinh doanh trên hóa đơn.
+    Theo khoản 2 Điều 1 Nghị định 141/2026/NĐ-CP (có hiệu lực từ 20/05/2026): Trường hợp hộ kinh doanh, cá nhân kinh doanh có nhiều địa điểm kinh doanh thì sử dụng mã số thuế của hộ kinh doanh, cá nhân kinh doanh cho tất cả các cửa hàng và phải ghi rõ mã địa điểm kinh doanh trên hóa đơn.
 
 <p align="center" style="font-weight: bold;">Hướng dẫn chi tiết để khách hàng có thể khai báo địa điểm kinh doanh </p>
 
@@ -27,17 +27,34 @@ Dưới đây là những hướng dẫn thao tác cơ bản trên phần mềm 
 
 ![Hình 3](../../assets/images/invoice2/2.0_keo-bien-70_1.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 4: Chọn mẫu hóa đơn đang và muốn sử dụng => Bấm Sửa**
 
-![Hình 4](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-2.png "Hãy bấm vào để xem rõ hơn")
+=== "Cách 1: Trường hợp chỉnh sửa ký hiệu đang sử dụng"
+    ### **Bước 4: Chọn mẫu hóa đơn đang và muốn sử dụng => Bấm Sửa**
 
-### **Bước 5: Chọn Địa điểm kinh doanh trong mẫu in => Bấm lưu**
+    ![Hình 4](../../assets/images/invoice2/chinh-mau-hoa-don/chinh-mau-2.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 5](../../assets/images/invoice2/khai-bao-ddkd/khai-bao-ddkd-mau-hd.png "Hãy bấm vào để xem rõ hơn")
+    ### **Bước 5: Chọn Địa điểm kinh doanh trong mẫu in => Bấm lưu**
 
-### **Bước 6: Quay lại hóa đơn đầu ra để kiểm tra lại thông tin nhập liệu**
+    ![Hình 5](../../assets/images/invoice2/khai-bao-ddkd/khai-bao-ddkd-mau-hd.png "Hãy bấm vào để xem rõ hơn")
 
-![Hình 6](../../assets/images/invoice2/khai-bao-ddkd/nhap-lieu-ddkd.jpg "Hãy bấm vào để xem rõ hơn")
+    ### **Bước 6: Quay lại hóa đơn đầu ra để kiểm tra lại thông tin nhập liệu**
+
+    ![Hình 6](../../assets/images/invoice2/khai-bao-ddkd/nhap-lieu-ddkd.jpg "Hãy bấm vào để xem rõ hơn")
+
+
+=== "Cách 2: Trường hợp sử dụng theo ký hiệu mới"
+    ### **Bước 4: Bấm Thêm để tạo ký hiệu mới**
+
+    ![Hình 4](../../assets/images/invoice2/chinh-mau-hoa-don/them-mau.png "Hãy bấm vào để xem rõ hơn")
+
+    ### **Bước 5: Anh/chị chọn mẫu mà mình muốn sử dụng và chỉnh sửa thông tin mẫu theo nhu cầu**
+    ![Hình 5](../../assets/images/invoice2/khai-bao-ddkd/chon-mau-hoa-don.png "Hãy bấm vào để xem rõ hơn")
+
+    ![Hình 5](../../assets/images/invoice2/khai-bao-ddkd/them-truong-dia-diem.jpg "Hãy bấm vào để xem rõ hơn")
+
+    ### **Bước 6: Quay lại hóa đơn đầu ra để kiểm tra lại thông tin nhập liệu**
+
+    ![Hình 6](../../assets/images/invoice2/khai-bao-ddkd/nhap-lieu-ddkd.jpg "Hãy bấm vào để xem rõ hơn")
 
 
 Như vậy bạn đã hoàn thành việc khai báo địa điểm kinh doanh trên hóa đơn
@@ -48,4 +65,4 @@ Như vậy bạn đã hoàn thành việc khai báo địa điểm kinh doanh tr
 
 ![Hình 6](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 5, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>July 18, 2026</strong> by <strong>Datvt</strong></div>
