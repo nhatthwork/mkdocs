@@ -84,7 +84,7 @@ nav = [
             { "Hướng dẫn thao tác ký biên bản người mua" = "minvoice1/xu-ly-sai-sot/huong-dan-ky-bien-ban-nguoi-mua.md" },
             { "Thay thế hóa đơn" = "minvoice1/xu-ly-sai-sot/thay-the.md" },
             { "Điều chỉnh hóa đơn" = "minvoice1/xu-ly-sai-sot/dieu-chinh.md" },
-
+            { "Điều chỉnh/Thay thế nhiều hóa đơn có đính kèm bảng kê" = "minvoice1/xu-ly-sai-sot/dieu-chinh-va-thay-the-nhieu-hoa-don.md" },
             { "Các trường hợp điều chỉnh hoá đơn" = [
                 { "Điều chỉnh tăng đơn giá hàng hóa" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md" },
                 { "Điều chỉnh tăng số lượng hàng hóa" = "minvoice1/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-so-luong-hang-hoa.md" },
@@ -195,6 +195,7 @@ nav = [
             { "Thay thế hóa Đơn" = "minvoice2/xu-ly-sai-sot/thay-the-hoa-don.md" },
             { "Thay thế và điều chỉnh hóa Đơn trên hệ thống khác" = "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-tren-he-thong-khac.md" },
             { "Điều chỉnh / Thay thế hóa đơn ở năm cũ VD: hóa đơn bị sai ở năm 2025" = "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-hoa-don-o-nam-cu.md" },
+            { "Điều chỉnh / Thay thế nhiều hóa đơn" = "minvoice2/xu-ly-sai-sot/dieu-chinh-va-thay-the-nhieu-hoa-don.md" },
 
             { "Các trường hợp điều chỉnh hoá đơn" = [
                 { "Điều chỉnh tăng đơn giá hàng hóa" = "minvoice2/xu-ly-sai-sot/cach-viet-thong-tin-tren-hoa-don-dieu-chinh-tang-don-gia-hang-hoa.md" },
@@ -295,7 +296,8 @@ nav = [
         { "Danh mục và báo cáo" = [
             { "Bảng kê bán ra - mua vào" = "msmi/bang-ke.md" },
             { "Báo cáo nhận vào PMKT" = "msmi/bao-cao-pmkt.md" },
-            { "Tờ khai thuế 01GTGT" = "msmi/to-khai-thue01.md" }
+            { "Tờ khai thuế 01GTGT" = "msmi/to-khai-thue01.md" },
+            { "Báo cáo tổng hợp theo thuế suất" = "msmi/bao-cao-tong-hop-theo-thue-suat.md" }
         ]}
 ]},
 
