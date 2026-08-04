@@ -3,7 +3,7 @@ icon: lucide/file-pen-line
 tags:
   - invoice1
 ---
-# **ĐIỀU CHỈNH/THAY THẾ NHIỀU HÓA ĐƠN ĐÍNH KÈM BẢNG KÊ**
+# **ĐIỀU CHỈNH/THAY THẾ NHIỀU HÓA ĐƠN**
 
 ???+ Note "Mục đích"
 
@@ -124,4 +124,4 @@ Sau khi hoàn thiện thông tin hóa đơn đính kèm bảng kê, người dù
 
 ![Hình 5](../../assets/images/invoice1/1.0_suaTienBangTay_5.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Jun 17, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Aug 04, 2026</strong> by <strong>datvt</strong></div>

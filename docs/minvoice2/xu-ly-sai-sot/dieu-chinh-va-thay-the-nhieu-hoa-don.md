@@ -32,7 +32,14 @@ tags:
 
     Khi tạo bảng kê và đã gán vào hóa đơn, nếu cần sửa bảng kê thì vui lòng xóa hóa đơn tạo lại
 
+##**Anh / chị thao tác và thực hiện như sau**
 
+<iframe style="width: 43rem; height: 380px"
+    src="https://www.youtube.com/embed/kfVAfCGy83E" 
+    frameborder="0" allowfullscreen>
+</iframe>
+
+##**Hướng dẫn chi tiết các bước như sau:**
 
 ### **Bước 1: Anh/chị chọn nghiệp vụ => Điều chỉnh / Thay thế nhiều hóa đơn**
 Người dùng chọn **Nghiệp vụ => Điều chỉnh/Thay thế nhiều hóa đơn**, lúc đó hệ thống hiển thị thông báo **Lập hóa đơn/Lập bảng kê**
@@ -79,4 +86,4 @@ Khi lưu thành công, hóa đơn sẽ trạng thái thay thế hoặc điều c
 
 ![Hình 5](../../assets/images/invoice2/hotro.png "Hãy bấm vào để xem rõ hơn")
 
-<div class="last-updated">Last updated on <strong>Dec 08, 2025</strong> by <strong>nhatth</strong></div>
+<div class="last-updated">Last updated on <strong>Aug 04, 2026</strong> by <strong>DATVT</strong></div>
