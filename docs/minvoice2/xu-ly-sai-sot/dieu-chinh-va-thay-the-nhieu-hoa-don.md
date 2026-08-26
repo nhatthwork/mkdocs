@@ -16,8 +16,7 @@ tags:
     - **Bước 1:** Lập bảng kê chứa danh sách chi tiết hóa đơn sai sót cần điều chỉnh
     - **Bước 2:** Tạo hóa đơn Điều chỉnh với Số bảng kê, Ngày bảng kê đã lập
 
-
- ## **Hướng dẫn điều chỉnh/thay thế nhiều hóa đơn có sai sót có đính kèm bảng kê**
+## **Hướng dẫn điều chỉnh/thay thế nhiều hóa đơn có sai sót có đính kèm bảng kê**
 
 ???+ Warning "Lưu ý"
 
@@ -32,26 +31,26 @@ tags:
 
     Khi tạo bảng kê và đã gán vào hóa đơn, nếu cần sửa bảng kê thì vui lòng xóa hóa đơn tạo lại
 
-##**Anh / chị thao tác và thực hiện như sau**
+###**Anh / chị thao tác và thực hiện theo video sau:**
 
 <iframe style="width: 43rem; height: 380px"
     src="https://www.youtube.com/embed/kfVAfCGy83E" 
     frameborder="0" allowfullscreen>
 </iframe>
 
-##**Hướng dẫn chi tiết các bước như sau:**
+###**Hướng dẫn chi tiết các bước như sau:**
 
-### **Bước 1: Anh/chị chọn nghiệp vụ => Điều chỉnh / Thay thế nhiều hóa đơn**
+#### **Bước 1: Anh/chị chọn nghiệp vụ => Điều chỉnh / Thay thế nhiều hóa đơn**
 Người dùng chọn **Nghiệp vụ => Điều chỉnh/Thay thế nhiều hóa đơn**, lúc đó hệ thống hiển thị thông báo **Lập hóa đơn/Lập bảng kê**
 
 ![Hình 1](../../assets/images/invoice2/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_1.png "Hãy bấm vào để xem rõ hơn")
 
 
-### **Bước 2: Anh/chị chọn lập bảng kê đính kèm**
+#### **Bước 2: Anh/chị chọn lập bảng kê đính kèm**
 
 ![Hình 2](../../assets/images/invoice2/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_2.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 3: Chọn thêm hóa đơn**
+#### **Bước 3: Chọn thêm hóa đơn**
 
 ![Hình 3](../../assets/images/invoice2/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_4.png "Hãy bấm vào để xem rõ hơn")
 
@@ -59,15 +58,15 @@ Anh/chị có thể lọc ra thông tin những hóa đơn cần thay thế rồ
 
 ![Hình 4](../../assets/images/invoice2/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_5.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 4: Anh/chị nhập lý do sai sót và thông tin anh/chị muốn thay thế => lưu và tạo hóa đơn**
+#### **Bước 4: Anh/chị nhập lý do sai sót và thông tin anh/chị muốn thay thế => lưu và tạo hóa đơn**
 
 ![Hình 5](../../assets/images/invoice2/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_6.png "Hãy bấm vào để xem rõ hơn")
 
 ???+ Warning "Lưu ý"
     Anh/chị nhập thông tin cần chỉnh sửa như tên hàng hóa dịch vụ, số lượng, đơn giá, ... vào **phần thông tin sau thay thế / điều chỉnh** => Phần mềm sẽ **tự động tính phần tiền chênh lệnh**
 
-### **Bước 5: Phần mềm sẽ tự tạo ra bảng kê dựa theo số bảng kê và ngày bảng kê đính kèm**
-    Anh/chị kiểm tra lại thông tin bảng kê và chỉnh sửa lại diễn giải tại tên hàng (Nếu cần) => Lưu hoặc lưu và ký
+#### **Bước 5: Phần mềm sẽ tự tạo ra bảng kê dựa theo số bảng kê và ngày bảng kê đính kèm**
+Anh/chị **kiểm tra lại thông tin** bảng kê và chỉnh sửa lại **diễn giải tại tên hàng (Nếu cần)** => **Lưu** hoặc **lưu và ký**
     
 ![Hình 6](../../assets/images/invoice2/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_7.png "Hãy bấm vào để xem rõ hơn")
 
@@ -78,6 +77,15 @@ Phần mềm sẽ có **thông báo** để xác nhận **lưu hóa đơn và b�
 Khi lưu thành công, hóa đơn sẽ trạng thái thay thế hoặc điều chỉnh và có thông tin **Nhiều HĐ** ở bên cạnh để cảnh báo đây là hóa đơn thay thế / điều chỉnh cho nhiều hóa đơn
 
 ![Hình 2](../../assets/images/invoice2/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_9.png "Hãy bấm vào để xem rõ hơn")
+
+#### **Bước 6: Anh/chị bấm "ký và gửi cqt" để hoàn thành điều chỉnh/thay thế cho nhiều hóa đơn**
+
+???+ Note
+    **Anh/chị có thể xem bảng kê của các hóa đơn điều chỉnh/thay thế**
+
+    Chọn **Xử lý sai sót => Bảng kê điều chỉnh/thay thế**
+
+    ![Hình 14](../../assets/images/invoice2/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_10.png "Hãy bấm vào để xem rõ hơn")
 
 
 ???+ info "Xin chân thành cảm ơn quý khách hàng đã tin dùng sản phẩm của M-Invoice"

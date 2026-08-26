@@ -285,7 +285,8 @@ nav = [
             { "Đồng bộ thông báo sai sót 04/SS" = "msmi/dong-bo-04ss.md" },
             { "Đồng bộ hoá đơn qua email" = "msmi/huong-dan-dong-bo-hoa-don-qua-email.md" },
             { "Kiểm tra tình trạng số lượng hóa đơn mSMI" = "msmi/kiem-tra-so-luong-ban-quyen.md" },
-            { "Cảnh báo mật khẩu hết hạn" = "msmi/canh-bao-mat-khau-het-han.md" }
+            { "Cảnh báo mật khẩu hết hạn" = "msmi/canh-bao-mat-khau-het-han.md" },
+            { "Đồng bộ Chứng từ khấu trừ thuế TNCN" = "msmi/chung-tu-tncn.md" }
         ]},
 
         { "Các lỗi thường gặp khi sử dụng phần mềm" = [
@@ -293,11 +294,24 @@ nav = [
             { "Lấy lại mật khẩu trang Hoadondientu" = "msmi/lay-mat-khau-hddt.md" }
         ]},
 
+        { "Thuế điện tử" = [
+            { "Quản lý tài khoản thuế điện tử" = [
+                { "Đăng nhập tài khoản thuế điện tử" = "msmi/login-thue-dien-tu.md" },
+                { "Chỉnh sửa tài khoản thuế điện tử" = "msmi/chinh-sua-thue-dien-tu.md" },
+                { "Đăng xuất tài khoản thuế điện tử" = "msmi/dang-xuat-thue-dien-tu.md" }
+            ]},
+            { "Quản lý tờ khai" = [
+                { "Đồng bộ thủ công tờ khai" = "msmi/dong-bo-to-khai.md" },
+                { "Tra cứu và hiển thị danh sách" = "msmi/tra-cuu-hien-thi-to-khai.md" }
+            ] }
+        ]},
+
         { "Danh mục và báo cáo" = [
             { "Bảng kê bán ra - mua vào" = "msmi/bang-ke.md" },
             { "Báo cáo nhận vào PMKT" = "msmi/bao-cao-pmkt.md" },
             { "Tờ khai thuế 01GTGT" = "msmi/to-khai-thue01.md" },
-            { "Báo cáo tổng hợp theo thuế suất" = "msmi/bao-cao-tong-hop-theo-thue-suat.md" }
+            { "Báo cáo tổng hợp theo thuế suất" = "msmi/bao-cao-tong-hop-theo-thue-suat.md" },
+            { "Báo cáo Chứng từ khấu trừ thuế TNCN" = "msmi/bao-cao-tncn.md" }
         ]}
 ]},
 

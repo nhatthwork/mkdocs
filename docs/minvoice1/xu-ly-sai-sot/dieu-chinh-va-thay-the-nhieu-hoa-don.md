@@ -116,7 +116,15 @@ Sau khi hoàn thiện thông tin hóa đơn đính kèm bảng kê, người dù
 
 ![Hình 14](../../assets/images/invoice1/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_13.png "Hãy bấm vào để xem rõ hơn")
 
-### **Bước 5: Ký gửi CQT, kiểm tra kết quả**
+### **Bước 5: Ký và gửi CQT, kiểm tra kết quả**
+
+???+ Note
+    **Anh/chị có thể xem bảng kê của các hóa đơn điều chỉnh/thay thế**
+
+    Chọn **hóa đơn NĐ70/NĐ254 => Bảng kê => Bk Hóa đơn thay thế, điều chỉnh**
+
+    ![Hình 14](../../assets/images/invoice1/tt-dc-nhieu-hoa-don/tt-dc-nhieu-hoa-don_16.png "Hãy bấm vào để xem rõ hơn")
+
 
 !!! info "Xin chân thành cảm ơn Quý khách hàng đã tin dùng sản phẩm của M-Invoice"
 
