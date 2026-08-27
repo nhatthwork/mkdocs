@@ -465,7 +465,8 @@ nav = [
 { "Tài liệu" = [
         { "Tài liệu kỹ thuật 🖥️" = [
             "tai-lieu/huong-dan-dinh-danh-to-chuc.md",
-            "tai-lieu/tai-lieu-ky-thuat/huong-dan-dang-ky-tai-khoan-giao-dich-thue-dien-tu-cho-ho-kinh-doanh.md"
+            "tai-lieu/tai-lieu-ky-thuat/huong-dan-dang-ky-tai-khoan-giao-dich-thue-dien-tu-cho-ho-kinh-doanh.md",
+            "tai-lieu/tai-lieu-ky-thuat/e-com-ket-noi-tmdt.md"
         ]},
 
         { "Tài liệu kinh doanh 💼" = [
